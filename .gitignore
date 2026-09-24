@@ -1,0 +1,50 @@
+# Compiled binaries
+*.out
+*.exe
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+Makefile
+compile_commands.json
+
+# Build directories
+build/
+bin/
+dist/
+
+# Debug files
+*.dSYM/
+*.stackdump
+core
+core.*
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Competitive Programming local files
+input.txt
+output.txt
+*.in
+*.ans
+
+# Personal/local configuration
+.env
