@@ -3,7 +3,6 @@ using namespace std;
 
 int main(){
 
-
     vector<int>v;
     v.push_back(30);
     v.push_back(10);
@@ -22,13 +21,9 @@ int main(){
     v.pop_back();
     v.pop_back();
     
-
-    cout<<"The Value After the Slicing of the value : -";
-    cout<<v.at(0)<<endl;
-    cout<<v.at(1)<<endl;
-    cout<<v.at(2)<<endl;
-    cout<<v.at(3)<<endl;
-
+    for(int i = v.begin(); i !=v.end();i++){
+        cout<<v[i]<<endl;
+    }
 
     return 0;
 }
