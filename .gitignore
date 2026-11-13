@@ -48,3 +48,10 @@ output.txt
 
 # Personal/local configuration
 .env
+# VS Code scratch source and extensionless compiler output
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile
+/A_Beautiful_Matrix
+/R_Age_in_Days
+/m_capital_or_Small_or_Digit
+/t_sort_numbers
