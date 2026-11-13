@@ -1,0 +1,41 @@
+{
+  "id": "49D",
+  "order": 287,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Game",
+  "rating": 1800,
+  "tags": [
+    "brute force",
+    "dp",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/49/D",
+  "source": "problems/49D/main.cpp",
+  "statement": "problems/49D/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "38aa0ef437864151671efc87b4adfed491f2715774068454fe3c6c1100a22991",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "58c71bb7ecc01be6f03e79460be2d435c56e79924392faad59978d7aa2a5500e",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "1ecfba37c0e738bde6ea6a784081a08f601c8563fa91a6947bc97946c57577de",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "34726e13cf0b94c276d8c241aba847d5e39b070bdd3cebbdd5c093bdd0516acd",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "49/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

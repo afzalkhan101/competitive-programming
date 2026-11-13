@@ -1,0 +1,36 @@
+{
+  "id": "217A",
+  "order": 321,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Ice Skating",
+  "rating": 1200,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "dsu",
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/217/A",
+  "source": "problems/217A/main.cpp",
+  "statement": "problems/217A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "0f49f38825552b9028eb7f56d40e18ada2e3cd1f93173bade6ff0c31ca69d7e9",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "67197fe245d289a27737f234eac97a7a4a764c5970ab10dc39e8ddf91f87dbd4",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "217/A",
+  "aliases": [
+    "218/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

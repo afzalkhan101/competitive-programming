@@ -1,0 +1,37 @@
+{
+  "id": "180F",
+  "order": 437,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Mathematical Analysis Rocks!",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/180/F",
+  "source": "problems/180F/main.cpp",
+  "statement": "problems/180F/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "9ae217bf8f045f9a0113dde47ce597f64f1bb9b5f64410e6b968445e3b313b74",
+      "output": "b945ef55d693c8cb480adbd1137cf7ac23a0afd8f4065b218f1395a6850e6211"
+    },
+    {
+      "input": "9c3c41d966e15aa1c1e5c3a21b459fae1bab6e778664204690ea2a590205eb01",
+      "output": "ea0bb8553c65366abe09cd0b01574eaa6e0c1fdcf6095d32a5fce4f85457183a"
+    },
+    {
+      "input": "6b8d205e4231dd1afd21799eb5c2e88233f2ce85a5b8969776b012ada6fffc6b",
+      "output": "e57acc10f53c55bd65c8462f1402834edd30e4f41203988a0cac5aff6122a614"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "180/F",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

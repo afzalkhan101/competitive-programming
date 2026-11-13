@@ -1,0 +1,35 @@
+{
+  "id": "127A",
+  "order": 401,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Wasted Time",
+  "rating": 900,
+  "tags": [
+    "geometry"
+  ],
+  "url": "https://codeforces.com/problemset/problem/127/A",
+  "source": "problems/127A/main.cpp",
+  "statement": "problems/127A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "74fe90672f4b9b6e9d338723dab8138ab0d7b97d290dfeac36d8c79c82c5d7cd",
+      "output": "0780c45d2d75e8112bad04eb932582fea152aed2ade8749133a88d03a155cfb0"
+    },
+    {
+      "input": "5fd9b2a8349ea5531bac27fd1cfe568964b5a61d62f76852dd83fff6fbf681b3",
+      "output": "d3762cf4268bccba0556302a83e6c9091027acd576027c6e5129ea9f54eb6807"
+    },
+    {
+      "input": "e9aedfa39df6762d6334d5161cbdd176279bbdbc7ff9e1365231030996381ede",
+      "output": "bc1f9db08a26cf42a29dc979eb03fb956f44cc3f9248afb726cd7673fecaccef"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "127/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

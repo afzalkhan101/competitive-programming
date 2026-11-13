@@ -1,0 +1,33 @@
+{
+  "id": "198B",
+  "order": 342,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Jumping on Walls",
+  "rating": 1400,
+  "tags": [
+    "shortest paths"
+  ],
+  "url": "https://codeforces.com/problemset/problem/198/B",
+  "source": "problems/198B/main.cpp",
+  "statement": "problems/198B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ddae0990e0ea4c972c5c272d265ac975df577f9aa2836ef7bfb78c9619684a2a",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "be0edf2f9163ac9400a1182f7157e6a23fc1dc5a3c3fa23af79a213e07829f1b",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "198/B",
+  "aliases": [
+    "199/D"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,36 @@
+{
+  "id": "51C",
+  "order": 288,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Three Base Stations",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/51/C",
+  "source": "problems/51C/main.cpp",
+  "statement": "problems/51C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "ebc5ce4c74c5b202e0f6ccf6e7361d16df4997e4bda790d3aab1200931586a65",
+      "output": "f2a69a043d892aa903fb354d2618c3dc61d2f9d6b61392d9a670fbddc06504c3"
+    },
+    {
+      "input": "453ee8e117f6d6b22f3ab1c8e62d976db10291a2021604eb1c5ef0b32c0ffa9f",
+      "output": "308f0da361114bf628d170b69f2d31daf4b838e8d9ead905596430de84273016"
+    },
+    {
+      "input": "0d019ffa6645290289a9171897ad68862bec468e40b64b725a43c6184addebeb",
+      "output": "fd19bdcb8880d79881fb9f664a278ddab95397dab1271df156c700bd08427928"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "51/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

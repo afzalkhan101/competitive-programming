@@ -1,0 +1,35 @@
+{
+  "id": "55C",
+  "order": 495,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Pie or die",
+  "rating": 1900,
+  "tags": [
+    "games"
+  ],
+  "url": "https://codeforces.com/problemset/problem/55/C",
+  "source": "problems/55C/main.cpp",
+  "statement": "problems/55C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "986f8b28181f515707f1f6f6d5384c476e62d5cd0ae0b6cab4db567dc409c195",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "71db41c11efd724760b2886ce78611c976db3bbcd8ee14e79c31255c3cff95de",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "762e52cc1d76b48a8b2b70e9c769110e845a58992edc38268753c77580a2b13d",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "55/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,38 @@
+{
+  "id": "515B",
+  "order": 151,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Drazil and His Happy Friends",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "dsu",
+    "meet-in-the-middle",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/515/B",
+  "source": "problems/515B/main.cpp",
+  "statement": "problems/515B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "c1e61bf39feb2dc7f44a7b0eb07baee19b4f575450b8e56a09fae824378fcc40",
+      "output": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e"
+    },
+    {
+      "input": "aea34ca846fccc85088e1024811e13d4ff754177a4d710d9e2d84dd47cf66200",
+      "output": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d"
+    },
+    {
+      "input": "870f52f4fc85ef5a849345199fc3d14e70981e274010ec29d67261e12603bd47",
+      "output": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "515/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

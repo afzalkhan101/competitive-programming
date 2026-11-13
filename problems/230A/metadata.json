@@ -1,0 +1,32 @@
+{
+  "id": "230A",
+  "order": 217,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Dragons",
+  "rating": 1000,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/230/A",
+  "source": "problems/230A/main.cpp",
+  "statement": "problems/230A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "e8b1f5cdebf0aeed6f3619f0705ce2a35bfb2eb1b4e12df372784996d03ba4dd",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "1d896daead686418a15a6b63f3823243f964d377029c4f05f20c3cb8b4185b22",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "230/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

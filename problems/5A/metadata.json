@@ -1,0 +1,31 @@
+{
+  "id": "5A",
+  "order": 52,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Chat Server's Outgoing Traffic",
+  "rating": 1000,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/5/A",
+  "source": "problems/5A/main.cpp",
+  "statement": "problems/5A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "9242519c71efc966353b5769c5301551f7624f0c6a9c51f002ef5695df646347",
+      "output": "19581e27de7ced00ff1ce50b2047e7a567c76b1cbaebabe5ef03f7c3017bb5b7"
+    },
+    {
+      "input": "1274dc77719291fcb1fc83c343ed04d26489869485e5c8518f6fb173959e35ea",
+      "output": "8527a891e224136950ff32ca212b45bc93f69fbb801c3b1ebedac52775f99e61"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "5/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 64.0
+}

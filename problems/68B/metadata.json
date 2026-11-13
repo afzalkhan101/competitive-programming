@@ -1,0 +1,31 @@
+{
+  "id": "68B",
+  "order": 267,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Energy exchange",
+  "rating": 1600,
+  "tags": [
+    "binary search"
+  ],
+  "url": "https://codeforces.com/problemset/problem/68/B",
+  "source": "problems/68B/main.cpp",
+  "statement": "problems/68B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "a8e02142f54846f677c6058da5daa7a23926f62d321287260dd968429cf78748",
+      "output": "af73b38e74355e25f7a89615152727a8dec814c0fb7e20d5e4032d83b2d9745f"
+    },
+    {
+      "input": "53db2c24bd93de3c059abecf1e05983ecdaa0bef6207b2d3dfa3d1f98ccc307f",
+      "output": "ce6dd6051d59bc85c39f8c941a6ea628e5de6a0cd1c98aa962692c6cf582d056"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "68/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

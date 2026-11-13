@@ -1,0 +1,33 @@
+{
+  "id": "72E",
+  "order": 486,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Ali goes shopping",
+  "rating": 1800,
+  "tags": [
+    "*special",
+    "brute force",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/72/E",
+  "source": "problems/72E/main.cpp",
+  "statement": "problems/72E/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "a667282675f4876021d392aa6592f39dabf718748c4b738563cb9d5dc8f21f24",
+      "output": "fb8e20fc2e4c3f248c60c39bd652f3c1347298bb977b8b4d5903b85055620603"
+    },
+    {
+      "input": "88d4266fd4e6338d13b845fcf289579d209c897823b9217da3e161936f031589",
+      "output": "88d4266fd4e6338d13b845fcf289579d209c897823b9217da3e161936f031589"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "72/E",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 5.0,
+  "memoryLimit": 256.0
+}

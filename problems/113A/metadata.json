@@ -1,0 +1,38 @@
+{
+  "id": "113A",
+  "order": 467,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Grammar Lessons",
+  "rating": 1600,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/113/A",
+  "source": "problems/113A/main.cpp",
+  "statement": "problems/113A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "3667791642e38a8ab09987a0b5e051bdbb374937fd775cac9a8322c61a3ec0a2",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "c3aece45a5ceb6f71f007c7ae3e09916189c5c93b97a6f4ed818c93b0a287392",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "e218544a5d58b16b4343c66b4154bdd8768d0cdc073cf2a81f91267050b2e4d0",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "113/A",
+  "aliases": [
+    "114/C"
+  ],
+  "offline": true,
+  "timeLimit": 5.0,
+  "memoryLimit": 256.0
+}

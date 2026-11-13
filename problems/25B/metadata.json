@@ -1,0 +1,31 @@
+{
+  "id": "25B",
+  "order": 80,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Phone numbers",
+  "rating": 1100,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/25/B",
+  "source": "problems/25B/main.cpp",
+  "statement": "problems/25B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "fc74fbdcabc71554105ae85fe43dc54a2e84495f157730e8b213c3d0cf84e6e9",
+      "output": "af0ba880aa06dc393e2deeb2c2d2333d99b4f4fb2fdada17b630fd78dd3c40f3"
+    },
+    {
+      "input": "581f574fb7ff98f7978519275f1d5aed9cf883610d88b74e7e1df4752ef610ab",
+      "output": "604ffc42c36cd2aaff1bdbe9437ddb93623c4804e5ce4c36da97ebc217aa854f"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "25/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

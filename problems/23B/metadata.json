@@ -1,0 +1,29 @@
+{
+  "id": "23B",
+  "order": 353,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Party",
+  "rating": 1600,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/23/B",
+  "source": "problems/23B/main.cpp",
+  "statement": "problems/23B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "e9348026dce8dd4e0af38f67b21c407c4515a6e8a7fd6da2cc30428c21968ff9",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "23/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

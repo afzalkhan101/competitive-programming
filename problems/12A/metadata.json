@@ -1,0 +1,31 @@
+{
+  "id": "12A",
+  "order": 3,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Super Agent",
+  "rating": 800,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/12/A",
+  "source": "problems/12A/main.cpp",
+  "statement": "problems/12A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "62db2463dad1adf3765a0c473d06bab3d5201e6501c28906abee40fa84d27b9a",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "601c1ccf5a6e693a67038ac65988b88437fe253ce3daaa5edd356754b8b0bcbd",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "12/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

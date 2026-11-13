@@ -1,0 +1,27 @@
+{
+  "id": "52A",
+  "order": 33,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "123-sequence",
+  "rating": 900,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/52/A",
+  "source": "problems/52A/main.cpp",
+  "statement": "problems/52A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "fbccaf96f98ee95de9bc71a65dcb23a5f26ff9176e02b07a12451380874b0e18",
+      "output": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "52/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

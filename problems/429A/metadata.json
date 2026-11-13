@@ -1,0 +1,30 @@
+{
+  "id": "429A",
+  "order": 333,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Xor-tree",
+  "rating": 1300,
+  "tags": [
+    "dfs and similar",
+    "trees"
+  ],
+  "url": "https://codeforces.com/problemset/problem/429/A",
+  "source": "problems/429A/main.cpp",
+  "statement": "problems/429A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "fce5611f6047c3c230d62dba99fff7c5cc04c8fb2415741b06cd10b798ac0275",
+      "output": "30cba8718218831231deaef5a8b41cdd5a7d4fb9fb769ec37a4035cd9e63355c"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "429/A",
+  "aliases": [
+    "430/C"
+  ],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

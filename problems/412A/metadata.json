@@ -1,0 +1,36 @@
+{
+  "id": "412A",
+  "order": 209,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Poster",
+  "rating": 900,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/412/A",
+  "source": "problems/412A/main.cpp",
+  "statement": "problems/412A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "9c356780b868976b25ba5360d7ff58a747ade62eae7d7aada5d210a273b6c901",
+      "output": "0bbdf0901232c4ee000fd7e752395ba527f1a215634f7b79c391793640faea4c"
+    },
+    {
+      "input": "b628feecc3e26a4276361f4fab38d6a7041701d5f663395170e2e3192f2d01a9",
+      "output": "02db4065d5751c37db04f249926d26026d6e999faf76a0185a7929f5824c6be6"
+    },
+    {
+      "input": "b92c1c8d8bbc5253fcbd058e39059b17b8c7b74a4797d44dbac7d6c485773973",
+      "output": "f0d110e69a57ef6cb3d7fe0b3c5a6e5b87533708587ae39d8ac6b58545b9e887"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "412/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

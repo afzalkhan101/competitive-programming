@@ -1,0 +1,33 @@
+{
+  "id": "100G",
+  "order": 376,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Name the album",
+  "rating": 1800,
+  "tags": [
+    "*special",
+    "data structures",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/100/G",
+  "source": "problems/100G/main.cpp",
+  "statement": "problems/100G/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "f6b4617f1b575c7541b4a4f5e9c80a9121ccbcb4058a0e962880d2957cc8701e",
+      "output": "0eb8c0868476e08b343c4763bdf27ac476a87e6bf313ac0cf0ebcebac0528df2"
+    },
+    {
+      "input": "54659c42e29f906850849054ae10c2d5c8dc349553c4e7d2d811de072515f673",
+      "output": "1ffdd1a5a988dcf387255604499a873beb637b8c86735e12434f0deb5174e372"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "100/G",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

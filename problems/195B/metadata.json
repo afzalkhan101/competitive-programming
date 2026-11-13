@@ -1,0 +1,33 @@
+{
+  "id": "195B",
+  "order": 330,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "After Training",
+  "rating": 1300,
+  "tags": [
+    "data structures",
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/195/B",
+  "source": "problems/195B/main.cpp",
+  "statement": "problems/195B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "c33a915bed8c8aa8a4a28414bb9424904099b1d0f8a4244f9077b3b13113cf98",
+      "output": "6d4b46e7fd87cbbb6a3acd3d7a1cc9ca3a6e245731758c0d828cd07e35ca341d"
+    },
+    {
+      "input": "290a8619b6aedf7fbe04cfbba79841f7dbc4aff436746a4b371f2a99c8733de4",
+      "output": "3a146bbd8507fe79a1c260aba824775ccf6c0841a9234338ad8e92d0bc009394"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "195/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

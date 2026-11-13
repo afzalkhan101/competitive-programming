@@ -1,0 +1,38 @@
+{
+  "id": "271B",
+  "order": 149,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Prime Matrix",
+  "rating": 1300,
+  "tags": [
+    "binary search",
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/271/B",
+  "source": "problems/271B/main.cpp",
+  "statement": "problems/271B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "e6aeec17942212043b55b14dbc17e58c7ff6eb8a5b576fb1d3cbfcd0354c005a",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "2a833c9bb3588f05d5e6c9ec0371941455f093e853612c5999a96e087cffa430",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    },
+    {
+      "input": "0c42ee46191e381453ecbf782ec717c710a08ded3b6d644c793afb4252f57cf4",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "271/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

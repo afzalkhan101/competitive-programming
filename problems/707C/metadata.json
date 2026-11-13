@@ -1,0 +1,44 @@
+{
+  "id": "707C",
+  "order": 168,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Pythagorean Triples",
+  "rating": 1500,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/707/C",
+  "source": "problems/707C/main.cpp",
+  "statement": "problems/707C/problem.md",
+  "samples": 5,
+  "sampleHashes": [
+    {
+      "input": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce",
+      "output": "37cea345359e1afdfc365b9a948f34466ee978d2bdece5e3514de791708142f2"
+    },
+    {
+      "input": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683",
+      "output": "70f1e8469e0633233ddb610aa2a8b2f3e8e91eff5b6fe27e63ff93329e6bf626"
+    },
+    {
+      "input": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    },
+    {
+      "input": "4523540f1504cd17100c4835e85b7eefd49911580f8efff0599a8f283be6b9e3",
+      "output": "4a750811def093ecd507744121f76d22f07e1597237844f8cefdce43522ede26"
+    },
+    {
+      "input": "49d180ecf56132819571bf39d9b7b342522a2ac6d23c1418d3338251bfe469c8",
+      "output": "b2eadae06ca27cd1965a012ef8fc4e1e0f75f54461fa8029ac0fc52e68d24fb4"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "707/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

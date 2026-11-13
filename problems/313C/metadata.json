@@ -1,0 +1,34 @@
+{
+  "id": "313C",
+  "order": 455,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Ilya and Matrix",
+  "rating": 1400,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/313/C",
+  "source": "problems/313C/main.cpp",
+  "statement": "problems/313C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "71c90b7f54cc14b74550d519a702ca667e23ab42d6071b172800db30df79fd29",
+      "output": "3fdba35f04dc8c462986c992bcf875546257113072a909c162f7e470e581e278"
+    },
+    {
+      "input": "ebc5ce4c74c5b202e0f6ccf6e7361d16df4997e4bda790d3aab1200931586a65",
+      "output": "8527a891e224136950ff32ca212b45bc93f69fbb801c3b1ebedac52775f99e61"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "313/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

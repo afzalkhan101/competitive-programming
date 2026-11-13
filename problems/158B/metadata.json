@@ -1,0 +1,33 @@
+{
+  "id": "158B",
+  "order": 95,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Taxi",
+  "rating": 1100,
+  "tags": [
+    "*special",
+    "greedy",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/158/B",
+  "source": "problems/158B/main.cpp",
+  "statement": "problems/158B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "b917388d748b73ba7f552e33e7b008a4df5b45f97aaaeb22eb0b418ff7243db4",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "00c945763e15ec6a45ded29e3d71547604b053189f650bbe4e71472c8dd73f7b",
+      "output": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "158/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "246A",
+  "order": 203,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Buggy Sorting",
+  "rating": 900,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/246/A",
+  "source": "problems/246A/main.cpp",
+  "statement": "problems/246A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "246/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

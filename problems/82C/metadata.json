@@ -1,0 +1,33 @@
+{
+  "id": "82C",
+  "order": 392,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "General Mobilization",
+  "rating": 2000,
+  "tags": [
+    "data structures",
+    "dfs and similar",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/82/C",
+  "source": "problems/82C/main.cpp",
+  "statement": "problems/82C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "88140bc92f5ffa7a757c5fc084df4a72d6e60d1d7f750dbc59e5e735a9557833",
+      "output": "0ad3f96ae726c4565ef4070ac7fc07ad0fb05ff3657e59cc5cf2ad9ec5a4c081"
+    },
+    {
+      "input": "7afebe2af3c04cfc4f5ae697d09ecf44d9550e04935fa3a2a0f17ec1791797ce",
+      "output": "974e45a06c25a5ec6350101944e4f54c9fea2d95f93a8d5f99ecca37f601f9c6"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "82/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

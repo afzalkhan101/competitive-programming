@@ -1,0 +1,40 @@
+{
+  "id": "60A",
+  "order": 244,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Where Are My Flakes?",
+  "rating": 1300,
+  "tags": [
+    "implementation",
+    "two pointers"
+  ],
+  "url": "https://codeforces.com/problemset/problem/60/A",
+  "source": "problems/60A/main.cpp",
+  "statement": "problems/60A/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "1fc58da04adba8af1fffbd8b5786406c0390e27c8f4f0c62cbef502c74a6edb6",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "ef2a24cb18ad98dbffd3ebb6e48203463f28e40c702c20e8a35e354696a88ba8",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "1f77fa789685b5c59a78c9d101db0146953d61cc966dfcdf7b2727552cd27770",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "32fd28ab8bf17225848fa6ca8ae01a87075f9ea27db85279e42c4470d3cc6e24",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "60/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

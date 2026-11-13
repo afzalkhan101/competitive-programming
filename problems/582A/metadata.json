@@ -1,0 +1,39 @@
+{
+  "id": "582A",
+  "order": 182,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "GCD Table",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/582/A",
+  "source": "problems/582A/main.cpp",
+  "statement": "problems/582A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "3c56bf111469e03cdf10fd2b50de1b12963b8371d2073c2857be5441cfa47681",
+      "output": "652b5b2f947f3dc3899beacb677752e505cc50b9749701fe80c7254693ea252e"
+    },
+    {
+      "input": "312d4a66f897e10b6237de3ba392a9511395f523e5b536dae6f7a8bc0837a305",
+      "output": "73475cb40a568e8da8a045ced110137e159f890ac4da883b6b17dc651b3a8049"
+    },
+    {
+      "input": "6e9af2782ebe6fcdf71be0c270f41711a3161e9bb267b959c91322855566a788",
+      "output": "020a7c91e30725bb191818987340dec6040aff93923840de685e1e1d7b3d071a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "582/A",
+  "aliases": [
+    "583/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

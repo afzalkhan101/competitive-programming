@@ -1,0 +1,32 @@
+{
+  "id": "66E",
+  "order": 390,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Petya and Post",
+  "rating": 2000,
+  "tags": [
+    "data structures",
+    "dp"
+  ],
+  "url": "https://codeforces.com/problemset/problem/66/E",
+  "source": "problems/66E/main.cpp",
+  "statement": "problems/66E/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "f46bc25506378b3336523197f5515232d475858ebc9359f128db883b51bee4b3",
+      "output": "28418e6ffbd117c410decbc15b03ca063ac24c1f4196c2f0558c9f64584d9628"
+    },
+    {
+      "input": "81cdd15d4aa18e16527e53be5a7646e74f9facd78a199bd6b6d2b79e83bc7545",
+      "output": "717a9631cdf799b8a2e7d9160435d73e3d5ab550a1129b5a2663b6d33f788e89"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "66/E",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

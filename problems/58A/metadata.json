@@ -1,0 +1,32 @@
+{
+  "id": "58A",
+  "order": 59,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Chat room",
+  "rating": 1000,
+  "tags": [
+    "greedy",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/58/A",
+  "source": "problems/58A/main.cpp",
+  "statement": "problems/58A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "5de53433d84a3acbf47ee5e834f4856b2b364077d29ca97eb1b3c0efac5752e5",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "8bd44b61dfdc1c144579af171df483036506a9e5291f1f5536ba0fc66e6de94a",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "58/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

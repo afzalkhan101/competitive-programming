@@ -1,0 +1,34 @@
+{
+  "id": "467B",
+  "order": 427,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Fedor and New Game",
+  "rating": 1100,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/467/B",
+  "source": "problems/467B/main.cpp",
+  "statement": "problems/467B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "eb03eb3e5ed4d3813bba95e9f29935a44c6ecc2d0cf9339fddbe5cb8a6a1f402",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "bffed0373cf056acda785fc31a8e14f27ade91c67554411987aecf219a09e3e1",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "467/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

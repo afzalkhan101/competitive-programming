@@ -1,0 +1,37 @@
+{
+  "id": "29D",
+  "order": 385,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Ant on the Tree",
+  "rating": 2000,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "trees"
+  ],
+  "url": "https://codeforces.com/problemset/problem/29/D",
+  "source": "problems/29D/main.cpp",
+  "statement": "problems/29D/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "d86b0ae270478cbd9c707adc7e313a3041cca334b9685da6e3560028709ff4c0",
+      "output": "29a7b13befa81013f3e6d6a5532c397f2ecf9093342262bee43e73751a8aa744"
+    },
+    {
+      "input": "3a95769d59f4e087eaeacee5f226fe098a0cbcea000afe682ae3c7cabef5bfba",
+      "output": "649285bd1654e5ceefe16aa5261018a5b6d60e9236c16e45a73f41422859a6c9"
+    },
+    {
+      "input": "ddd6a1f14eb6cac6be05a80d94fbc2cb0ca6df4b3bfd55bfe57348eabeadeebe",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "29/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,32 @@
+{
+  "id": "222B",
+  "order": 331,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Cosmic Tables",
+  "rating": 1300,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/222/B",
+  "source": "problems/222B/main.cpp",
+  "statement": "problems/222B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "b133b8e65401e7062df45baba30e7b8e20551fda44f9e867f74d9a5fd0d3aefc",
+      "output": "df73ff3d2ff0f54a23aa9069f7a2cd5d696bc921fc64042435cb98f52e578e03"
+    },
+    {
+      "input": "310306b11b5d6f04990b67e22980d361ef3ce99d23e63077af46ccb1981684f0",
+      "output": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "222/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

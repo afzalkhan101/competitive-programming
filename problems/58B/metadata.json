@@ -1,0 +1,35 @@
+{
+  "id": "58B",
+  "order": 243,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Coins",
+  "rating": 1300,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/58/B",
+  "source": "problems/58B/main.cpp",
+  "statement": "problems/58B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5",
+      "output": "20462148b4911e87c437a17b8f1f98fa8078ad6ec8f35c3d3ef0b27e28a49be9"
+    },
+    {
+      "input": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a",
+      "output": "91387e9e35fc6f75875bf190fd214d7a368a4db6f81c0232ec3a46ad4a84b34e"
+    },
+    {
+      "input": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce",
+      "output": "290a8619b6aedf7fbe04cfbba79841f7dbc4aff436746a4b371f2a99c8733de4"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "58/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

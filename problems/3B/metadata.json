@@ -1,0 +1,28 @@
+{
+  "id": "3B",
+  "order": 292,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Lorry",
+  "rating": 1900,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/3/B",
+  "source": "problems/3B/main.cpp",
+  "statement": "problems/3B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "e8cf5ecf40c3fadec76429442a474e72ada0cc363c34da63eef5c6ec686c8832",
+      "output": "4eb158b77ac1938f42a084ea924699c5ab3d47ff602b94a787a2f274bc6e154b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "3/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

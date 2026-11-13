@@ -1,0 +1,36 @@
+{
+  "id": "427B",
+  "order": 312,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Prison Transfer",
+  "rating": 1100,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/427/B",
+  "source": "problems/427B/main.cpp",
+  "statement": "problems/427B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "48979c7e40cc039c615eb09719b09403132bb5e5ba71c506206333a8182d01df",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "44013253d444a0a084b90d04275a89e3879fa5fe3f628b8ddbe6d7203213dc0b",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "2e95374f60993abb50a8a4917ff8b49e4e90983ff3c6fcf5e2b4c76a5f52c36f",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "427/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

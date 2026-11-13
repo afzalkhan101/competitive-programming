@@ -1,0 +1,32 @@
+{
+  "id": "168B",
+  "order": 482,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Wizards and Minimal Spell",
+  "rating": 1700,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/168/B",
+  "source": "problems/168B/main.cpp",
+  "statement": "problems/168B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "c21d8619d32bb8fa605abc7f7f9acc00fdaf4fc9c661972717acfbc8a588c3fd",
+      "output": "2707af1354ac15c804e75aaa4e3333a94ff4dcd317c8eb56a4169275048d89d8"
+    },
+    {
+      "input": "8f2f9042cb242a1daa0091273acc673da67a13ac89fd48a1ede43586f1cc47b6",
+      "output": "8f2f9042cb242a1daa0091273acc673da67a13ac89fd48a1ede43586f1cc47b6"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "168/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

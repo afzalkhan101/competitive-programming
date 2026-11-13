@@ -1,0 +1,32 @@
+{
+  "id": "108A",
+  "order": 67,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Palindromic Times",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/108/A",
+  "source": "problems/108A/main.cpp",
+  "statement": "problems/108A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "2ebdbf4df52763198170b944d95a4a455db08b978c3300ea71cd7c9135041d6b",
+      "output": "34dca05627be741f971f62d0e4acdaa8d3fd7c37b1f00a9e7cd08475eb935f48"
+    },
+    {
+      "input": "9d16aac260eaa948db79c7b5bffd8f61a7c0c06ea5e934d042f73374f294e2c3",
+      "output": "07b9fcbb6ab70f1c6819e4f2276cc4b307905e077675aadb2e4076fefcd68ecd"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "108/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

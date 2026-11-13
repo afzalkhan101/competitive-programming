@@ -1,0 +1,38 @@
+{
+  "id": "460B",
+  "order": 164,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Little Dima and Equation",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/460/B",
+  "source": "problems/460B/main.cpp",
+  "statement": "problems/460B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "cc445c73740078ade072bdae83acf4295d64e3353b66ef98b136ac7133d28065",
+      "output": "9ae27ed84ffa18c0be25ce011229abf60b80acc180e08f7488ae5781c7d89add"
+    },
+    {
+      "input": "47dbb4e34d6bc998236d3b62ad3b8cb13770ae4549bfe1f60a564ad133aee08b",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "2b05067c7746a4542cf7a70e7ff9f641aafd1a2b8ab3fb4c9eecd503ed32e245",
+      "output": "ee3bf25409d6031bb6782eb4b82ef2dee81268f86d6bafe7894780510afb00e5"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "460/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

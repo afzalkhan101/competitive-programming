@@ -1,0 +1,39 @@
+{
+  "id": "137A",
+  "order": 41,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Postcards and photos",
+  "rating": 900,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/137/A",
+  "source": "problems/137A/main.cpp",
+  "statement": "problems/137A/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "4ba4a3e01ccad29cd19c1fd47702f2555b67db8760c3b11590d873dd0ed01d4d",
+      "output": "7902699be42c8a8e46fbbb4501726517e86b22c56a189f7625a6da49081b2451"
+    },
+    {
+      "input": "ef51f8bc84d06f806188bc856744d22d7b2550389e39cdeb8191be0e7894424a",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "5875d2aff2d57a879a71fa4c3d0a1fc0980ad8755c8c1c247e0fff5ec4cd8218",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    },
+    {
+      "input": "add4757fb77db09a4a3b60876a9f96e8ddce23013e1dc3416f988e4e6b3b8918",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "137/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

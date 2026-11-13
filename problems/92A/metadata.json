@@ -1,0 +1,36 @@
+{
+  "id": "92A",
+  "order": 21,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Chips",
+  "rating": 800,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/92/A",
+  "source": "problems/92A/main.cpp",
+  "statement": "problems/92A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "079e4950426ee81ef6fda406cbb499bc97014691a46490146fb8032a66fd19f5",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "5377ac5c360874cae984b49cb829bcf75aafdac1b00df657e969eb9ac9d2213e",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "f4702dca8e9380e2700b7c3a1a2533730772fa55025fed25da51893723bf7da8",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "92/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

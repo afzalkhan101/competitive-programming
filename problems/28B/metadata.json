@@ -1,0 +1,37 @@
+{
+  "id": "28B",
+  "order": 354,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "pSort",
+  "rating": 1600,
+  "tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/28/B",
+  "source": "problems/28B/main.cpp",
+  "statement": "problems/28B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "0b68f19dba95399a61d22a4daa085fc398bca9485799d034889e59faa3056a21",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "35a0f13478e0d41343aca6239380749f5228e206fbd3cf61d5498fdbc235ed79",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "e800ab40aca74e2d7f63893bc30a0077215fd3e83ea3fa34dca34246085e06e9",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "28/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

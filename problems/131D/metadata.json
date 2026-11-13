@@ -1,0 +1,32 @@
+{
+  "id": "131D",
+  "order": 356,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Subway",
+  "rating": 1600,
+  "tags": [
+    "dfs and similar",
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/131/D",
+  "source": "problems/131D/main.cpp",
+  "statement": "problems/131D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "313c45c0c591134767727da0e5b99364eb231e43fcac18d78c5baf0220893cd9",
+      "output": "f7a6c106dd2f1b3f0931bc9333e6d8772a1b7399f07ccd8b030952c1341aab16"
+    },
+    {
+      "input": "08ae8d6d9ff88a7ab3f098d2df6d60819c9461ba40b179c7a0f2fbbe9cb427fe",
+      "output": "10028212fdd9961e7b17855509e4cde95263cae8180bdabbfc8bfe718c7151bd"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "131/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

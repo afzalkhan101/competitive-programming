@@ -1,0 +1,30 @@
+{
+  "id": "575H",
+  "order": 192,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Bots",
+  "rating": 1800,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/575/H",
+  "source": "problems/575H/main.cpp",
+  "statement": "problems/575H/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+      "output": "9400f1b21cb527d7fa3d3eabba93557a18ebe7a2ca4e471cfe5e4c5b4ca7f767"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "575/H",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.5,
+  "memoryLimit": 256.0
+}

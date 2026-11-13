@@ -1,0 +1,33 @@
+{
+  "id": "94B",
+  "order": 329,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Friends",
+  "rating": 1300,
+  "tags": [
+    "graphs",
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/94/B",
+  "source": "problems/94B/main.cpp",
+  "statement": "problems/94B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "358ca0f4f7b0f7fe0f21a66b9851ac1f8115b2267b27abba4cb55bc2e7484d21",
+      "output": "0f92be0c4b13ce9b1adcb8b77ea1e7f272ae38fe698d5e9000e1122ce30378c0"
+    },
+    {
+      "input": "a5eac2720b6fc9ebda86c41860911c3b7b1e92f41aebfa1493fe2aeed249c7e7",
+      "output": "425305e25df9df108e011164f7ca97522276cf1bc67b8aec3a7139cd60fb9a81"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "94/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

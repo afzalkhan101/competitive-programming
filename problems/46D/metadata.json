@@ -1,0 +1,36 @@
+{
+  "id": "46D",
+  "order": 370,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Parking Lot",
+  "rating": 1800,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/46/D",
+  "source": "problems/46D/main.cpp",
+  "statement": "problems/46D/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "70ee863bf57802cfbeb24e5647d176093b46fb0a52983fe6dcdaf507e9375014",
+      "output": "e82aa85ac9371c52f93e6b454406225433ddb0fa275c22fd697735ca4ffdc948"
+    },
+    {
+      "input": "f3ec020d9966e9c8999303ef81dfbedc2c2840b49da154a9516f90b01660694f",
+      "output": "f942cc2183ad906c56ff9d53112eeebd6739b8f934738dfbc49dae3d09f6706e"
+    },
+    {
+      "input": "059d56af38bb7a55b672396d236e15a61a771d016e50856fc7293e77c49d6f7e",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "46/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

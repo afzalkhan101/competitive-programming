@@ -1,0 +1,32 @@
+{
+  "id": "147A",
+  "order": 443,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Punctuation",
+  "rating": 1300,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/147/A",
+  "source": "problems/147A/main.cpp",
+  "statement": "problems/147A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "2bcfff70813cb0a25195d170c27009fadf60e48641b1d9586235b4a5d984b405",
+      "output": "ef95a71e612e4a17dc8ad6307a0bbd55880c850e47509f8d11495671d6b887fb"
+    },
+    {
+      "input": "e486bf9f030d48031c2d08b0d6800a536080ea6fb9ad0c43143e22db06efe52e",
+      "output": "d1fe6aba6fd3a9f80d815cde6002c939a8ae41d991399a1bcc89ae525eebd8e6"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "147/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

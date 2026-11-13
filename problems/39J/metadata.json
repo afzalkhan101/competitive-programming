@@ -1,0 +1,37 @@
+{
+  "id": "39J",
+  "order": 457,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Spelling Check",
+  "rating": 1500,
+  "tags": [
+    "hashing",
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/39/J",
+  "source": "problems/39J/main.cpp",
+  "statement": "problems/39J/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "f1c76a7aa8b71d7b7c1c9c0db95c12818e64ed97187793898431fb988d69298c",
+      "output": "e9348026dce8dd4e0af38f67b21c407c4515a6e8a7fd6da2cc30428c21968ff9"
+    },
+    {
+      "input": "b57820515e38e0c76ddfeb537bc4cb34beb04e5affcc4c6bb52ece435a425410",
+      "output": "3f3866d69cbba2ea4e3df4d1de18af95cc9e02f84df9144776f4ad2f6b35958d"
+    },
+    {
+      "input": "912090587a3221e828789248d4d8a11ebb737fc8f7add813fa6f138c70856328",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "39/J",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

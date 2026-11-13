@@ -1,0 +1,32 @@
+{
+  "id": "130A",
+  "order": 39,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Hexagonal numbers",
+  "rating": 900,
+  "tags": [
+    "*special",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/130/A",
+  "source": "problems/130A/main.cpp",
+  "statement": "problems/130A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    },
+    {
+      "input": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+      "output": "811786ad1ae74adfdd20dd0372abaaebc6246e343aebd01da0bfc4c02bf0106c"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "130/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

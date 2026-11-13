@@ -1,0 +1,28 @@
+{
+  "id": "9A",
+  "order": 2,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Die Roll",
+  "rating": 800,
+  "tags": [
+    "math",
+    "probabilities"
+  ],
+  "url": "https://codeforces.com/problemset/problem/9/A",
+  "source": "problems/9A/main.cpp",
+  "statement": "problems/9A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "73c6486e6a5c1897d40af5c75219b5e5310df7ce20f20d63559be25a28053341",
+      "output": "d939926f05444b0f4495fb9629ecbfa80d99a8ec1a20d06800ca5a3d5f4fd276"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "9/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 64.0
+}

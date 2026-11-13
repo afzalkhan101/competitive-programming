@@ -1,0 +1,35 @@
+{
+  "id": "45I",
+  "order": 250,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "TCMCF+++",
+  "rating": 1400,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/45/I",
+  "source": "problems/45I/main.cpp",
+  "statement": "problems/45I/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "382f618bc3d1361a2e1c2dbd32d53504f15d094a2feb9ac089fdd11541775218",
+      "output": "3feb960877f0231e4bfddbddc3d220f1a2afe6d3eed3a52b41dc9633531e62d6"
+    },
+    {
+      "input": "31e64cd9566202baa8f90350edd034a9b25aa7ae152f92b327fcac65ef76c618",
+      "output": "5796fe9b2ed2ad3bcad4fa6fb03bd66cf2119c649e97ebff0d5adc7e3d06b1b9"
+    },
+    {
+      "input": "4cac5fe6fe30e89b0d1f32791ed2fa33511dbca91370f910fc702e7a4a515700",
+      "output": "d85922dacbc4bbc7a43dd4ba1539c67b7390b64cc76f5135847aa6aec55337ed"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "45/I",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

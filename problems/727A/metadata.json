@@ -1,0 +1,37 @@
+{
+  "id": "727A",
+  "order": 302,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Transformation: from A to B",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/727/A",
+  "source": "problems/727A/main.cpp",
+  "statement": "problems/727A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "b388bc66c4f17b17e99708dc1f6812cff57fa611195b26a3d5df6790e368bdf4",
+      "output": "fdf4f217c68dc3659c7946d63fe9938846c88776646ead6bbbdf50fbc03726c5"
+    },
+    {
+      "input": "3fb15246f8369664846ce8370b812d64dfb9840170001695f0cdc533e6ca548f",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "435e061db957a75c3981bef9a2c4c485e6d87bb0f63c1d32b8bab139c8a2b6d0",
+      "output": "98012455b67aa9a69bc4794c2858623cbaf73a5cb4716eac898157a1b123eb70"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "727/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

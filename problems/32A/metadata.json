@@ -1,0 +1,31 @@
+{
+  "id": "32A",
+  "order": 7,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Reconnaissance",
+  "rating": 800,
+  "tags": [
+    "brute force"
+  ],
+  "url": "https://codeforces.com/problemset/problem/32/A",
+  "source": "problems/32A/main.cpp",
+  "statement": "problems/32A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "565ed81afaef86d8d84958d20282348375e69289aa411d84b054dd9c3c1f4187",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    },
+    {
+      "input": "8453cd32e0390f9e1432250f973afb3d466b5bf08970cd9174b90993d310e140",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "32/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

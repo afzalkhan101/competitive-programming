@@ -1,0 +1,28 @@
+{
+  "id": "368B",
+  "order": 310,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Sereja and Suffixes",
+  "rating": 1100,
+  "tags": [
+    "data structures",
+    "dp"
+  ],
+  "url": "https://codeforces.com/problemset/problem/368/B",
+  "source": "problems/368B/main.cpp",
+  "statement": "problems/368B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "3f3441043018403cb69578238b238c3b0b3133992ca97962298c3ce4327073c2",
+      "output": "e2d23e2f4f389f17258070563a11032085d5986474fb788de7e121b03ec9b439"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "368/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

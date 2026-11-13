@@ -1,0 +1,37 @@
+{
+  "id": "31B",
+  "order": 259,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Sysadmin Bob",
+  "rating": 1500,
+  "tags": [
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/31/B",
+  "source": "problems/31B/main.cpp",
+  "statement": "problems/31B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "9326f9d56dd59df705db6b5dd0fd008b0c305b52cc8e420b0e39dd21d85df19e",
+      "output": "6437c7db245c210776b471304f42ca0eb6705a6935ee161030508e120b1131d6"
+    },
+    {
+      "input": "d79c70eecef4473284572043ee8c7e5ad2c25a8015a71eff9c3d4e359665c631",
+      "output": "840d38405d19aebed9488b6aeae0d4ea99b0c29742814555cc6bcd698febedf5"
+    },
+    {
+      "input": "ac437fb0086e16b2bd38b3e2fd8f0e153d37265ef4540c2ea72203006ceecb4f",
+      "output": "840d38405d19aebed9488b6aeae0d4ea99b0c29742814555cc6bcd698febedf5"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "31/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 0.5,
+  "memoryLimit": 256.0
+}

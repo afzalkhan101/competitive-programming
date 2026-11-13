@@ -1,0 +1,31 @@
+{
+  "id": "38A",
+  "order": 10,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Army",
+  "rating": 800,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/38/A",
+  "source": "problems/38A/main.cpp",
+  "statement": "problems/38A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "2ce67731360a4ddd1783cad9bf2f0c19a1152df1f6fd8fd3cd103a3b2c087aa5",
+      "output": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+    },
+    {
+      "input": "673574bc7f69becf3d8cc73a1a6998fd9503897dd9b82b49d214d1a3349e2d87",
+      "output": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "38/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

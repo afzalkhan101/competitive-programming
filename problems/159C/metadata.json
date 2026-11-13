@@ -1,0 +1,35 @@
+{
+  "id": "159C",
+  "order": 255,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "String Manipulation 1.0",
+  "rating": 1400,
+  "tags": [
+    "*special",
+    "binary search",
+    "brute force",
+    "data structures",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/159/C",
+  "source": "problems/159C/main.cpp",
+  "statement": "problems/159C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "5163831f83599ff2873d649e9f9a5b13e188d73946b14d4fec47441cfa6aa494",
+      "output": "8e9766083b3bfc2003f791c9853941b0ea035d16379bfec16b72d376e272fa57"
+    },
+    {
+      "input": "b7d9875a13c3e32595b36962516c7818b97e0d2f9147e61dcd4978a73cdc3176",
+      "output": "665edae6d52666d13e3573cc42f6799ca415b87312c3bd0fa37ea44e0de1fe64"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "159/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

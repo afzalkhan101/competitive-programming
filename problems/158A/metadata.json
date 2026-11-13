@@ -1,0 +1,32 @@
+{
+  "id": "158A",
+  "order": 22,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Next Round",
+  "rating": 800,
+  "tags": [
+    "*special",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/158/A",
+  "source": "problems/158A/main.cpp",
+  "statement": "problems/158A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "13209aaa751aab298d9b01a806ba82326e5a7ca74f87b6d3bcfbe3b3c1db3cbb",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    },
+    {
+      "input": "7e7c83737c845ad10dd8b9d060029301af91e694ccc91a40c487cad216b7b7ca",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "158/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

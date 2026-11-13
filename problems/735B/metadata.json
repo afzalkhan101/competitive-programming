@@ -1,0 +1,33 @@
+{
+  "id": "735B",
+  "order": 132,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Urbanization",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "number theory",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/735/B",
+  "source": "problems/735B/main.cpp",
+  "statement": "problems/735B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "9ed8b1deb762f7e51390404112e06adca596c9d9c97ee74d3362b295cb942455",
+      "output": "5e1e6fba48bf4e1657cc17360ec1e55fbc8c3d9b7a70447ec1835deec0592668"
+    },
+    {
+      "input": "45b341f1ea20bfd008175074e0d701f5bfb2938f3579f6523f63e103aeac50e1",
+      "output": "f819f4aad08b3a98b8b8909c0a3be90fdfa69a1e1aefe07096c74fa3a42fb5df"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "735/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

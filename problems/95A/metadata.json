@@ -1,0 +1,38 @@
+{
+  "id": "95A",
+  "order": 466,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Hockey",
+  "rating": 1600,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/95/A",
+  "source": "problems/95A/main.cpp",
+  "statement": "problems/95A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "1c6be90e878cf7947e017a73fe0ea9f259181a7e479d88ec845cb3ae6637138e",
+      "output": "119f7cdb127b9a7ed9aa6bdf2530c9814279dff17fdc526fd807b77b852fb708"
+    },
+    {
+      "input": "a6d37878eebbfab812fdc61a8a317320267de6d3e0e658bc7b98385fdeee0cc1",
+      "output": "00db3966c4efdca52658ff9d3cc7dad0744ae570bbcad844d0faf059db424da1"
+    },
+    {
+      "input": "c2d145e0ee8bf93d0bad935bc5da2f43f27c5bdb098a66974ab17b720de6e784",
+      "output": "d1f8cac2cdc42e1f7a07466860ab22ffaf53ea8254b9e8f812c6fbce41fbf43d"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "95/A",
+  "aliases": [
+    "96/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

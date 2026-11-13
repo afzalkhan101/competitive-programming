@@ -1,0 +1,32 @@
+{
+  "id": "25C",
+  "order": 378,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Roads in Berland",
+  "rating": 1900,
+  "tags": [
+    "graphs",
+    "shortest paths"
+  ],
+  "url": "https://codeforces.com/problemset/problem/25/C",
+  "source": "problems/25C/main.cpp",
+  "statement": "problems/25C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "76d5ead7705e812fcd98322eb3a2c8a10ac778e094574beea242464a27d00618",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    },
+    {
+      "input": "c562821e7c40d758ebbfd7a925312ca64564ac80ebe9a7e96ef1aeccf3c954d1",
+      "output": "664fcc628e781b2297f13f03cf3ff17c83493536e16093c8a4cdf18581a0095d"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "25/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

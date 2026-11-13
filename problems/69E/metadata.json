@@ -1,0 +1,32 @@
+{
+  "id": "69E",
+  "order": 373,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Subsegments",
+  "rating": 1800,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/69/E",
+  "source": "problems/69E/main.cpp",
+  "statement": "problems/69E/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "8f843def3bd60e132f913585844fdc90283c7dc106d741f4e76e37cc5adcedc9",
+      "output": "187ebbe1019c047167ca86cead42f0f3c6a52011753060db15516d59dfb8cead"
+    },
+    {
+      "input": "0487c70798d01d4c115aa02cbd9d34ea7a3f899814e4274f07874c5c40e025e3",
+      "output": "2ef0acc67dabaa05d0dca3fae94cd0d251c47a42dbad512adaf65bcc02d85bd5"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "69/E",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

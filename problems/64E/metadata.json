@@ -1,0 +1,34 @@
+{
+  "id": "64E",
+  "order": 187,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Prime Segment",
+  "rating": 1800,
+  "tags": [
+    "*special",
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/64/E",
+  "source": "problems/64E/main.cpp",
+  "statement": "problems/64E/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5",
+      "output": "e4cebc5001888915a29581a634871cb241b537a9cddabbaefbcc1e0cebbcd59f"
+    },
+    {
+      "input": "d6d824abba4afde81129c71dea75b8100e96338da5f416d2f69088f1960cb091",
+      "output": "a7b1d60bc44d18a33e8652524256a248c2c46f6cab77cab3c527b8be799e2d74"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "64/E",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

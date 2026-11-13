@@ -1,0 +1,28 @@
+{
+  "id": "1249B1",
+  "order": 306,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Books Exchange (easy version)",
+  "rating": 1000,
+  "tags": [
+    "dsu",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1249/B1",
+  "source": "problems/1249B1/main.cpp",
+  "statement": "problems/1249B1/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "2f47eebb119485e5e5af06c3f7a73ae2510057f77bc635d1861fe9749652abf5",
+      "output": "ec6f69c66cfb90b2ef0e7e21ff6a3ebf66eb6042370a39cae3ed008ef6067ec4"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1249/B1",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

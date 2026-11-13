@@ -1,0 +1,33 @@
+{
+  "id": "17A",
+  "order": 55,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Noldbach problem",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/17/A",
+  "source": "problems/17A/main.cpp",
+  "statement": "problems/17A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "eced7e362e9cb53716d52f57365114b3b6f942f02ea6429f5fedc581094ff75c",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "e9a5ce80182b25f15acca977b664c440b9d378db24e19ebbb68a02b7f6bc7556",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "17/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

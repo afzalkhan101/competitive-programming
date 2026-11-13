@@ -1,0 +1,40 @@
+{
+  "id": "107B",
+  "order": 270,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Basketball Team",
+  "rating": 1600,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "url": "https://codeforces.com/problemset/problem/107/B",
+  "source": "problems/107B/main.cpp",
+  "statement": "problems/107B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "36921e09478d3202dd51084a5fe9cd236ec1c8d72fa3bedf84f60d208fa265f0",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "e7df14cdb615cc9e7ee71ac46b0e8b019e6015a42a9b5d20b7bc8894021f0457",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    },
+    {
+      "input": "ef25146e04fa89049fc9ce4f37705b7767c970b324c566e97c4aee4aad9e6ac2",
+      "output": "3d4120be4766028539cafbf8af3c63dba464ac49236cea1e4630127a8856777f"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "107/B",
+  "aliases": [
+    "108/D"
+  ],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

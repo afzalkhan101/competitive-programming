@@ -1,0 +1,33 @@
+{
+  "id": "114B",
+  "order": 346,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "PFAST Inc.",
+  "rating": 1500,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/114/B",
+  "source": "problems/114B/main.cpp",
+  "statement": "problems/114B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "aead170b8aa45b276e180e5a0a501b8d224f8875886b3d08157552d7d73a2f61",
+      "output": "aa22fd38f129391aead6ca31abd8dea75bea3d074f447ef2d97d4b71165203a4"
+    },
+    {
+      "input": "59e516c57e490bce6f143989114fb328b3b2cf235d98e3afad81257e58cdf57c",
+      "output": "2ef4fe385c29adb146129cf6203eea091c571e79d5de7923b4fd7e133756b9f0"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "114/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

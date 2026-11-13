@@ -1,0 +1,32 @@
+{
+  "id": "4D",
+  "order": 274,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Mysterious Present",
+  "rating": 1700,
+  "tags": [
+    "dp",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/4/D",
+  "source": "problems/4D/main.cpp",
+  "statement": "problems/4D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "b2d060d72b6ab5609df4270ccff41eec33760b759ae95fcab2eb1587f3c795db",
+      "output": "c553228271d4cf65305957e97cd75da60964776a9e615c702bd6a4c077d266c0"
+    },
+    {
+      "input": "06cc353fc887cc9815c3842e8b34e33cb88203b2c3bfb670c14edcd8967bbbb9",
+      "output": "cc198b103c25558f600d06ff3660ef5b3bd16757567d5a6f9f2673373049c094"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "4/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 64.0
+}

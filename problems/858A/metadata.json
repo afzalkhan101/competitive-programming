@@ -1,0 +1,43 @@
+{
+  "id": "858A",
+  "order": 135,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "k-rounding",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/858/A",
+  "source": "problems/858A/main.cpp",
+  "statement": "problems/858A/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "b46763dacbb08fe957ded77de8e2a6027f3c4d76f3a4621e2848d849ef6f919a",
+      "output": "891937cb335016e9c7074c3781dcb1364e0c660733a8889bbeae83e6aa759be6"
+    },
+    {
+      "input": "58e44b12e218e0a8a442800d02e3d5ba9ea3124c5bccbbc19c480d9b64053d03",
+      "output": "39e5b4830d4d9c14db7368a95b65d5463ea3d09520373723430c03a5a453b5df"
+    },
+    {
+      "input": "733ebc1fa83b87864834f179e1acbcde874354fdd96bcf2236e52299479a3303",
+      "output": "a7719cf54f8aa93c71ad75a0300c811cfd04d475867aa36534e92931977a2ea1"
+    },
+    {
+      "input": "b5b837c5c3343de5349eda33a3ec5ab12e8bcca0ca1b113106b89d6b98fc257a",
+      "output": "4f835aa3469bf38739ba8efe4caf9f29831a15e8593ec2956f26422ec3dd3e63"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "858/A",
+  "aliases": [
+    "861/A"
+  ],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

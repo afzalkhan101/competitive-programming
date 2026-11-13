@@ -1,0 +1,37 @@
+{
+  "id": "126B",
+  "order": 478,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Password",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "dp",
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/126/B",
+  "source": "problems/126B/main.cpp",
+  "statement": "problems/126B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "0b16404c553f33b9c498d746cfb600d4855fae8ef145bd5903e73f00fece98e1",
+      "output": "1c6e6c4c02e55178e85890fc9bbed4ce046415ec8122bf38f711b779184ae2a0"
+    },
+    {
+      "input": "8a50a4422d673f463f8e4141d8c4b68c4f001ba16f83ad77b8a31bde53ee7273",
+      "output": "e1bc251511f875af926e835dd504face9879db161151f87cfed9e9350480f977"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "126/B",
+  "aliases": [
+    "127/D"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

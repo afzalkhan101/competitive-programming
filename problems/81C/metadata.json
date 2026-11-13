@@ -1,0 +1,37 @@
+{
+  "id": "81C",
+  "order": 279,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Average Score",
+  "rating": 1700,
+  "tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/81/C",
+  "source": "problems/81C/main.cpp",
+  "statement": "problems/81C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "c6b0dfb8ee1363aed30742d27b02264c11f2627261ee22ade661db9b07b289ea",
+      "output": "560eea471e17fc6d67d46491f898a1e60bd8d98dd86203f2f98dc14ba4c6c129"
+    },
+    {
+      "input": "1d0db7dcc16f8958f260d907331cc4ba683c509bbb6ffcdbbc977ef08109b72e",
+      "output": "f5139847000a019de1e80434b0a450fa2663009e6f5985e6074a3efc28c1f3df"
+    },
+    {
+      "input": "f1d2549a7852b4b98a563ca2a5c36d577bfa878c8fa24fcda060efb39aca3ec9",
+      "output": "cf9c52b48801c8556b438c7435144f4347b3c87341c2d8afa49bca402285a55e"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "81/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

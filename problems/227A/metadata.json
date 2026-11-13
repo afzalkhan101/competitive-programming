@@ -1,0 +1,35 @@
+{
+  "id": "227A",
+  "order": 444,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Where do I Turn?",
+  "rating": 1300,
+  "tags": [
+    "geometry"
+  ],
+  "url": "https://codeforces.com/problemset/problem/227/A",
+  "source": "problems/227A/main.cpp",
+  "statement": "problems/227A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "d83b1f5419e2e34b78a03d71ee1eec8029f2bbdd68bbc93044f45ecd4ff7ac06",
+      "output": "c4ce3c7ad82c8235da21fae8ea48e071a10e7b1c6df6a9e5b4603852d8b3001c"
+    },
+    {
+      "input": "3fbc083750d6bc616f976b298ec8f259ac79a01d6e24e619d8d01d1372ead2c8",
+      "output": "83018d403c6a30aa38a101a1ad4d242ce9fdafee1a9bd12cfa8a5736ff31aabe"
+    },
+    {
+      "input": "cc0b100ccafee0b1185a0aca1463124ac1ee552f64a18cf1d81b1c6d6675ed4d",
+      "output": "2cba9d25c1eaf7f3ef0e86b1562165b1d66e950ff5155de71b68049916145faf"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "227/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

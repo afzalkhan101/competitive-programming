@@ -1,0 +1,36 @@
+{
+  "id": "16C",
+  "order": 186,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Monitor",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/16/C",
+  "source": "problems/16C/main.cpp",
+  "statement": "problems/16C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "7329b40200bc32165bcf8feeecd721c8d6fbc6d04f3f7e4644cc6fc3fa000f8d",
+      "output": "6831ceb028fff1fe5a1db54e2c716c5cd6855295534ce3f60168dddd3526924a"
+    },
+    {
+      "input": "7b1cc98050dc5c2017355128b5e257305f0aaf59cdfa81617d5117a00e099164",
+      "output": "2b444a4c093e1e675dfb9bbd2347df3cb53237dcca78a3a4cbe5ce8802519e8d"
+    },
+    {
+      "input": "af15cae860261f8f219d41ef1e4113ec015a30f5dac9c7e926277e12acf78d23",
+      "output": "933305f987bcf5fb6c250018e35a6eee1528f06013807a4136ec13622909af97"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "16/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 0.5,
+  "memoryLimit": 64.0
+}

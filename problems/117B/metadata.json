@@ -1,0 +1,32 @@
+{
+  "id": "117B",
+  "order": 188,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Very Interesting Game",
+  "rating": 1800,
+  "tags": [
+    "brute force",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/117/B",
+  "source": "problems/117B/main.cpp",
+  "statement": "problems/117B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "96bf6ec00fc112505be39460d9dada66fc2d34bdfc704b4d3018ed3587bb81a8",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "b359573977fe93f93c147d7bf8d4fb33c6fafa5aa42b3987e82413cbe2304d20",
+      "output": "41fd4ba7126f70701672bf0a4ed461414a7c9adb307708c592f54116c3822248"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "117/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

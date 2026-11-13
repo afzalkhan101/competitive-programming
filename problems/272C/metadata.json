@@ -1,0 +1,38 @@
+{
+  "id": "272C",
+  "order": 351,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Dima and Staircase",
+  "rating": 1500,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/272/C",
+  "source": "problems/272C/main.cpp",
+  "statement": "problems/272C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "3515c1c0467d9018da20c70470cb939075b36907f7f4b69aadbdb32296e1c28d",
+      "output": "2b86d10f2f709a43611474ff0ceacc05a76f894557f3bb6b55755bdd0418256d"
+    },
+    {
+      "input": "e04c5417ca213653b2543a12d573b9d05986cf3041a3a7c795f0f0ccc9f15053",
+      "output": "e9348026dce8dd4e0af38f67b21c407c4515a6e8a7fd6da2cc30428c21968ff9"
+    },
+    {
+      "input": "3e87085358f0592add7f2a5d656e5761544f747717e10d0026e07300ec88678e",
+      "output": "c372a8b64e16aa55ceea251e4af7e4b81cb9931a623838f82f017783f060fcaf"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "272/C",
+  "aliases": [
+    "273/A"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "154B",
+  "order": 171,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Colliders",
+  "rating": 1600,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/154/B",
+  "source": "problems/154B/main.cpp",
+  "statement": "problems/154B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "475a45779eebcb81b874f61e5ca54ea6ccad2bef3f370956341749fe03ae8dac",
+      "output": "5876cd68700548ea60a67a6aceeb595c2e93e1085573adfb4216ddbc7fdf7cd4"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "154/B",
+  "aliases": [
+    "155/D"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

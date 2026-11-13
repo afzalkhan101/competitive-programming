@@ -1,0 +1,33 @@
+{
+  "id": "74B",
+  "order": 262,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Train",
+  "rating": 1500,
+  "tags": [
+    "dp",
+    "games",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/74/B",
+  "source": "problems/74B/main.cpp",
+  "statement": "problems/74B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "e7e5df63705d57e344d35759ad95edfa02ecd0e67fdb874e08adad15bcdd3a20",
+      "output": "986687f431d4094a697fa798a7d60013bdbfd496b53d8bb71ab8f89c1258edaa"
+    },
+    {
+      "input": "db51663034f1ff1531b6dc0a78ef1d5ca72dfb17ab2989f0269966a378465315",
+      "output": "9473780db8e6300f89f03d96877e8c5b4d21a223dc604488ba7296b5d7883e9b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "74/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

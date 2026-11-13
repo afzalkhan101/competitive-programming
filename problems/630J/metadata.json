@@ -1,0 +1,28 @@
+{
+  "id": "630J",
+  "order": 129,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Divisibility",
+  "rating": 1100,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/630/J",
+  "source": "problems/630J/main.cpp",
+  "statement": "problems/630J/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "a176eeb31e601c3877c87c2843a2f584968975269e369d5c86788b4c2f92d2a2",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "630/J",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 0.5,
+  "memoryLimit": 64.0
+}

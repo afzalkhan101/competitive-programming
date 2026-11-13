@@ -1,0 +1,32 @@
+{
+  "id": "78B",
+  "order": 433,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Easter Eggs",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/78/B",
+  "source": "problems/78B/main.cpp",
+  "statement": "problems/78B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3",
+      "output": "e0e447b7ed2ff90fa4326978735c8b245d23075c1d65817fa300a03645825d74"
+    },
+    {
+      "input": "3fdba35f04dc8c462986c992bcf875546257113072a909c162f7e470e581e278",
+      "output": "710d07e86962fd9e54bfca464b71f6333430521ad4d6ec82acf3390e63cdca10"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "78/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

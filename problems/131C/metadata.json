@@ -1,0 +1,32 @@
+{
+  "id": "131C",
+  "order": 449,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "The World is a Theatre",
+  "rating": 1400,
+  "tags": [
+    "combinatorics",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/131/C",
+  "source": "problems/131C/main.cpp",
+  "statement": "problems/131C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "b69c31ebde05b0c96889ea9cd38b16d48579e0bee94e7cca72b65fc9b29233c5",
+      "output": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5"
+    },
+    {
+      "input": "eab53500bc2e7181e61c4111e4ef059baf73edb47290d636bb3bb97a0d6ca6cb",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "131/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

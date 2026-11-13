@@ -1,0 +1,33 @@
+{
+  "id": "96B",
+  "order": 442,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Lucky Numbers (easy)",
+  "rating": 1300,
+  "tags": [
+    "binary search",
+    "bitmasks",
+    "brute force"
+  ],
+  "url": "https://codeforces.com/problemset/problem/96/B",
+  "source": "problems/96B/main.cpp",
+  "statement": "problems/96B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "c746ee2edf45fa00fca8d08045b2575aac17cf3eeb3f2b0da5e5301fae8d1e47",
+      "output": "822a8e0aad6a68a99ee9db27651f1f6115414b7a772984b3f6609246ffbe3ef5"
+    },
+    {
+      "input": "31489056e0916d59fe3add79e63f095af3ffb81604691f21cad442a85c7be617",
+      "output": "31489056e0916d59fe3add79e63f095af3ffb81604691f21cad442a85c7be617"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "96/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

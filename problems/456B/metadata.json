@@ -1,0 +1,32 @@
+{
+  "id": "456B",
+  "order": 140,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Fedya and Maths",
+  "rating": 1200,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/456/B",
+  "source": "problems/456B/main.cpp",
+  "statement": "problems/456B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "fb9832aed28606a06ae84fc83fef48b20c4a10bbc80bbcbd17478c76d906d961",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "456/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

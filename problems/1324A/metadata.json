@@ -1,0 +1,28 @@
+{
+  "id": "1324A",
+  "order": 114,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Yet Another Tetris Problem",
+  "rating": 900,
+  "tags": [
+    "implementation",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1324/A",
+  "source": "problems/1324A/main.cpp",
+  "statement": "problems/1324A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "af7c4236d2f6be494c942da3599a9483f41782f651da360bbd77742bee79219f",
+      "output": "4392817ae84030187c71baf00c6361568e8dad635ea21b46c78f138d402c662d"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1324/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

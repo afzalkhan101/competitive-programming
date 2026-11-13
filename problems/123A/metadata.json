@@ -1,0 +1,39 @@
+{
+  "id": "123A",
+  "order": 145,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Prime Permutation",
+  "rating": 1300,
+  "tags": [
+    "implementation",
+    "number theory",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/123/A",
+  "source": "problems/123A/main.cpp",
+  "statement": "problems/123A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad",
+      "output": "0541096bb7f89e765830c2ed0ee434fdb7e0a609aa650ab96ff6e001f0e5dff5"
+    },
+    {
+      "input": "88d4266fd4e6338d13b845fcf289579d209c897823b9217da3e161936f031589",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "dd9b87d9109f2314232ff3bca2224786372f6e23a59417cc54b4f5439e2107e2",
+      "output": "41103b02eddb4dbb64e710fd1cba9419ca70a9dff59ab401f83eada938f337ed"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "123/A",
+  "aliases": [
+    "124/C"
+  ],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

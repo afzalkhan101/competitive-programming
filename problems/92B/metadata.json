@@ -1,0 +1,35 @@
+{
+  "id": "92B",
+  "order": 246,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Binary Number",
+  "rating": 1300,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/92/B",
+  "source": "problems/92B/main.cpp",
+  "statement": "problems/92B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "630a85e4c6b4fcefcea5fdc8f76808b1954f8289bcff5965ae12f95e0dd40a7a",
+      "output": "6b51d431df5d7f141cbececcf79edf3dd861c3b4069f0b11661a3eefacbba918"
+    },
+    {
+      "input": "aba6fd86ec2e24b1c74220f9527bd35fbf2eef4087ca105aa5566ada54f9a808",
+      "output": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "92/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

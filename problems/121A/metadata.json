@@ -1,0 +1,33 @@
+{
+  "id": "121A",
+  "order": 93,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Lucky Sum",
+  "rating": 1100,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/121/A",
+  "source": "problems/121A/main.cpp",
+  "statement": "problems/121A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "7b13ac13a99e4bb1bbbcc536064bd39b77ad474229166adc9640f825fad9f55c",
+      "output": "c6f3ac57944a531490cd39902d0f777715fd005efac9a30622d5f5205e7f6894"
+    },
+    {
+      "input": "137c9a52db534fe419a6e96ed69ffbbaf698e3c2e26510900cca844bfb3fb0a2",
+      "output": "7902699be42c8a8e46fbbb4501726517e86b22c56a189f7625a6da49081b2451"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "121/A",
+  "aliases": [
+    "122/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

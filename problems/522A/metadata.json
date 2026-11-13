@@ -1,0 +1,39 @@
+{
+  "id": "522A",
+  "order": 327,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Reposts",
+  "rating": 1200,
+  "tags": [
+    "*special",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "trees"
+  ],
+  "url": "https://codeforces.com/problemset/problem/522/A",
+  "source": "problems/522A/main.cpp",
+  "statement": "problems/522A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "0cdb99049ae35c70c75e7676afc23d34ed2a2cfd47ec43c9c3d505cd33498f87",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    },
+    {
+      "input": "8eeb33f051ca502cb96cb5049be9b122d37c109e9d9641125a456758390e33ab",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "f116f52d86617a1894c1c55f84aef43cf26fcda950a01528801a8fbdc4dd026e",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "522/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

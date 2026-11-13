@@ -1,0 +1,36 @@
+{
+  "id": "648A",
+  "order": 405,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "\u041d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0438\u0439 \u043f\u043e\u0434\u044a\u0435\u043c",
+  "rating": 900,
+  "tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/648/A",
+  "source": "problems/648A/main.cpp",
+  "statement": "problems/648A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "584e68f3b90c194b7a7c963f18e3e72ad8a8c8f4597450c28ecea7efea32400e",
+      "output": "7f5564f0fafd57bfe1d569c9320f06a12364394e6ea245de8d919cc423e02868"
+    },
+    {
+      "input": "80214d990a1f05259bc17794134f13d639c1adee3040e177f67f7abdf1a3eb21",
+      "output": "8fad34bbb0c1ed095fbf1b50cb0e48785a030d5af68dc1a4957cbb583c3c1e5a"
+    },
+    {
+      "input": "2cf1a29fa775fbfd8eeed1a585a3ad92b1e20f846b497592198a2d24e1599135",
+      "output": "cf5b436a3be666f91c1085e8004b168ec0d69c1fa3587741e3805eda709c4255"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "648/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

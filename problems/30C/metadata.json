@@ -1,0 +1,32 @@
+{
+  "id": "30C",
+  "order": 283,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Shooting Gallery",
+  "rating": 1800,
+  "tags": [
+    "dp",
+    "probabilities"
+  ],
+  "url": "https://codeforces.com/problemset/problem/30/C",
+  "source": "problems/30C/main.cpp",
+  "statement": "problems/30C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "b5ffa505dfde4a4b746ffd21d3f25b74806bb0e17624ba33436ecdd5c33b4b8f",
+      "output": "686908709cb81a6ca67208b5790a110f95c79ff3e337d7da71f868cdfc7ca17a"
+    },
+    {
+      "input": "ca3f14123a7db845c83c5bda88cccb69c1f221e34db27bd39ec3c64c05e33f1c",
+      "output": "583d96fdb946140cea5cb24812dfbe109d8b8ab91c88754d1258046d3dd4a405"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "30/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

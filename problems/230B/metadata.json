@@ -1,0 +1,30 @@
+{
+  "id": "230B",
+  "order": 147,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "T-primes",
+  "rating": 1300,
+  "tags": [
+    "binary search",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/230/B",
+  "source": "problems/230B/main.cpp",
+  "statement": "problems/230B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "9750373ffe71c299623925c74aec32b27ffe2bca4eaf5db0ac25634654352643",
+      "output": "172f244b5f7d14c656c69baf4e4abc22eac32c38aa0ca6fb289da562110293e0"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "230/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

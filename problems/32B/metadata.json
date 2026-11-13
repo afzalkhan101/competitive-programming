@@ -1,0 +1,36 @@
+{
+  "id": "32B",
+  "order": 8,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Borze",
+  "rating": 800,
+  "tags": [
+    "expression parsing",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/32/B",
+  "source": "problems/32B/main.cpp",
+  "statement": "problems/32B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "f76bf3a8147ce8853e60a8a8bf036aa14d69492099cea18e0ba611f96ef7b073",
+      "output": "bf6aaaab7c143ca12ae448c69fb72bb4cf1b29154b9086a927a0a91ae334cdf7"
+    },
+    {
+      "input": "c575f6f49bfd16f5e6cf61180281abd6dfdb75a0148dc1a8fac56c92b46312c1",
+      "output": "f5ca38f748a1d6eaf726b8a42fb575c3c71f1864a8143301782de13da2d9202b"
+    },
+    {
+      "input": "1f40009be896e8307cb74bfe925342198d5e231159c676e4a05403e307850d1e",
+      "output": "165940940a02a187e4463ff467090930038c5af8fc26107bf301e714f599a1da"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "32/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

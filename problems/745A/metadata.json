@@ -1,0 +1,36 @@
+{
+  "id": "745A",
+  "order": 409,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Hongcow Learns the Cyclic Shift",
+  "rating": 900,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/745/A",
+  "source": "problems/745A/main.cpp",
+  "statement": "problems/745A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "88d4266fd4e6338d13b845fcf289579d209c897823b9217da3e161936f031589",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "3e744b9dc39389baf0c5a0660589b8402f3dbb49b89b3e75f2c9355852a3c677",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "515fbb58d6210b28bc36cd9a5befe5867f03df6a2453d6ce7ad085d343d65f16",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "745/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,40 @@
+{
+  "id": "61E",
+  "order": 384,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Enemy is weak",
+  "rating": 1900,
+  "tags": [
+    "data structures",
+    "trees"
+  ],
+  "url": "https://codeforces.com/problemset/problem/61/E",
+  "source": "problems/61E/main.cpp",
+  "statement": "problems/61E/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "466c7ba46618652fc40c184dd2ce7191e0ead2926f9026d8a763eeab57134dfe",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "993b61f9ae7fcab49b7a6427bf7af503a50f8f652ef37f3e1fa6af403fd9df18",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "2dc72620cbc16cbb5cf84a9fe1f600640eed465157375e22f8efefad6470652f",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "14650a10d86b8f40507be08effde885d5b05baa13143241c936613ece095a695",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "61/E",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 5.0,
+  "memoryLimit": 256.0
+}

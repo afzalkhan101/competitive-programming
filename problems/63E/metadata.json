@@ -1,0 +1,35 @@
+{
+  "id": "63E",
+  "order": 389,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Sweets Game",
+  "rating": 2000,
+  "tags": [
+    "bitmasks",
+    "dfs and similar",
+    "dp",
+    "games",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/63/E",
+  "source": "problems/63E/main.cpp",
+  "statement": "problems/63E/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "7ee4082b67bbbdfb0396572d64fb7657cc0a018fba74a461a5cd95fe66acf948",
+      "output": "8c7dc7700b1526e35d984e94736c511703cb4e2e08469eeddfd18289928cb323"
+    },
+    {
+      "input": "2d544f3f112032e56893fa4754ff4787bd8f73576ce1db3d6d921ff0c67956ee",
+      "output": "33650f074c6d6954fd348083327aa512f08159ecb6cf396efe27e1ccb9aca5f4"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "63/E",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

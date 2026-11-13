@@ -1,0 +1,33 @@
+{
+  "id": "787A",
+  "order": 143,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "The Monster",
+  "rating": 1200,
+  "tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/787/A",
+  "source": "problems/787A/main.cpp",
+  "statement": "problems/787A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "a5fd3cdd1acdbb8803e77cd168f8f8972f74f4a23c5584552dc92703ec6f26d1",
+      "output": "a46e37632fa6ca51a13fe39a567b3c23b28c2f47d8af6be9bd63e030e214ba38"
+    },
+    {
+      "input": "5b9a07d7979cb4d7ae96bdea5204d244ff3e1cd07864c662c74ddeba66011b0e",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "787/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,37 @@
+{
+  "id": "257A",
+  "order": 228,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Sockets",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/257/A",
+  "source": "problems/257A/main.cpp",
+  "statement": "problems/257A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "ce1da6912b97110eda4221387f398684dd636fc0c4e38981b1d4ca2d9cd32283",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "6de73cb36d2b62e0a80be52c691cd27652d9568280f969e7a5e96ae82c2c4c8d",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "6a742007192bfe1ff58a6dfa9037c6e11c70a70c5e6895f594acf9dc1e0ec337",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "257/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

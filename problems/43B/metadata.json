@@ -1,0 +1,40 @@
+{
+  "id": "43B",
+  "order": 82,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Letter",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/43/B",
+  "source": "problems/43B/main.cpp",
+  "statement": "problems/43B/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "e0770764e3acfe931d2873f93d684054f4046b50157fbb79c41911ce14014ee1",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "881836f67f5ca9ff101556ab294fc311ee3502678fddc648363771f5ed0157d9",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "1ec8da8b9e0148641111f05e699faa47933fd78ad27f7dab4145831c9c8aeae8",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "8ab5343d57b6b06822835b08af9515f849b070780a936033ed3499a161b99307",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "43/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,27 @@
+{
+  "id": "71A",
+  "order": 18,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Way Too Long Words",
+  "rating": 800,
+  "tags": [
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/71/A",
+  "source": "problems/71A/main.cpp",
+  "statement": "problems/71A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "6adb96dbea73fbffd1e1d4d3fd40870cf68ff4906b2397607debc554536e5e64",
+      "output": "da7bba29b5cf6105a5c5a21abc43c16f4a209dc37da0a4a6185aba87509516e8"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "71/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

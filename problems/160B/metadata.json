@@ -1,0 +1,36 @@
+{
+  "id": "160B",
+  "order": 222,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Unlucky Ticket",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/160/B",
+  "source": "problems/160B/main.cpp",
+  "statement": "problems/160B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "e4bd12b020771b351a6aca37fbb2f77967fa90545d0343f36cd9f987c45355a0",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "e8012dcd6cceae4c765232583f52f3b60c87161b99bb895fd5a69cec8dc40db0",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "8c3458bf9f8199e67860ace56a53003c0e7bea7c35112ad5a1d031ac712858e9",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "160/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

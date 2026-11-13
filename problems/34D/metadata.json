@@ -1,0 +1,32 @@
+{
+  "id": "34D",
+  "order": 355,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Road Map",
+  "rating": 1600,
+  "tags": [
+    "dfs and similar",
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/34/D",
+  "source": "problems/34D/main.cpp",
+  "statement": "problems/34D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "3ce3f5436d76ebdbe5e5b8f7c19761d56ec4c220efd19bc67f56c97cb2f7addb",
+      "output": "7bd7df1a31049cd71ae13cd2097a04efad83aa634963236227cec39eef3a2588"
+    },
+    {
+      "input": "7614d77826184806cf97163e797af87ef7a18f0ee54b946c98d1da3724e7e4e9",
+      "output": "aa7a244454a82c3468d4304b0cc23c729817c77a47665cfc716fd2c93c08a8e1"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "34/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

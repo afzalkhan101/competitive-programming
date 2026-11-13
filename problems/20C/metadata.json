@@ -1,0 +1,32 @@
+{
+  "id": "20C",
+  "order": 377,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Dijkstra?",
+  "rating": 1900,
+  "tags": [
+    "graphs",
+    "shortest paths"
+  ],
+  "url": "https://codeforces.com/problemset/problem/20/C",
+  "source": "problems/20C/main.cpp",
+  "statement": "problems/20C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "b8cc7bc4e9731bbea1e82a1bd53f6364432c543e3fa369b0470e3254f636aa40",
+      "output": "88ab5ea3cb420945e362002965e8c4923d5503b5420d54b06ca497513f8ec491"
+    },
+    {
+      "input": "b8cc7bc4e9731bbea1e82a1bd53f6364432c543e3fa369b0470e3254f636aa40",
+      "output": "88ab5ea3cb420945e362002965e8c4923d5503b5420d54b06ca497513f8ec491"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "20/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 64.0
+}

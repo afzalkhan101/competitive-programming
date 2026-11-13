@@ -1,0 +1,32 @@
+{
+  "id": "148C",
+  "order": 480,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Terse princess",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/148/C",
+  "source": "problems/148C/main.cpp",
+  "statement": "problems/148C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "177c8f79b9f5d3d35a9fb14f452568336ec352a233fa800b061295de84e14d7d",
+      "output": "2ecd7636a4a527ca61b91353ff4569f87d6274a801cd1d56824dc8da6b3518ae"
+    },
+    {
+      "input": "5351677392ba536fb0d06100428b48fd7b1d7bee239d15d25e8b837cf6f3cfd7",
+      "output": "f494b9ce877494ff65a6e68f14534a9d84ab62ddb45693fc16908b6fc753e2f1"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "148/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

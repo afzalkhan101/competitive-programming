@@ -1,0 +1,36 @@
+{
+  "id": "62A",
+  "order": 245,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "A Student's Dream",
+  "rating": 1300,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/62/A",
+  "source": "problems/62A/main.cpp",
+  "statement": "problems/62A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "73288254b5ea9d746ab54494a37c6b8836aa13ce02b6a3090654f5b4b2bda42c",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "c66f63c16e15680119f606047f7eba9084876522a4fc61bd03055c2084f62e55",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "f59ceddfbc582dc6343b39e9b2e44dbbbaa295d6579b48e5a6e7ca6b0c8e7426",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "62/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

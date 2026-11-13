@@ -1,0 +1,33 @@
+{
+  "id": "243A",
+  "order": 472,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "The Brand New Function",
+  "rating": 1600,
+  "tags": [
+    "bitmasks"
+  ],
+  "url": "https://codeforces.com/problemset/problem/243/A",
+  "source": "problems/243A/main.cpp",
+  "statement": "problems/243A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "88cdc0687beb3005189e0044a09a3c0439aab33b160435ce7740b89cefb7141a",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "9d84a3bfbf66af36a00e1440b1f360f00cd718c48e23a81eeb444d958ac3fd50",
+      "output": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "243/A",
+  "aliases": [
+    "244/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

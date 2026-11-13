@@ -1,0 +1,37 @@
+{
+  "id": "633A",
+  "order": 130,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Ebony and Ivory",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/633/A",
+  "source": "problems/633A/main.cpp",
+  "statement": "problems/633A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "20d605f8ffacc0e719e7cc10af0a2aabf0ea0e61c8ea8fa6454b3fb680cd4dca",
+      "output": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d"
+    },
+    {
+      "input": "f36af103c5b39e8942b8f2461839b5324b502415ba9ffa4322a4f0b9e2dfa399",
+      "output": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e"
+    },
+    {
+      "input": "3ae05bf40ab746f0ba6619b6264536f720cb7702351453928df3438ca6504035",
+      "output": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "633/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

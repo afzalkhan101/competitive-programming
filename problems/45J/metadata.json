@@ -1,0 +1,31 @@
+{
+  "id": "45J",
+  "order": 485,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Planting Trees",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms"
+  ],
+  "url": "https://codeforces.com/problemset/problem/45/J",
+  "source": "problems/45J/main.cpp",
+  "statement": "problems/45J/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "7bd7df1a31049cd71ae13cd2097a04efad83aa634963236227cec39eef3a2588",
+      "output": "08a973593f30ab3421ea240ce7802bfe4005d76309ce76bffc8f1dd1533514a3"
+    },
+    {
+      "input": "e57acc10f53c55bd65c8462f1402834edd30e4f41203988a0cac5aff6122a614",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "45/J",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,37 @@
+{
+  "id": "237C",
+  "order": 175,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Primes on Interval",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "number theory",
+    "two pointers"
+  ],
+  "url": "https://codeforces.com/problemset/problem/237/C",
+  "source": "problems/237C/main.cpp",
+  "statement": "problems/237C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "395caa40671de342615d61f07eb579c0c78964e04d58cdd764dd7431fffa51e7",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    },
+    {
+      "input": "259b61e82128f33b320e50eb58dbec8c16bf0d86cb0eb192f7a9e302323e1581",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "bba882b849cca659d557af037a972c95a8b02f09b6f6c7c236e2f9984deed033",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "237/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

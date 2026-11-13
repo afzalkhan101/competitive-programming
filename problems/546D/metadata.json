@@ -1,0 +1,30 @@
+{
+  "id": "546D",
+  "order": 181,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Soldier and Number Game",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/546/D",
+  "source": "problems/546D/main.cpp",
+  "statement": "problems/546D/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "ecf175bf0f81b7e895b5b75eaf4e9cadb5f874643fdacaedbf6f32a25567b188",
+      "output": "05b6a35fb70bc2b734e11eaefb4692bc082651030133fedc7fc0d759efb71e6d"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "546/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

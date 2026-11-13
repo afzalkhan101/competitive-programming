@@ -1,0 +1,36 @@
+{
+  "id": "68A",
+  "order": 86,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Irrational problem",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/68/A",
+  "source": "problems/68A/main.cpp",
+  "statement": "problems/68A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "0953a891061e63786ca4a41036235db1c483400076aefafbf691663350574451",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "8025dc6e90e7d4b199f5b0e127fa606a040cb5aaab9f147685be33288ab9b349",
+      "output": "f5ca38f748a1d6eaf726b8a42fb575c3c71f1864a8143301782de13da2d9202b"
+    },
+    {
+      "input": "8c1def99cc57bf12138c11f843bc7cf970308ce3513b698c30d12a6c2ab78a0e",
+      "output": "19581e27de7ced00ff1ce50b2047e7a567c76b1cbaebabe5ef03f7c3017bb5b7"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "68/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

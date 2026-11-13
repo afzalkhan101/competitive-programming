@@ -1,0 +1,36 @@
+{
+  "id": "23A",
+  "order": 232,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "You're Given a String...",
+  "rating": 1200,
+  "tags": [
+    "brute force",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/23/A",
+  "source": "problems/23A/main.cpp",
+  "statement": "problems/23A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "88d4266fd4e6338d13b845fcf289579d209c897823b9217da3e161936f031589",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "f9b8d87e305fcf0125d889e2e40ea64b446b4c09d9459358c7d64a4a2fefcabe",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    },
+    {
+      "input": "17f165d5a5ba695f27c023a83aa2b3463e23810e360b7517127e90161eebabda",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "23/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

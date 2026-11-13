@@ -1,0 +1,38 @@
+{
+  "id": "439C",
+  "order": 179,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Devu and Partitioning of the Array",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/439/C",
+  "source": "problems/439C/main.cpp",
+  "statement": "problems/439C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "0292be5f08b19d8538f2f3569fca4ee82b49c1b1c5ecc6933614f4978d81c9e5",
+      "output": "7fcbf89c8a2d96c385ee070c720ecefa73c8ecdf8bb7462e7371046d463efe11"
+    },
+    {
+      "input": "8efa7e5b0b972eb0b1c700ec83efbab50918b45684d699a057e687d44f82c553",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "1b9dc1d102edf58a5b2fc1abbdcc010bf2fe6920e5802c160b3cb3da68c34d24",
+      "output": "0edaa3f9af70307a8e02de389cec4dd18633587afd088cdf1134993818238bf1"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "439/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

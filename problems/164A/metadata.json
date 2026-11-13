@@ -1,0 +1,38 @@
+{
+  "id": "164A",
+  "order": 365,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Variable, or There and Back Again",
+  "rating": 1700,
+  "tags": [
+    "dfs and similar",
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/164/A",
+  "source": "problems/164A/main.cpp",
+  "statement": "problems/164A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "9e21792fc51765dca3bad007623e85d93dc3cafe1fd87dc0201a6f8f9f41c132",
+      "output": "149051825acc9f70977387777097d077b40b4c368bcf075fd8e098058451694c"
+    },
+    {
+      "input": "da41303d457f14a7111d5ba713f8b90464858a43aa0424a3bf56ad1aeb4cf1c8",
+      "output": "3e68dd4a742b51bc719b6a62322841c9c16f8c17bc690db08db924120648585d"
+    },
+    {
+      "input": "554073628433bd187a30a5d52b7e46d686a41ac15d4c1d46750bb11bdf0ba28a",
+      "output": "cffb57f282df1536574466d3619f10f57855657b9c3b675886960f6de68e7073"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "164/A",
+  "aliases": [
+    "174/D"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

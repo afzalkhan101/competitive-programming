@@ -1,0 +1,27 @@
+{
+  "id": "337A",
+  "order": 206,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Puzzles",
+  "rating": 900,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/337/A",
+  "source": "problems/337A/main.cpp",
+  "statement": "problems/337A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "f188fd0580703ddf3dfc640e8380639a360ce6bacf0a997447918cf749b77d78",
+      "output": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "337/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

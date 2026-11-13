@@ -1,0 +1,33 @@
+{
+  "id": "159B",
+  "order": 221,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Matchmaker",
+  "rating": 1100,
+  "tags": [
+    "*special",
+    "greedy",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/159/B",
+  "source": "problems/159B/main.cpp",
+  "statement": "problems/159B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ffa84b3d65509732a296d41a475bada027376237d230a15b27fbd312a5b7cea3",
+      "output": "c64b40bd6b04f739d22eede5a843a916f7581a6868d763dccb4137b482233d35"
+    },
+    {
+      "input": "82cf4233525acfd4f8adf5a3faf0eab82d44c9d6280812a047b8c711ff6d18b0",
+      "output": "8fad34bbb0c1ed095fbf1b50cb0e48785a030d5af68dc1a4957cbb583c3c1e5a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "159/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

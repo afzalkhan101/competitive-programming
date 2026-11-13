@@ -1,0 +1,27 @@
+{
+  "id": "46B",
+  "order": 83,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "T-shirts from Sponsor",
+  "rating": 1100,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/46/B",
+  "source": "problems/46B/main.cpp",
+  "statement": "problems/46B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "8d7a701980c5c289df9e957b2cf713e6a8b54f8d1db3986b226d1f951e1b2481",
+      "output": "15a549bdb9cda84aee5e70cb30ed38c980078538ad4bf7ca3800037b3b5f0ade"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "46/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

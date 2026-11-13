@@ -1,0 +1,28 @@
+{
+  "id": "6C",
+  "order": 230,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Alice, Bob and Chocolate",
+  "rating": 1200,
+  "tags": [
+    "greedy",
+    "two pointers"
+  ],
+  "url": "https://codeforces.com/problemset/problem/6/C",
+  "source": "problems/6C/main.cpp",
+  "statement": "problems/6C/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "76e48702bf88fa7a213d39022586e2899813301ce1c37e4f167d4329d7204e9f",
+      "output": "7bd7df1a31049cd71ae13cd2097a04efad83aa634963236227cec39eef3a2588"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "6/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "85A",
+  "order": 441,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Domino",
+  "rating": 1300,
+  "tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/85/A",
+  "source": "problems/85A/main.cpp",
+  "statement": "problems/85A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a",
+      "output": "be21373fcc8096da96b61b1c86f9851813ecc144d806bdba59f3c96c65df9c22"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "85/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

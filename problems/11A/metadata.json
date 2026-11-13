@@ -1,0 +1,29 @@
+{
+  "id": "11A",
+  "order": 28,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Increasing Sequence",
+  "rating": 900,
+  "tags": [
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/11/A",
+  "source": "problems/11A/main.cpp",
+  "statement": "problems/11A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "ee14c65cce0948a175077b210a66bb3961796ed36f950b3e87215eba16ff07f6",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "11/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 64.0
+}

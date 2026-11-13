@@ -1,0 +1,38 @@
+{
+  "id": "490C",
+  "order": 180,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Hacking Cypher",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "math",
+    "number theory",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/490/C",
+  "source": "problems/490C/main.cpp",
+  "statement": "problems/490C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "e7ca58cbb0d19fc36031aea68f92a722584db20ab241e06cde5aaad104daefdb",
+      "output": "f146023944f0d8d08698549d777b66eaee068587970ae853abd8fba29a0d2c0f"
+    },
+    {
+      "input": "e57856b355032782b313e3d1c9d0fae8ce3cc9125b048177013b42d7c515f879",
+      "output": "7fb6182aee25761e9e9842bc59cff3b3eeaedde5af1285b8f096aa60c51c6fe4"
+    },
+    {
+      "input": "45afd88bf81172760c8daa67f15fe3661152e88ec27d2a190259c938ca733e15",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "490/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

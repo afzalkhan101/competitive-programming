@@ -1,0 +1,31 @@
+{
+  "id": "282A",
+  "order": 25,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Bit++",
+  "rating": 800,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/282/A",
+  "source": "problems/282A/main.cpp",
+  "statement": "problems/282A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "9f16578a1c0fbed1dbf6ca10f349e0808d860b51bc552109d84452052bb9fbf8",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "ceeaa71970560262c765398427aa608515150d6af087c2e48aeca25a367d3a72",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "282/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

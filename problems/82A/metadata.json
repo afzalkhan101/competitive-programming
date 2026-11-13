@@ -1,0 +1,36 @@
+{
+  "id": "82A",
+  "order": 87,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Double Cola",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/82/A",
+  "source": "problems/82A/main.cpp",
+  "statement": "problems/82A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+      "output": "ca2f0aee8570f6d38e2fb9eb295c62bf227bdc3a7f5e0ddc7e4e536fa80937d1"
+    },
+    {
+      "input": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683",
+      "output": "ca2f0aee8570f6d38e2fb9eb295c62bf227bdc3a7f5e0ddc7e4e536fa80937d1"
+    },
+    {
+      "input": "fe7c8b93142029fafe356ee9b2dd09766e6f266141c0c1340b262fc633c16e10",
+      "output": "529c3146271d02cb3aca154b07c979110f70117fa5c8eb6751033fd7b7220606"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "82/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

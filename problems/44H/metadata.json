@@ -1,0 +1,31 @@
+{
+  "id": "44H",
+  "order": 275,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Phone Number",
+  "rating": 1700,
+  "tags": [
+    "dp"
+  ],
+  "url": "https://codeforces.com/problemset/problem/44/H",
+  "source": "problems/44H/main.cpp",
+  "statement": "problems/44H/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+      "output": "98010bd9270f9b100b6214a21754fd33bdc8d41b2bc9f9dd16ff54d3c34ffd71"
+    },
+    {
+      "input": "3514acf61732f662da19625f7fe781c3e483f2dce8506012f3bb393f5003e105",
+      "output": "e629fa6598d732768f7c726b4b621285f9c3b85303900aa912017db7617d8bdb"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "44/H",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

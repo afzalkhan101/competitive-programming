@@ -1,0 +1,37 @@
+{
+  "id": "57A",
+  "order": 242,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Square Earth?",
+  "rating": 1300,
+  "tags": [
+    "dfs and similar",
+    "greedy",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/57/A",
+  "source": "problems/57A/main.cpp",
+  "statement": "problems/57A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "13b713ba11165e1dce40a6d2166617c3187db9e2b2964c821229bab4add8bc60",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "ac2935fc43311f531f6c3c2623c6410d3904f5cfb01081f6761de2c25f6b8c9d",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "be485b3201fcb6b0c4f7d95f97efab3f5d16559fa635cc356201b9477a7adea0",
+      "output": "27badc983df1780b60c2b3fa9d3a19a00e46aac798451f0febdca52920faaddf"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "57/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

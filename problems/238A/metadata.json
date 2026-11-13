@@ -1,0 +1,30 @@
+{
+  "id": "238A",
+  "order": 445,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Not Wool Sequences",
+  "rating": 1300,
+  "tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/238/A",
+  "source": "problems/238A/main.cpp",
+  "statement": "problems/238A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "c64b40bd6b04f739d22eede5a843a916f7581a6868d763dccb4137b482233d35",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "238/A",
+  "aliases": [
+    "239/C"
+  ],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "1438B",
+  "order": 308,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Valerii Against Everyone",
+  "rating": 1000,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1438/B",
+  "source": "problems/1438B/main.cpp",
+  "statement": "problems/1438B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "7aa4b7a5ce16a88ededc688a58dfc07b92fea548dad13dd45fe78c468cb77155",
+      "output": "48466f15aaead5e2742c0c399499299fc5418ec26640f25f2dda4f933b46301c"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1438/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

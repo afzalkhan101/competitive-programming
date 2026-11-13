@@ -1,0 +1,32 @@
+{
+  "id": "155B",
+  "order": 220,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Combination",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/155/B",
+  "source": "problems/155B/main.cpp",
+  "statement": "problems/155B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ab4e5061fc0c5def77af6094b307c770a90d0669f1315c16ef9cd1133174b668",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "57c56990c6dfb0e40e02ac75a10ae92409fd3e76dfee8b4364e5b8243a689521",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "155/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,32 @@
+{
+  "id": "188D",
+  "order": 100,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Asterisks",
+  "rating": 1100,
+  "tags": [
+    "*special",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/188/D",
+  "source": "problems/188D/main.cpp",
+  "statement": "problems/188D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce",
+      "output": "e3b79207659e8d6a5c1b9c6f4900d1d8176d81ced969439fa154465c332332df"
+    },
+    {
+      "input": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683",
+      "output": "0fff1e6c22e4723f3a75cf9de66f829379c19e2214552f6196dd6679bec5e2cc"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "188/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

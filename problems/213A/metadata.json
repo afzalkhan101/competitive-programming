@@ -1,0 +1,34 @@
+{
+  "id": "213A",
+  "order": 367,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Game",
+  "rating": 1700,
+  "tags": [
+    "dfs and similar",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/213/A",
+  "source": "problems/213A/main.cpp",
+  "statement": "problems/213A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "907152a6205ec48e9af7c98cc0d7e6b8ef52897b4d4f14bdad764fc239da312b",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "3f8a1964ab2c4acf275e653f5b38899da4f7a6b5804f9c655bd637e5cc4cd762",
+      "output": "7902699be42c8a8e46fbbb4501726517e86b22c56a189f7625a6da49081b2451"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "213/A",
+  "aliases": [
+    "214/C"
+  ],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

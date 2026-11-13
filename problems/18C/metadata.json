@@ -1,0 +1,36 @@
+{
+  "id": "18C",
+  "order": 319,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Stripe",
+  "rating": 1200,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/18/C",
+  "source": "problems/18C/main.cpp",
+  "statement": "problems/18C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "ca0c4cc75cfaa4d5f30159d3fba8670bfa937081a3ef8c10b378ba849df07caf",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    },
+    {
+      "input": "a746a03c10d3bc46b4981d109e4426c4efbef6527a41d97238d1c052888ae5e9",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "f31404ea44f9eae992b844e9452ca75f03817a2780332696c09d1434274dd314",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "18/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

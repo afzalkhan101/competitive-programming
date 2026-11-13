@@ -1,0 +1,36 @@
+{
+  "id": "122A",
+  "order": 72,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Lucky Division",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/122/A",
+  "source": "problems/122A/main.cpp",
+  "statement": "problems/122A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "31489056e0916d59fe3add79e63f095af3ffb81604691f21cad442a85c7be617",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "b17ef6d19c7a5b1ee83b907c595526dcb1eb06db8227d650d5dda0a9f4ce8cd9",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "349c41201b62db851192665c504b350ff98c6b45fb62a8a2161f78b6534d8de9",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "122/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,36 @@
+{
+  "id": "150B",
+  "order": 357,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Quantity of Strings",
+  "rating": 1600,
+  "tags": [
+    "combinatorics",
+    "dfs and similar",
+    "graphs",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/150/B",
+  "source": "problems/150B/main.cpp",
+  "statement": "problems/150B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "c413f845fbe90b262337e1c7f973d9afd3b4816dd7cdb77c3e6c4abce0891a62",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "a046dd12d730c9ea60f04c616a62b3a7cec4e1b139019dde2c9dc4582571c3a8",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "150/B",
+  "aliases": [
+    "151/D"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,33 @@
+{
+  "id": "121B",
+  "order": 462,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Lucky Transformation",
+  "rating": 1500,
+  "tags": [
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/121/B",
+  "source": "problems/121B/main.cpp",
+  "statement": "problems/121B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "989e1e302d35f502f05fd00a79f7c74cb16210d5a967fccfa00f4405599ea5a9",
+      "output": "3a0ba2678d0fa2ad07f2c6835c0ac3922bf16c1fadd01a78c05c99f0db3c006a"
+    },
+    {
+      "input": "51d0fd17a842d6296ee55aef6919223888f7065fdd455504c5bf2c93b7d01038",
+      "output": "984118abc834781696ea0deb830457820b78353c3da5bfad63dd35ab701d518d"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "121/B",
+  "aliases": [
+    "122/D"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

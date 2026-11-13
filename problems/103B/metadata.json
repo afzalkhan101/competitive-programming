@@ -1,0 +1,35 @@
+{
+  "id": "103B",
+  "order": 345,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Cthulhu",
+  "rating": 1500,
+  "tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/103/B",
+  "source": "problems/103B/main.cpp",
+  "statement": "problems/103B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "6d8233fc7d2da3662546b6471ea9239a245eaed23d22ea058647f3b16429223b",
+      "output": "d9a5e6eb7d290fcab5f9a5f01a3e6a8265381bac1f9a3957aad75db7f981a40f"
+    },
+    {
+      "input": "69241872abb04b3b30926a145a55d18deac9adc8a6619fff0f7e4b1882f52c65",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "103/B",
+  "aliases": [
+    "104/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,36 @@
+{
+  "id": "577A",
+  "order": 121,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Multiplication Table",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/577/A",
+  "source": "problems/577A/main.cpp",
+  "statement": "problems/577A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "623ca96b0c0de60d1bf0fbf1206d84826d3922dd1f0149f9172670aa933b8479",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "453820eabfa59c1fdb6ec0f5b4930169f7388697350bb8390ac5005cae89ca91",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "7590fdcff21233e88d5f51ec0e9998815e184f0a5b69ff98f575221f2d15b2e4",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "577/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

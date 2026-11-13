@@ -1,0 +1,33 @@
+{
+  "id": "244B",
+  "order": 360,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Undoubtedly Lucky Numbers",
+  "rating": 1600,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar"
+  ],
+  "url": "https://codeforces.com/problemset/problem/244/B",
+  "source": "problems/244B/main.cpp",
+  "statement": "problems/244B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5",
+      "output": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5"
+    },
+    {
+      "input": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+      "output": "6c658ee83fb7e812482494f3e416a876f63f418a0b8a1f5e76d47ee4177035cb"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "244/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

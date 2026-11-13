@@ -1,0 +1,29 @@
+{
+  "id": "270A",
+  "order": 423,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Fancy Fence",
+  "rating": 1100,
+  "tags": [
+    "geometry",
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/270/A",
+  "source": "problems/270A/main.cpp",
+  "statement": "problems/270A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "44aa2014726872f297c4efe0c381c2cd7f77675ccc360eaebac59e90af06803c",
+      "output": "e8c2c77f691b98fa5482488397ae6c3d5fd1da04561d0b4d092795f4cefee70f"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "270/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

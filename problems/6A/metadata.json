@@ -1,0 +1,36 @@
+{
+  "id": "6A",
+  "order": 26,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Triangle",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "geometry"
+  ],
+  "url": "https://codeforces.com/problemset/problem/6/A",
+  "source": "problems/6A/main.cpp",
+  "statement": "problems/6A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "93be7646cb7988c503a81e6906e5d50bf59469bdf59c1992cc5e5700a7ad3c7a",
+      "output": "bca5c6abb455db0886e201a5efa44be0ce3d04228814b333a00d329d2831b7cc"
+    },
+    {
+      "input": "9c89f4295917c4acc5d7d939bc6c52d93d1ea09f0cd082a724759da277ba410f",
+      "output": "32632ba72723025128afcf72a793cae2b80ced6409b6746017a12c58af5dd0a7"
+    },
+    {
+      "input": "1ec8a560443326006f4b285fda31a7a20041ffdeb146792ba8d4a1a298675b57",
+      "output": "598b9c9492a9d951cc79770a945a07933a2bdbfab171fae7d4d2c444130057ad"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "6/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

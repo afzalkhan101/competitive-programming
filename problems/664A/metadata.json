@@ -1,0 +1,32 @@
+{
+  "id": "664A",
+  "order": 103,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Complicated GCD",
+  "rating": 800,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/664/A",
+  "source": "problems/664A/main.cpp",
+  "statement": "problems/664A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "f71998fe363b9c29116c80b5eecf33a2fedca3b6159724384485804b71651029",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "99eca72cddcfdf19fe5d7663b13705a579d1abc5d0ef7a8ba8e140252b3e4e95",
+      "output": "4cbab5c3790990642e5ebd4413f347f63e8beb4edcf52c6f334e5a57d2842add"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "664/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

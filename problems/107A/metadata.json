@@ -1,0 +1,38 @@
+{
+  "id": "107A",
+  "order": 340,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Dorm Water Supply",
+  "rating": 1400,
+  "tags": [
+    "dfs and similar",
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/107/A",
+  "source": "problems/107A/main.cpp",
+  "statement": "problems/107A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "a43861f22865cd99862ce89236b3d2c4f09062206b3c987e0565c9da3a7ab695",
+      "output": "b44c8647c668906c907b1ab39567e2f530176e26e20da3b0aeffa4463e9a0f21"
+    },
+    {
+      "input": "03df062ec9800c084fd001677139933edbceb0a42df4f6bf7391656c41513b17",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "1c65ec53e9bee6b0cfca93d559d58190099d506da644073eef9c98425a116cfe",
+      "output": "32a3fbb9d2159ccddc337c1ad4fbe381f697bf87a7853d955543d7c486a70718"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "107/A",
+  "aliases": [
+    "108/C"
+  ],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

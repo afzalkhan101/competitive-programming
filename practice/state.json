@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "handle": "afzalkhan101",
+  "progress": {
+    "4A": {
+      "samplesPassed": false,
+      "testedHash": "7562f365eca940af2f5e8e54b0bc27ef3f547da3bf20e8fa6a8de51d99438ff8",
+      "updatedAt": 1794565325.9969542
+    }
+  },
+  "active": {
+    "id": "4A",
+    "source": "problems/4A/main.cpp"
+  }
+}

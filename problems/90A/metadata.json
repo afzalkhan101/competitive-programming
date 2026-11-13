@@ -1,0 +1,32 @@
+{
+  "id": "90A",
+  "order": 63,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Cableway",
+  "rating": 1000,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/90/A",
+  "source": "problems/90A/main.cpp",
+  "statement": "problems/90A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "c2c7cb513afe6b0b3249d32b70cb2aeff7f354f07bcdf47cd24cdc6269d53fd3",
+      "output": "86e50149658661312a9e0b35558d84f6c6d3da797f552a9657fe0558ca40cdef"
+    },
+    {
+      "input": "5371f92756bff0551d771b56af731daf43ce379ed10ed4641ad94b6b4b2a9292",
+      "output": "c6f3ac57944a531490cd39902d0f777715fd005efac9a30622d5f5205e7f6894"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "90/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

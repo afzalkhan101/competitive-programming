@@ -1,0 +1,34 @@
+{
+  "id": "199A",
+  "order": 46,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Hexadecimal's theorem",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/199/A",
+  "source": "problems/199A/main.cpp",
+  "statement": "problems/199A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce",
+      "output": "c413f845fbe90b262337e1c7f973d9afd3b4816dd7cdb77c3e6c4abce0891a62"
+    },
+    {
+      "input": "3fdba35f04dc8c462986c992bcf875546257113072a909c162f7e470e581e278",
+      "output": "19c35352c82742ee2cf55dfeec41be5e78f33549cbd0fa5ee3b88feaf3370cab"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "199/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

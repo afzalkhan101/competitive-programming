@@ -1,0 +1,34 @@
+{
+  "id": "264B",
+  "order": 162,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Good Sequences",
+  "rating": 1500,
+  "tags": [
+    "dp",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/264/B",
+  "source": "problems/264B/main.cpp",
+  "statement": "problems/264B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "79e95fc5126a4a67ad56e7cebc0e054187076ae7c12b6ea741ec37f7d5fb0f3f",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "9d8dbe5a0c172bc0f901ef54d1ad65a14b4938d6b67b52552d23e8e68c2312e8",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "264/B",
+  "aliases": [
+    "265/D"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

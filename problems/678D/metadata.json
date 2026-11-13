@@ -1,0 +1,36 @@
+{
+  "id": "678D",
+  "order": 184,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Iterated Linear Function",
+  "rating": 1700,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/678/D",
+  "source": "problems/678D/main.cpp",
+  "statement": "problems/678D/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "576c8ffe17917016c9ac575305a41d3fc099ddd139fc205d67b2cf93d6b698fb",
+      "output": "7902699be42c8a8e46fbbb4501726517e86b22c56a189f7625a6da49081b2451"
+    },
+    {
+      "input": "1687c8f777bd971f6e248ebcd169aa8501fb29c038063f25729e64a786dc2fd5",
+      "output": "b7a56873cd771f2c446d369b649430b65a756ba278ff97ec81bb6f55b2e73569"
+    },
+    {
+      "input": "499f0a2a9452f407059055a243cf593550bfedecdb02605bce7c2be6f152718e",
+      "output": "98a3ab7c340e8a033e7b37b6ef9428751581760af67bbab2b9e05d4964a8874a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "678/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

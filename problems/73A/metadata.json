@@ -1,0 +1,32 @@
+{
+  "id": "73A",
+  "order": 269,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "The Elder Trolls IV: Oblivon",
+  "rating": 1600,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/73/A",
+  "source": "problems/73A/main.cpp",
+  "statement": "problems/73A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "a6fa74baf06c226836e22bacc9178a64755275e7b6b9b597687c7cd7df1a79de",
+      "output": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3"
+    },
+    {
+      "input": "dcc3a4598a3e44e9e4ef34879af88a3252b0d4e1972ef4094a3437a101a4fc70",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "73/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

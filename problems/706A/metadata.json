@@ -1,0 +1,33 @@
+{
+  "id": "706A",
+  "order": 407,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Beru-taxi",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "geometry",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/706/A",
+  "source": "problems/706A/main.cpp",
+  "statement": "problems/706A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "218235c696e04a077511d9cd17e1098e4ebd9042e00dc61d8d6df6717c73f3d8",
+      "output": "25f57aa90c558cf34fcb5bc18dc7984c8b115a129c3142df5b44fefe9916b059"
+    },
+    {
+      "input": "a2b2b3f8bc608468d4593933a60f8d3ef7f2d7cd0171edba908471f4e4196671",
+      "output": "d2289abd9e6832b7e64d4dc6ce3d36a15bba3149a5dac006fbd14080aaa56f3d"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "706/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

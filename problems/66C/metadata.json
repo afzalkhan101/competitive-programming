@@ -1,0 +1,36 @@
+{
+  "id": "66C",
+  "order": 371,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Petya and File System",
+  "rating": 1800,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/66/C",
+  "source": "problems/66C/main.cpp",
+  "statement": "problems/66C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "13dfe0d766a6c1903bd02d5039e733a5da2bb1b91ba517376824e60ee4e4a479",
+      "output": "5cc3a6551605a0b4e9c3334f5eb5554c404973daf0b1a58655fa29c0ba3d47b0"
+    },
+    {
+      "input": "10453c45e0da0771e5ee23bda3489f5614f69ee56b65d9309a3ebf719a5c3adb",
+      "output": "c64b40bd6b04f739d22eede5a843a916f7581a6868d763dccb4137b482233d35"
+    },
+    {
+      "input": "b5740c0841d1ffc2a415089661fe0cec463a6ae4ba60282ce5dd40f15cbe40f7",
+      "output": "73c6486e6a5c1897d40af5c75219b5e5310df7ce20f20d63559be25a28053341"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "66/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

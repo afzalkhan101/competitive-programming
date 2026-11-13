@@ -1,0 +1,30 @@
+{
+  "id": "660A",
+  "order": 141,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Co-prime Array",
+  "rating": 1200,
+  "tags": [
+    "greedy",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/660/A",
+  "source": "problems/660A/main.cpp",
+  "statement": "problems/660A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "b75a7a365c74b27f6d90da41f37b36b2716cf1eb1e1c890f39265ccf6e83e6a6",
+      "output": "414da675492fe108b4bd46b178f75a4c650cb679eb427e80f408b1cc884c8287"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "660/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

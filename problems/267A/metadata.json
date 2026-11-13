@@ -1,0 +1,28 @@
+{
+  "id": "267A",
+  "order": 111,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Subtractions",
+  "rating": 900,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/267/A",
+  "source": "problems/267A/main.cpp",
+  "statement": "problems/267A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "c258cf30f0d00eaaa860dd9fea4ee124c723780af6bcc812d3a4fe1853580c84",
+      "output": "499b2bb68d550fd1b168b63e6f21156f35de05bac198366b49d015a2eeacb863"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "267/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

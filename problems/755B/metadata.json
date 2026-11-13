@@ -1,0 +1,40 @@
+{
+  "id": "755B",
+  "order": 317,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "PolandBall and Game",
+  "rating": 1100,
+  "tags": [
+    "binary search",
+    "data structures",
+    "games",
+    "greedy",
+    "sortings",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/755/B",
+  "source": "problems/755B/main.cpp",
+  "statement": "problems/755B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "1b08bbc4b20d174d62f1a58940b532e3bf6dce03764b861d3258a646144cb49b",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "bed299bf2905d9aee9c4d2cd48c39b3a812ed2c822d33034436fed7a9684f105",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "f4e2e1019b1cc0055ff29e83a7eeb1b81787557a3df0122bf2214ada42b935e2",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "755/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

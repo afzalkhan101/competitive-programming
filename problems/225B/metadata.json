@@ -1,0 +1,33 @@
+{
+  "id": "225B",
+  "order": 173,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Well-known Numbers",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "greedy",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/225/B",
+  "source": "problems/225B/main.cpp",
+  "statement": "problems/225B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "e99e144bfc65e8f855e5d5bf3c5af53b009cc7ec37c8a3d56efb184c0ac563c8",
+      "output": "873445ec3eaa899f4f191e097b013c6c65fef39d8374cb183b482c16ef87900a"
+    },
+    {
+      "input": "8cdf49925df970d0cff3ffec13e2d9803c6d8167ee0c9c98d15ef2ce37d8ecfc",
+      "output": "c61d8a665f5edcabf125999d238f9cf04cd8d117d94a3e8243f011a0e469a025"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "225/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

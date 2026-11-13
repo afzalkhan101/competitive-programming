@@ -1,0 +1,37 @@
+{
+  "id": "65B",
+  "order": 277,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Harry Potter and the History of Magic",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "greedy",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/65/B",
+  "source": "problems/65B/main.cpp",
+  "statement": "problems/65B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "55c243965237709e59aa6589e55dac0aceeb24548e449832877514619ff49fe8",
+      "output": "c56fb782bbc5d2767ab780693a9fc5da87d8f18cce14b371cd9182bb762fbd47"
+    },
+    {
+      "input": "fd400a14ed6347e0db1d8a856a81a8e0a36e8c35d0e0fee63eb11d0886e6c722",
+      "output": "4f48eae594e5be888f28bfa8bd2d713b6996e83b931a7e2b3bb3cebf8f26d4bb"
+    },
+    {
+      "input": "8db81cfcedb04ac4699260079403c94dfa3d098317c00ef138f176da2faa7909",
+      "output": "840d38405d19aebed9488b6aeae0d4ea99b0c29742814555cc6bcd698febedf5"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "65/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

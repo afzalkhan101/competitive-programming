@@ -1,0 +1,42 @@
+{
+  "id": "286A",
+  "order": 454,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Lucky Permutation",
+  "rating": 1400,
+  "tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/286/A",
+  "source": "problems/286A/main.cpp",
+  "statement": "problems/286A/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    },
+    {
+      "input": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a",
+      "output": "85713097a763797cc762994faaf13fd7388ab4a13ccddfa418fa9a1877780d44"
+    },
+    {
+      "input": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+      "output": "e4fceb242e542eba6905e2b564744b15543a674bfe4106cbc9af05e7ebd28f7e"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "286/A",
+  "aliases": [
+    "287/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,32 @@
+{
+  "id": "172D",
+  "order": 161,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Calendar Reform",
+  "rating": 1500,
+  "tags": [
+    "*special",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/172/D",
+  "source": "problems/172D/main.cpp",
+  "statement": "problems/172D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "c7c3f687ee0b6335624e3351992d84247f8e1d70255a276349dfd0c5657bf7de",
+      "output": "624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4"
+    },
+    {
+      "input": "78d57f8f0d23dc19f85c4a79bcb53abab7b0d45ad820f5c721487d66d14313cb",
+      "output": "0f8ef3377b30fc47f96b48247f463a726a802f62f3faa03d56403751d2f66c67"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "172/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

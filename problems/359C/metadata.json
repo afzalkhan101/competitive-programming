@@ -1,0 +1,40 @@
+{
+  "id": "359C",
+  "order": 199,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Prime Number",
+  "rating": 1900,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/359/C",
+  "source": "problems/359C/main.cpp",
+  "statement": "problems/359C/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "5230a8403f403843b1c073cbf195a0819e2c1ec9a4af21d8ebe005817cd4f234",
+      "output": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3"
+    },
+    {
+      "input": "dbcef3405d0cb1163ca94088114edd9336f6103525b9b6ff7f4d9c2eb83bbcd0",
+      "output": "670671cd97404156226e507973f2ab8330d3022ca96e0c93bdbdb320c41adcaf"
+    },
+    {
+      "input": "c267350252c928dead320d0fe78a3b2d7a19bfba1e89c3c14ff5c5df34788e77",
+      "output": "b47819cc6fcc3d8af475524b3f5ff47dc6c06985340b652888e5108ae63700c4"
+    },
+    {
+      "input": "f7d49b485c81da5200460e51ed2d9d833e96002e66012a9d1a1d752cd88def3e",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "359/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

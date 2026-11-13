@@ -1,0 +1,35 @@
+{
+  "id": "182D",
+  "order": 452,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Common Divisors",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "hashing",
+    "implementation",
+    "math",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/182/D",
+  "source": "problems/182D/main.cpp",
+  "statement": "problems/182D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "2a5449239c9c9e8f9f778b6e02db181fe68cd5d7959c173dd09c40c8d7b6dedf",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "4e9b42ad802e27d67d34bac8742cfa3d71f0742dff15d758a479ffe1ae8c726b",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "182/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

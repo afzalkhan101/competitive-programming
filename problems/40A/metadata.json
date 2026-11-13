@@ -1,0 +1,38 @@
+{
+  "id": "40A",
+  "order": 438,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Find Color",
+  "rating": 1300,
+  "tags": [
+    "constructive algorithms",
+    "geometry",
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/40/A",
+  "source": "problems/40A/main.cpp",
+  "statement": "problems/40A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "fb75ce7f11ad9e9f455b182748b7594f7a3c707fd09976a0c2b8c9e945b59a0d",
+      "output": "018fa96a44715c90bf93be148069cb28dd45d398f2cc75aa1565311f6e55d174"
+    },
+    {
+      "input": "e57acc10f53c55bd65c8462f1402834edd30e4f41203988a0cac5aff6122a614",
+      "output": "c006c7e3ab14d686f63524136f1ec7c5e553d839bc01c851e4dc9de2bdbfc589"
+    },
+    {
+      "input": "c33a915bed8c8aa8a4a28414bb9424904099b1d0f8a4244f9077b3b13113cf98",
+      "output": "c006c7e3ab14d686f63524136f1ec7c5e553d839bc01c851e4dc9de2bdbfc589"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "40/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

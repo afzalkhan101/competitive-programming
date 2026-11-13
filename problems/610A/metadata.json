@@ -1,0 +1,32 @@
+{
+  "id": "610A",
+  "order": 419,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Pasha and Stick",
+  "rating": 1000,
+  "tags": [
+    "combinatorics",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/610/A",
+  "source": "problems/610A/main.cpp",
+  "statement": "problems/610A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "f5ca38f748a1d6eaf726b8a42fb575c3c71f1864a8143301782de13da2d9202b",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "610/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

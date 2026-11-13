@@ -1,0 +1,36 @@
+{
+  "id": "59A",
+  "order": 16,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Word",
+  "rating": 800,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/59/A",
+  "source": "problems/59A/main.cpp",
+  "statement": "problems/59A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "19eb9e707e90101b4051f09f2db788057d7d55d607ec7ba611dc97e988ec647a",
+      "output": "d6e21286621a8586f7e54720ab5a39c93acc2f4b8fba7a16ec1c24d69a08c613"
+    },
+    {
+      "input": "ff41fe114fb5e592809de8ec8f4ea64f088315f801f49d6375ee2b6e9b18dd77",
+      "output": "986e2890737d7abe583e75e30c3d93b1a209289aee87e4a8a46af45394e4095f"
+    },
+    {
+      "input": "a54e70c7d10bde2caa30d67d9ef474b3379d8569683cd2435432864cd8f2d7b8",
+      "output": "6e00cd562cc2d88e238dfb81d9439de7ec843ee9d0c9879d549cb1436786f975"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "59/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

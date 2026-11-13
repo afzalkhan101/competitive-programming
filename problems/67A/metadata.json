@@ -1,0 +1,34 @@
+{
+  "id": "67A",
+  "order": 372,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Partial Teacher",
+  "rating": 1800,
+  "tags": [
+    "dp",
+    "graphs",
+    "greedy",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/67/A",
+  "source": "problems/67A/main.cpp",
+  "statement": "problems/67A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "cca85feb5986a35767137885fe9c09bf341152d273e7e72c31aefb3c34c7af9d",
+      "output": "23c0c1c79b370584e1e6688306dac93aaa01346e6f47f2f86c62feb8a71d4fc2"
+    },
+    {
+      "input": "2cf13e545773ef50ec860ba1b0ec9b8493bcd5ac5422d4325c49ec3825214580",
+      "output": "55a45ba257c40c918a41aeda3f16240fb81e03ab070dee1b398dd28e7225347a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "67/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

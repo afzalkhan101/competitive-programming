@@ -1,0 +1,34 @@
+{
+  "id": "749A",
+  "order": 104,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Bachgold Problem",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/749/A",
+  "source": "problems/749A/main.cpp",
+  "statement": "problems/749A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+      "output": "897915fe18ad096867486459485298fe22b53479c67f2eedfa72c097b3aee682"
+    },
+    {
+      "input": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683",
+      "output": "4690c4102f004513a57f591ab9dd72765ba1e5789e91075ddb5eaac8605c7bcf"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "749/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

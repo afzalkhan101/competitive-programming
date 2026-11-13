@@ -1,0 +1,36 @@
+{
+  "id": "118A",
+  "order": 70,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "String Task",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/118/A",
+  "source": "problems/118A/main.cpp",
+  "statement": "problems/118A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "d7b44809a0359169b755a7030186df928be6b79eff65dc6534e17aacbca31c49",
+      "output": "076a5607df57ddc000a0c288e9f35b94979324f2618dc62275f167a137dc9a99"
+    },
+    {
+      "input": "b943ea141d932a4672712e90b1bf75808bde5bace50fce97a9b2ae6771764d3a",
+      "output": "f3cda8e0c2a93492f8ee4a25129a04f8cf001331747a48134df619a7cac5503d"
+    },
+    {
+      "input": "95d70b79b8de64f29bb91986002542ac1dbe35c82931d4cf9b539dbf260c7a2f",
+      "output": "fb8d22a53edb9b9da4dcfb8a051bd23eed0bf6c853181886d740b859ae46d70c"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "118/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,36 @@
+{
+  "id": "190A",
+  "order": 224,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Vasya and the Bus",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/190/A",
+  "source": "problems/190A/main.cpp",
+  "statement": "problems/190A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "f71998fe363b9c29116c80b5eecf33a2fedca3b6159724384485804b71651029",
+      "output": "04412575067f0bdb6722e31a7ee45744cc1ecf2dfacec4cfbfa70cfd364bb7e2"
+    },
+    {
+      "input": "782f44d2087f7122ee71274d743700e7dd3f3949d5f40df6d24535d5ef81c5d8",
+      "output": "7623b1fa270edd0bbfbcac43c4c3578153b6415b1aeb3387d5abf1a7ce4fe15f"
+    },
+    {
+      "input": "04412575067f0bdb6722e31a7ee45744cc1ecf2dfacec4cfbfa70cfd364bb7e2",
+      "output": "7bd7df1a31049cd71ae13cd2097a04efad83aa634963236227cec39eef3a2588"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "190/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

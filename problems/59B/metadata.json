@@ -1,0 +1,36 @@
+{
+  "id": "59B",
+  "order": 137,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Fortune Telling",
+  "rating": 1200,
+  "tags": [
+    "implementation",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/59/B",
+  "source": "problems/59B/main.cpp",
+  "statement": "problems/59B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "c553228271d4cf65305957e97cd75da60964776a9e615c702bd6a4c077d266c0",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "b598b3a62a3f7cedb17e66d1cb31d53dffeebaf5c07e2c60d5e31971936fd35e",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "275b25f7c3e746a53860c8666242ae26e594c9b729641b92d2da5340e2a2c539",
+      "output": "3fdba35f04dc8c462986c992bcf875546257113072a909c162f7e470e581e278"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "59/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

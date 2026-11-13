@@ -1,0 +1,31 @@
+{
+  "id": "61B",
+  "order": 439,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Hard Work",
+  "rating": 1300,
+  "tags": [
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/61/B",
+  "source": "problems/61B/main.cpp",
+  "statement": "problems/61B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "c7322aa67f96a62c99af49d9fe936ce126d3f982af5b3ea74ee7162f753d6657",
+      "output": "673c5d74ff1a3b113db74007517c6fc3257be5647a7e0d76ab39b130964c1844"
+    },
+    {
+      "input": "95a405f9cd3f2543776775395d190985c9f3a3d641cd2db334d65c95ce38cfaa",
+      "output": "e15180d157f6c2b522597dc2301f7de8912e74563c33295ff8f08e70cc29dad4"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "61/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

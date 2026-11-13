@@ -1,0 +1,39 @@
+{
+  "id": "251A",
+  "order": 446,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Points on Line",
+  "rating": 1300,
+  "tags": [
+    "binary search",
+    "combinatorics",
+    "two pointers"
+  ],
+  "url": "https://codeforces.com/problemset/problem/251/A",
+  "source": "problems/251A/main.cpp",
+  "statement": "problems/251A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "76e7a0c6069dacfe43d2ab3b552ee726795f4c422245c7b5fde6304e7365b32b",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "d8773f2d28274607906706c5a772bc695b7dd20a83520555e03f765e2301de33",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "71b9064f782a6e75d1cfcc47eb3f0016baa641cfc29ffd2be40fe8ec3b2145be",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "251/A",
+  "aliases": [
+    "252/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

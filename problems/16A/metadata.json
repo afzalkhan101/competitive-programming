@@ -1,0 +1,35 @@
+{
+  "id": "16A",
+  "order": 5,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Flag",
+  "rating": 800,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/16/A",
+  "source": "problems/16A/main.cpp",
+  "statement": "problems/16A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "7ac409557d98afc6c74df123728fa6002c72db9d31168b295b3ff678fd6782a3",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "5f2f261bd7cb4bde3c2c9cc92c627294a1fe80099153f2e6747f29af597d912b",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "eb1eac82fb501e2763751d432362cce723f6b241787906717f2affa395a23f70",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "16/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

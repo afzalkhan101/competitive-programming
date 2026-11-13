@@ -1,0 +1,32 @@
+{
+  "id": "259A",
+  "order": 413,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Little Elephant and Chess",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/259/A",
+  "source": "problems/259A/main.cpp",
+  "statement": "problems/259A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "f77725c6beb8d6a1d615aefda8a9e1c2484fba35392a911e8e07476b9edfcb0d",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "e9d5714856688140f43cf91c3809032388393b5f14d659a4ec4eeecbf8d301bb",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "259/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

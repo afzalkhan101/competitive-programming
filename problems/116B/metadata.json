@@ -1,0 +1,32 @@
+{
+  "id": "116B",
+  "order": 92,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Little Pigs and Wolves",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/116/B",
+  "source": "problems/116B/main.cpp",
+  "statement": "problems/116B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "e195a3604db0da2c15c88971be3de61a48fb231805ae78700102951d14533b95",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "db044be83273d56f2a24bb5ec80f2c6cb1319ff43ddb7ef51ab380c2f04c31bb",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "116/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

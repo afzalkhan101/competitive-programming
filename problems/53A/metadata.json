@@ -1,0 +1,35 @@
+{
+  "id": "53A",
+  "order": 84,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Autocomplete",
+  "rating": 1100,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/53/A",
+  "source": "problems/53A/main.cpp",
+  "statement": "problems/53A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "584a92c71b8883ac359e79b4da42be7c837d33d4c4c5fc3ffae30769747e2d6f",
+      "output": "dd6ea7e5461b8fe71b653e5edc10f047fc49cfa686642c385ec17308588292fd"
+    },
+    {
+      "input": "4bda953705dbaf292f1c8a17a718a431a9df24c1ed858ba09cdf072d80d8153e",
+      "output": "e6640de835ad09fb0a7367ee2e0ba99d0142c139db0272146e35538bd07479fc"
+    },
+    {
+      "input": "f1eb763366da123228fae9cf478a76739af368095d65975517698b2f6a885b4d",
+      "output": "e6640de835ad09fb0a7367ee2e0ba99d0142c139db0272146e35538bd07479fc"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "53/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

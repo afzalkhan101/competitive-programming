@@ -1,0 +1,39 @@
+{
+  "id": "24A",
+  "order": 338,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Ring road",
+  "rating": 1400,
+  "tags": [
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/24/A",
+  "source": "problems/24A/main.cpp",
+  "statement": "problems/24A/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "18c9256d00f9d2da84de86bdd34e7615e0ee81d1e056ea89eca681573073686e",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "4cea86327f2aa5e497be3680e67d5d12285a7a18fe5281623f6d566009cf7164",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "b22e96bce6d73080b2c4e961f334c6fd1c0713c4cdfdc62d7f2950af2ac1e625",
+      "output": "0b918943df0962bc7a1824c0555a389347b4febdc7cf9d1254406d80ce44e3f9"
+    },
+    {
+      "input": "ae4d42f4cbd9b947f12e87b47260013e29e6f8a6d24d3ac907438e6ee0cf1c4c",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "24/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

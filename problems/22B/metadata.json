@@ -1,0 +1,32 @@
+{
+  "id": "22B",
+  "order": 258,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Bargaining Table",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "dp"
+  ],
+  "url": "https://codeforces.com/problemset/problem/22/B",
+  "source": "problems/22B/main.cpp",
+  "statement": "problems/22B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "554341f506c2553a6d5c12f6a51478164297134ec3a8d4e5b4d0b7bd77b0f866",
+      "output": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3"
+    },
+    {
+      "input": "d507e3fe9a1be73ebd6cfd69d66b2cc25ca921b0e6922918ff22b3d60a2e3306",
+      "output": "b17ef6d19c7a5b1ee83b907c595526dcb1eb06db8227d650d5dda0a9f4ce8cd9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "22/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

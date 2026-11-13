@@ -1,0 +1,36 @@
+{
+  "id": "18A",
+  "order": 456,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Triangle",
+  "rating": 1500,
+  "tags": [
+    "brute force",
+    "geometry"
+  ],
+  "url": "https://codeforces.com/problemset/problem/18/A",
+  "source": "problems/18A/main.cpp",
+  "statement": "problems/18A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "3a1276b753c6474a4cd37cb95f55c246ee9bae6c69915012c5cf12e49f78990e",
+      "output": "c4ce3c7ad82c8235da21fae8ea48e071a10e7b1c6df6a9e5b4603852d8b3001c"
+    },
+    {
+      "input": "aa762f877df7ecbfd5503e4f862d419a4ed0c7940370053b992a291b76c711b4",
+      "output": "2030e8ddce107c34b1b115afe0c5f7d13c5fa64f25c59ddef1104bd8088c872c"
+    },
+    {
+      "input": "e4ecf532e836460f8a329a9d8a6581c8f1a4575dbfd35e2fcf049dde91fcba5e",
+      "output": "b3ab1a23d4e099dc1263ee63a0de5bc2d5f7929de7057ab12fb79c8290548da3"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "18/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

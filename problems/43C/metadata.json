@@ -1,0 +1,31 @@
+{
+  "id": "43C",
+  "order": 241,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Lucky Tickets",
+  "rating": 1300,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/43/C",
+  "source": "problems/43C/main.cpp",
+  "statement": "problems/43C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "a433cc5146526f3844bd164f4ef35f4d76852d9d73643ee54cf2cb5260897604",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "f12da8aacb08fe621e45c505f17b3fc8d3d6779f2ffcf4a3fd9f82e22d6d53ae",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "43/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,33 @@
+{
+  "id": "37C",
+  "order": 380,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Old Berland Language",
+  "rating": 1900,
+  "tags": [
+    "data structures",
+    "greedy",
+    "trees"
+  ],
+  "url": "https://codeforces.com/problemset/problem/37/C",
+  "source": "problems/37C/main.cpp",
+  "statement": "problems/37C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "fcf1118351be8397e5f451ca4bc45bff96a26824f71e01f56a13fcd16e2702f7",
+      "output": "25b76efc864ad3b1fffc5823b3053ec08fcd9bb5fb527708b568c40480925842"
+    },
+    {
+      "input": "a746a03c10d3bc46b4981d109e4426c4efbef6527a41d97238d1c052888ae5e9",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "37/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,31 @@
+{
+  "id": "19B",
+  "order": 299,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Checkout Assistant",
+  "rating": 1900,
+  "tags": [
+    "dp"
+  ],
+  "url": "https://codeforces.com/problemset/problem/19/B",
+  "source": "problems/19B/main.cpp",
+  "statement": "problems/19B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ee9c2fd030ea5f792d2652c63b062a214d62af0c7e43c65b2c01c2bfbdad6481",
+      "output": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3"
+    },
+    {
+      "input": "079c14e38e1ade08fa76dfa442c15b6f4c8fe6b877c28757b9acfa686091e2fd",
+      "output": "f6e0a1e2ac41945a9aa7ff8a8aaa0cebc12a3bcc981a929ad5cf810a090e11ae"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "19/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

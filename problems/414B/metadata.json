@@ -1,0 +1,39 @@
+{
+  "id": "414B",
+  "order": 157,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Mashmokh and ACM",
+  "rating": 1400,
+  "tags": [
+    "combinatorics",
+    "dp",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/414/B",
+  "source": "problems/414B/main.cpp",
+  "statement": "problems/414B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "c64b40bd6b04f739d22eede5a843a916f7581a6868d763dccb4137b482233d35",
+      "output": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+    },
+    {
+      "input": "05344da066594a7766f67abb15329752852b41b66a23f08addab5169e627337a",
+      "output": "0b918943df0962bc7a1824c0555a389347b4febdc7cf9d1254406d80ce44e3f9"
+    },
+    {
+      "input": "e57acc10f53c55bd65c8462f1402834edd30e4f41203988a0cac5aff6122a614",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "414/B",
+  "aliases": [
+    "415/D"
+  ],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

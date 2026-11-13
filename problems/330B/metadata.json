@@ -1,0 +1,28 @@
+{
+  "id": "330B",
+  "order": 332,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Road Construction",
+  "rating": 1300,
+  "tags": [
+    "constructive algorithms",
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/330/B",
+  "source": "problems/330B/main.cpp",
+  "statement": "problems/330B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "e9d057492163819a7b7cf655d194f8867d5b0162a50962c95a92a211d1844879",
+      "output": "6e6a94f27757ebc099048e5206f7b1c968c1dc91579d812969fe9acfadb2d791"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "330/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

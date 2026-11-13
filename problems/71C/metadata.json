@@ -1,0 +1,37 @@
+{
+  "id": "71C",
+  "order": 169,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Round Table Knights",
+  "rating": 1600,
+  "tags": [
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/71/C",
+  "source": "problems/71C/main.cpp",
+  "statement": "problems/71C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "a746a03c10d3bc46b4981d109e4426c4efbef6527a41d97238d1c052888ae5e9",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "03ba3832f2fe831b8cbe508b255e3024db12cd907a0ae0641ff8192a18c17ab4",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "62e386906de7d58411c768a9777101d1f159b66510c43d69f760687952c206b5",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "71/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 0.5,
+  "memoryLimit": 256.0
+}

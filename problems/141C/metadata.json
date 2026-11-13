@@ -1,0 +1,33 @@
+{
+  "id": "141C",
+  "order": 488,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Queue",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/141/C",
+  "source": "problems/141C/main.cpp",
+  "statement": "problems/141C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "37a6889f96c38f394e4515dbfcfa67df672796553a257ab862cb3e1c832789ca",
+      "output": "c9a94967c9f7baa8d63e3f89786a00221f4e1d62ec993ad9f9f61db90e55af26"
+    },
+    {
+      "input": "05021d3f54adf2ddf367421f7c52f01a2eb79311a3dc96169c849b95468cda26",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "141/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

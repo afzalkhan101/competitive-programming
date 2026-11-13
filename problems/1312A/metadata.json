@@ -1,0 +1,30 @@
+{
+  "id": "1312A",
+  "order": 107,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Two Regular Polygons",
+  "rating": 800,
+  "tags": [
+    "geometry",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1312/A",
+  "source": "problems/1312A/main.cpp",
+  "statement": "problems/1312A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "9062af415d15d5683334c3ca0cbdc122c57cbce863ef3dc730d94976d48653c1",
+      "output": "48466f15aaead5e2742c0c399499299fc5418ec26640f25f2dda4f933b46301c"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1312/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,32 @@
+{
+  "id": "231D",
+  "order": 471,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Magic Box",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "geometry"
+  ],
+  "url": "https://codeforces.com/problemset/problem/231/D",
+  "source": "problems/231D/main.cpp",
+  "statement": "problems/231D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "9d40ede728f09f1912ea70f2ad6608bef46b798bc8d6cb8d405eb696357256a8",
+      "output": "6b51d431df5d7f141cbececcf79edf3dd861c3b4069f0b11661a3eefacbba918"
+    },
+    {
+      "input": "5c10b778d0fd07ef6bd5ba17c836113b564c6a0eeeeb274c76fd496265a4acea",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "231/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

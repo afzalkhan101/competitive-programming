@@ -1,0 +1,35 @@
+{
+  "id": "39D",
+  "order": 81,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Cubical Planet",
+  "rating": 1100,
+  "tags": [
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/39/D",
+  "source": "problems/39D/main.cpp",
+  "statement": "problems/39D/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "13fcd7997d049880b077d2c1e79f585c4c9b9e853bb963a07179877da2d87ac1",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "2560701e411a71c39ea7bb9f659742da2fb9d36f49ea656bbfc9380c52bbc094",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "7236df26fe2b7a0e4085a4b11eb545c645d7609b0eba915263fd094353839174",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "39/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

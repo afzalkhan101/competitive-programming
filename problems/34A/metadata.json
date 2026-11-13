@@ -1,0 +1,31 @@
+{
+  "id": "34A",
+  "order": 9,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Reconnaissance 2",
+  "rating": 800,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/34/A",
+  "source": "problems/34A/main.cpp",
+  "statement": "problems/34A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "9f9e493307e0915b2c46ab96ca64bb1c9b048f3151d7c8a62547a9ba69bfb29a",
+      "output": "194fccc2a325736e71080e5531d3693de3b41e8e5426ebd607597051a15b3490"
+    },
+    {
+      "input": "05c174dad3ea8c4659dc291f1569127a9e46511ebf2d1dc962a71891aed4aaa1",
+      "output": "f71998fe363b9c29116c80b5eecf33a2fedca3b6159724384485804b71651029"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "34/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,37 @@
+{
+  "id": "385C",
+  "order": 178,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Bear and Prime Numbers",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dp",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/385/C",
+  "source": "problems/385C/main.cpp",
+  "statement": "problems/385C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "4c0b16b5459220f2a7290efa7271c6eb54cb4c7bb77cf524f6ad8761d705ae8d",
+      "output": "121c4a688d76e8764991bfa82e108f1f1a2adee13778b9a73ea4e936d64a6340"
+    },
+    {
+      "input": "fcb55ada54f4d8d68bc11e43b728cd4573b7b4aba2a91a87c68c9475488ac6e1",
+      "output": "69c948ea032dbbb383d0366934db9e295152e9d45785662ec324e8d85b0d1808"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "385/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 512.0
+}

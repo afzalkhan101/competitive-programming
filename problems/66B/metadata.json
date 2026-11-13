@@ -1,0 +1,36 @@
+{
+  "id": "66B",
+  "order": 85,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Petya and Countryside",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/66/B",
+  "source": "problems/66B/main.cpp",
+  "statement": "problems/66B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "b598b3a62a3f7cedb17e66d1cb31d53dffeebaf5c07e2c60d5e31971936fd35e",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "548aeb5d957c343bf6acfb91610537641976076e75a1d136f4c1a32b3a15764c",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    },
+    {
+      "input": "012dd3a13e5f5403b393dcfd98c9714cffc480ce5c63badeb1f2820775169049",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "66/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

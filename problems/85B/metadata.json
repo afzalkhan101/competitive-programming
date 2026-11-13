@@ -1,0 +1,32 @@
+{
+  "id": "85B",
+  "order": 375,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Embassy Queue",
+  "rating": 1800,
+  "tags": [
+    "data structures",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/85/B",
+  "source": "problems/85B/main.cpp",
+  "statement": "problems/85B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "484eb2865f7e4bce6d1e8ac915b3f99cdee4e55561ef38a0187dec13352ab15c",
+      "output": "7902699be42c8a8e46fbbb4501726517e86b22c56a189f7625a6da49081b2451"
+    },
+    {
+      "input": "aa004fe6796a698e15e96c0d20ee02a54f897ff51592fd0cf30df1389219ba6e",
+      "output": "3fdba35f04dc8c462986c992bcf875546257113072a909c162f7e470e581e278"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "85/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1245A",
+  "order": 126,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Good ol' Numbers Coloring",
+  "rating": 1000,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1245/A",
+  "source": "problems/1245A/main.cpp",
+  "statement": "problems/1245A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "f2b636222a2d2bb6e7c2280aedbae3503c74bd4d227a9732b4bade9d0aa07e8a",
+      "output": "bab44fb0cea66465cda15a7e252fca6b9e04a1346e247edf4cfe7de19a7e0097"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1245/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,32 @@
+{
+  "id": "4B",
+  "order": 229,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Before an Exam",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/4/B",
+  "source": "problems/4B/main.cpp",
+  "statement": "problems/4B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ac4b8334b6d18a5fdb3b199c077f8f7d512e7a24d8ae447e372e799aa396088f",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "e905d3381baa68640aff36eb59a75f02f9f72d1de631340025061bf6df4c71a8",
+      "output": "d3392554e2c6d1de670ef592d3bdcf76fa51e6135fb50772e5b9b0d1057914a4"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "4/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 0.5,
+  "memoryLimit": 64.0
+}

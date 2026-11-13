@@ -1,0 +1,33 @@
+{
+  "id": "361B",
+  "order": 139,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Levko and Permutation",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/361/B",
+  "source": "problems/361B/main.cpp",
+  "statement": "problems/361B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "73c6486e6a5c1897d40af5c75219b5e5310df7ce20f20d63559be25a28053341",
+      "output": "33fc33e040f009915b9afb67f998a5e48591295f251a3830a82e31a0e15d5c01"
+    },
+    {
+      "input": "020a7c91e30725bb191818987340dec6040aff93923840de685e1e1d7b3d071a",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "361/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,36 @@
+{
+  "id": "320A",
+  "order": 205,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Magic Numbers",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/320/A",
+  "source": "problems/320A/main.cpp",
+  "statement": "problems/320A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "0275ced6bd5bce0644ecad72f4bb2d664d664883b131d9a6a223e397d2c3656c",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "0da0bbfe61d7cd72d405e9117d947ebb43459318e44f282b80107e198aa40526",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "320/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

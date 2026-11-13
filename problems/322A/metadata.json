@@ -1,0 +1,31 @@
+{
+  "id": "322A",
+  "order": 219,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Ciel and Dancing",
+  "rating": 1000,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/322/A",
+  "source": "problems/322A/main.cpp",
+  "statement": "problems/322A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "e57acc10f53c55bd65c8462f1402834edd30e4f41203988a0cac5aff6122a614",
+      "output": "decc1e2b5bf1a12be2b97cc2a8cf517584fbe12db7846753089b43d6a37f9eb9"
+    },
+    {
+      "input": "04412575067f0bdb6722e31a7ee45744cc1ecf2dfacec4cfbfa70cfd364bb7e2",
+      "output": "9a87fb749a32340676591256f96501a85a73fcb929966bf60644c38459f2f29a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "322/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

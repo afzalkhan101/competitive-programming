@@ -1,0 +1,32 @@
+{
+  "id": "49C",
+  "order": 475,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Disposition",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/49/C",
+  "source": "problems/49C/main.cpp",
+  "statement": "problems/49C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+      "output": "e57acc10f53c55bd65c8462f1402834edd30e4f41203988a0cac5aff6122a614"
+    },
+    {
+      "input": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce",
+      "output": "c2c7cb513afe6b0b3249d32b70cb2aeff7f354f07bcdf47cd24cdc6269d53fd3"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "49/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

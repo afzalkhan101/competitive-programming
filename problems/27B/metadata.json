@@ -1,0 +1,30 @@
+{
+  "id": "27B",
+  "order": 238,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Tournament",
+  "rating": 1300,
+  "tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/27/B",
+  "source": "problems/27B/main.cpp",
+  "statement": "problems/27B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "6ce07c7d5aa4d11cb4833181745afcd41605080ea7e0a8d0286d1ef57dffa743",
+      "output": "c33a915bed8c8aa8a4a28414bb9424904099b1d0f8a4244f9077b3b13113cf98"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "27/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

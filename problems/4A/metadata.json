@@ -1,0 +1,28 @@
+{
+  "id": "4A",
+  "order": 1,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Watermelon",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/4/A",
+  "source": "problems/4A/main.cpp",
+  "statement": "problems/4A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "4/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 64.0
+}

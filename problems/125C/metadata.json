@@ -1,0 +1,32 @@
+{
+  "id": "125C",
+  "order": 271,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Hobbits' Party",
+  "rating": 1600,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/125/C",
+  "source": "problems/125C/main.cpp",
+  "statement": "problems/125C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a",
+      "output": "204c2e2c3054107af68b40e0b5ad60db5816e94d268194e5d5293b7b4bbbb398"
+    },
+    {
+      "input": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+      "output": "204c2e2c3054107af68b40e0b5ad60db5816e94d268194e5d5293b7b4bbbb398"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "125/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "7C",
+  "order": 185,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Line",
+  "rating": 1800,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/7/C",
+  "source": "problems/7C/main.cpp",
+  "statement": "problems/7C/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "0cef418412e2fc5471bfb509a43f24c852eac8a4a07ad1d5b73283b66b1486ab",
+      "output": "a50fe6d021b9fa6362fecad02e70fecc1129f13e5514d6b7cbacdf13b02b9892"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "7/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

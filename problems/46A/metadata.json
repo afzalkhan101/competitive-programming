@@ -1,0 +1,32 @@
+{
+  "id": "46A",
+  "order": 12,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Ball Game",
+  "rating": 800,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/46/A",
+  "source": "problems/46A/main.cpp",
+  "statement": "problems/46A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5",
+      "output": "b972d6f334808e1b3dc87a03da59bbe3f7f5c635b11f9de9b1e857e1123a15ae"
+    },
+    {
+      "input": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce",
+      "output": "e57acc10f53c55bd65c8462f1402834edd30e4f41203988a0cac5aff6122a614"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "46/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

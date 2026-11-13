@@ -1,0 +1,33 @@
+{
+  "id": "500A",
+  "order": 301,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "New Year Transportation",
+  "rating": 1000,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/500/A",
+  "source": "problems/500A/main.cpp",
+  "statement": "problems/500A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ec74a3a778303d38dd34c8cac9f4989b0dee6cfdfda458b8faef81c85a979363",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "ba429de3770be35991c6acd976070f340333e6b43c395941f40187e3d1b8cd1c",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "500/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,40 @@
+{
+  "id": "165C",
+  "order": 273,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Another Problem on Strings",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "brute force",
+    "dp",
+    "math",
+    "strings",
+    "two pointers"
+  ],
+  "url": "https://codeforces.com/problemset/problem/165/C",
+  "source": "problems/165C/main.cpp",
+  "statement": "problems/165C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "5d2693a7fcfd7cfa71cc3fc7d2fd4fc9bbbbcb80eac300fa0ece4011a6159be0",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    },
+    {
+      "input": "1112d4585e38a144945188821fdd96834f7c621181fada2995226e00f4fe3639",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "6d98809a9d1b8e272f4a1420af7efb13d101dc28f9079608e57c1db6507b6960",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "165/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

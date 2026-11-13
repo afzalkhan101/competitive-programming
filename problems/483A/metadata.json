@@ -1,0 +1,38 @@
+{
+  "id": "483A",
+  "order": 128,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Counterexample",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/483/A",
+  "source": "problems/483A/main.cpp",
+  "statement": "problems/483A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "dcc1e3cc830c461dc675bd873d1103b0003007b91f66f777130fed278b608e83",
+      "output": "91b53ac182d1834519d964a84c15106035af6e5c57f1ba0f7a52f6e1465e1b05"
+    },
+    {
+      "input": "acfd7d097550c494f8e711db131d694a56d613f7313528b2e679e9c6eb97efe0",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    },
+    {
+      "input": "e7e45d9be07963872690a87fc139ff1a9f09af0085303ccd6e18f3530a810d57",
+      "output": "7668d5e0e60acc31a4202ad1326bb01c4fcb21d5de5d6b9d71827f60ef462bff"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "483/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

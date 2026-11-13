@@ -1,0 +1,44 @@
+{
+  "id": "60B",
+  "order": 339,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Serial Time!",
+  "rating": 1400,
+  "tags": [
+    "dfs and similar",
+    "dsu"
+  ],
+  "url": "https://codeforces.com/problemset/problem/60/B",
+  "source": "problems/60B/main.cpp",
+  "statement": "problems/60B/problem.md",
+  "samples": 5,
+  "sampleHashes": [
+    {
+      "input": "b5ebb995852712c7efc75e923111261ba641a117c9ff9412571b8e6a4cc9910d",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "3c27b4e89b0d613d0f55b5870cdf9eb1396578075b75a7f5444188273a445998",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "2ee57ad2a822fbbe2e3b35733f3b56fc0d6c0815e73a0b8ce313e5031d7a284c",
+      "output": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+    },
+    {
+      "input": "58cd817e822845423ebf025f5a40900e9a2114b4fc69abc40376dd76cfe92c51",
+      "output": "7902699be42c8a8e46fbbb4501726517e86b22c56a189f7625a6da49081b2451"
+    },
+    {
+      "input": "d4624f61c6eda23b2cfb2d65a6b01b8a642bd08adbb26129f0ac8abcae58923e",
+      "output": "3fdba35f04dc8c462986c992bcf875546257113072a909c162f7e470e581e278"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "60/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

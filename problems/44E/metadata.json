@@ -1,0 +1,31 @@
+{
+  "id": "44E",
+  "order": 249,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Anfisa the Monkey",
+  "rating": 1400,
+  "tags": [
+    "dp"
+  ],
+  "url": "https://codeforces.com/problemset/problem/44/E",
+  "source": "problems/44E/main.cpp",
+  "statement": "problems/44E/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "47652b6d7a38673cf33d7560f80b6a4de59bcbf04aa3035d8a18bb7791c2b69c",
+      "output": "6ddebbc2465fc7694d0bd64d8bb3ebe747268ffa69a566fa15d91ce8111b070f"
+    },
+    {
+      "input": "197f30aa9339dcd569ef931c97d791120f909125b42483a38d6c4f48aa6164f0",
+      "output": "840d38405d19aebed9488b6aeae0d4ea99b0c29742814555cc6bcd698febedf5"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "44/E",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,33 @@
+{
+  "id": "8B",
+  "order": 337,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Obsession with Robots",
+  "rating": 1400,
+  "tags": [
+    "constructive algorithms",
+    "graphs",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/8/B",
+  "source": "problems/8B/main.cpp",
+  "statement": "problems/8B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "503bc295ec076f0f072169637e9e6c4cfe9f1fdedeb85ffba570439d34b0bf7f",
+      "output": "565339bc4d33d72817b583024112eb7f5cdf3e5eef0252d6ec1b9c9a94e12bb3"
+    },
+    {
+      "input": "519c2398d70c5772f08f024a1b7b65ae1fe44a0a50d9a808abba1571cb0502fa",
+      "output": "70a99aa3b1de94b02b6b8564d200d7982427a993d263f8b62cdd59715acc852b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "8/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

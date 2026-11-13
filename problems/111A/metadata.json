@@ -1,0 +1,37 @@
+{
+  "id": "111A",
+  "order": 253,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Petya and Inequiations",
+  "rating": 1400,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/111/A",
+  "source": "problems/111A/main.cpp",
+  "statement": "problems/111A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "a28ed798380aa4ca40acdb58f8d95c4f26d63cd717415c2b7fb1634e21d245f8",
+      "output": "085b9003bedad4c12ed252d9a6cd72109ba5a9cbcfa201560a5bb08a545dbf82"
+    },
+    {
+      "input": "272cf60bb22c1e2dd92ca2a29831576d6795af247a115af23be79ef6dfdcb944",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    },
+    {
+      "input": "709e090f26653ab247f89576b16866a439c3bb8ccac3a73a8fd46fdc3ce364e3",
+      "output": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "111/A",
+  "aliases": [
+    "112/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

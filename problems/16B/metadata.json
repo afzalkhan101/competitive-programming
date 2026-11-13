@@ -1,0 +1,33 @@
+{
+  "id": "16B",
+  "order": 29,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Burglar and Matches",
+  "rating": 900,
+  "tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/16/B",
+  "source": "problems/16B/main.cpp",
+  "statement": "problems/16B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "af59a8f0d42eea24d766d0de4e62ea9690b21d0c88b1bbf54e3e0a32f503d918",
+      "output": "81b8a03f97e8787c53fe1a86bda042b6f0de9b0ec9c09357e107c99ba4d6948a"
+    },
+    {
+      "input": "b1e7e0f021d147748e631680c0a0f21812ec00076b847a183d5dc01e0918c748",
+      "output": "7902699be42c8a8e46fbbb4501726517e86b22c56a189f7625a6da49081b2451"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "16/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 0.5,
+  "memoryLimit": 64.0
+}

@@ -1,0 +1,32 @@
+{
+  "id": "50A",
+  "order": 15,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Domino piling",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/50/A",
+  "source": "problems/50A/main.cpp",
+  "statement": "problems/50A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "dcc1e3cc830c461dc675bd873d1103b0003007b91f66f777130fed278b608e83",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "cd0cf807835179d73cad42fefc8c76827617958cf3e022ae2c8c454828e9cc38",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "50/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

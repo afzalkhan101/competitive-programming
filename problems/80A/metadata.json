@@ -1,0 +1,35 @@
+{
+  "id": "80A",
+  "order": 20,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Panoramix's Prediction",
+  "rating": 800,
+  "tags": [
+    "brute force"
+  ],
+  "url": "https://codeforces.com/problemset/problem/80/A",
+  "source": "problems/80A/main.cpp",
+  "statement": "problems/80A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "38f98a4853316a8811ac4918754966ed253d55cf7779ccb9dd75f7c7cc711447",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "e4cebc5001888915a29581a634871cb241b537a9cddabbaefbcc1e0cebbcd59f",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "68387016c4cc89902dd5a8116f7032d70f472349a0647c22acda082cc603c89b",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "80/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

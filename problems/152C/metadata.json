@@ -1,0 +1,31 @@
+{
+  "id": "152C",
+  "order": 451,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Pocket Book",
+  "rating": 1400,
+  "tags": [
+    "combinatorics"
+  ],
+  "url": "https://codeforces.com/problemset/problem/152/C",
+  "source": "problems/152C/main.cpp",
+  "statement": "problems/152C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "3da81580b4beee9ffcd260b189819c474ea67954a341410d76f8e94a3730b4ee",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "3d00b1f8cc3d6e3dcd3d9fc37b8b62112a000c2185f8738a8fe84b4cb14e6354",
+      "output": "0f4121d0ef1df4c86854c7ebb47ae1c93de8aec8f944035eeaa6495dd71a0678"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "152/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,34 @@
+{
+  "id": "148D",
+  "order": 491,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Bag of mice",
+  "rating": 1800,
+  "tags": [
+    "dp",
+    "games",
+    "math",
+    "probabilities"
+  ],
+  "url": "https://codeforces.com/problemset/problem/148/D",
+  "source": "problems/148D/main.cpp",
+  "statement": "problems/148D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "63b51e9a6a3330e3291aa4d3f6b44c69d7fb50791c3427054c934abe929fd780",
+      "output": "ead28a2fc1e9f2b0062c6e260744c69e1f3fdb64c4425a4baa94c4e239e46130"
+    },
+    {
+      "input": "b1766f061523cc0d6619c0d86cf5b6781cfd51553de9f483940e611ce8b8591a",
+      "output": "084e5295500400fb5327974e91782a1948210add4e04222ddb99880fb915535d"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "148/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

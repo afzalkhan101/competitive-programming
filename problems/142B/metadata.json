@@ -1,0 +1,35 @@
+{
+  "id": "142B",
+  "order": 489,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Help General",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/142/B",
+  "source": "problems/142B/main.cpp",
+  "statement": "problems/142B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "dcc1e3cc830c461dc675bd873d1103b0003007b91f66f777130fed278b608e83",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "7f5564f0fafd57bfe1d569c9320f06a12364394e6ea245de8d919cc423e02868",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "142/B",
+  "aliases": [
+    "143/D"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

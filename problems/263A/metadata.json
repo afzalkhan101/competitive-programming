@@ -1,0 +1,31 @@
+{
+  "id": "263A",
+  "order": 24,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Beautiful Matrix",
+  "rating": 800,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/263/A",
+  "source": "problems/263A/main.cpp",
+  "statement": "problems/263A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ad3cb1c5d37ba5fb7f2a4593057d0a714e2582369ce7eaa584d42820221d2eaa",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    },
+    {
+      "input": "303a717421940b465dce946912fb5f927be9a1d1de1eb9ed6f510fc66314ef55",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "263/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

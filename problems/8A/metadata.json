@@ -1,0 +1,31 @@
+{
+  "id": "8A",
+  "order": 430,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Train and Peter",
+  "rating": 1200,
+  "tags": [
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/8/A",
+  "source": "problems/8A/main.cpp",
+  "statement": "problems/8A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "739f6df54bb0e6cb9c16c30814eddaba53535255a34d7db650c327114ab63603",
+      "output": "9dc08e4033827c93f48cabc2f61e3f9817b51a7f1bcfa513a7537dcbc5d162e7"
+    },
+    {
+      "input": "8341c7df54db6b3d4f84600631f8b9afa4f094e8bfc7baec962bb6d4c2d7a768",
+      "output": "ff7772053abf7d817d6eec229a09e14f0d1552f1cb0aeedb2ac73784ac2d2e39"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "8/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 64.0
+}

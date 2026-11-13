@@ -1,0 +1,32 @@
+{
+  "id": "236B",
+  "order": 148,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Easy Number Challenge",
+  "rating": 1300,
+  "tags": [
+    "implementation",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/236/B",
+  "source": "problems/236B/main.cpp",
+  "statement": "problems/236B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ea9196053c0b2037e0c48ad811e09560f0c0b9173487dd0ab6840ddd00d7b6f6",
+      "output": "f5ca38f748a1d6eaf726b8a42fb575c3c71f1864a8143301782de13da2d9202b"
+    },
+    {
+      "input": "aca6d7b676f4d01e2418dc8d1550163e526826160087c42c968e1f3ac1e1b592",
+      "output": "8f08fb89c225a58e92455fae25d3df22bda90a094bfc8e0240b8a9bd94318159"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "236/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

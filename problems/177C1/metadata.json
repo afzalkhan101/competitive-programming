@@ -1,0 +1,31 @@
+{
+  "id": "177C1",
+  "order": 348,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Party",
+  "rating": 1500,
+  "tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/177/C1",
+  "source": "problems/177C1/main.cpp",
+  "statement": "problems/177C1/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "b7a27bb713657871bc543047cdde86506307ca1cd97788bebd64a12457a76ae4",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "177/C1",
+  "aliases": [
+    "177/C2"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

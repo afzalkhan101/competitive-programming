@@ -1,0 +1,37 @@
+{
+  "id": "128A",
+  "order": 347,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Statues",
+  "rating": 1500,
+  "tags": [
+    "dfs and similar"
+  ],
+  "url": "https://codeforces.com/problemset/problem/128/A",
+  "source": "problems/128A/main.cpp",
+  "statement": "problems/128A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "1d3f1aa9bc20604ce1f45f415a21f9ff3bf8d16af2f50e040dd66d48352ee234",
+      "output": "0f92be0c4b13ce9b1adcb8b77ea1e7f272ae38fe698d5e9000e1122ce30378c0"
+    },
+    {
+      "input": "4e15eee7a1455f78b1fff56f5e74c85494b03a25759bc5f84bdb9aa7877fdfc2",
+      "output": "7c3ff96178b46787d1168c236c57c1ac4f33f27498b51dee17a1e75412e4585c"
+    },
+    {
+      "input": "ecf03eaccd5e90a4e353e93959eed202c07c18bf86e9a4272044a162aec73892",
+      "output": "7c3ff96178b46787d1168c236c57c1ac4f33f27498b51dee17a1e75412e4585c"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "128/A",
+  "aliases": [
+    "129/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

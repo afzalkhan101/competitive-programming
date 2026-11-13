@@ -1,0 +1,32 @@
+{
+  "id": "62B",
+  "order": 290,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Tyndex.Brome",
+  "rating": 1800,
+  "tags": [
+    "binary search",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/62/B",
+  "source": "problems/62B/main.cpp",
+  "statement": "problems/62B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "8667ce1f2986c9b227dae5390755d8573e7dad7c923fad4b02d0d4bdcdefc2f8",
+      "output": "d860ea808b3b202dfc115443274b3a5a579e084fad60db38d5d841b1b967913b"
+    },
+    {
+      "input": "b496e530578fdf26af97aeb959fad12f4e89bdff801497a545a1d96ceace7c00",
+      "output": "408fc3d983b9f325afcb96176389186cfbdf8919e236f415c8dce63eeeacb7ec"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "62/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

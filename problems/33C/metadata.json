@@ -1,0 +1,35 @@
+{
+  "id": "33C",
+  "order": 284,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Wonderful Randomized Sum",
+  "rating": 1800,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/33/C",
+  "source": "problems/33C/main.cpp",
+  "statement": "problems/33C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "2bddf90325c0b4b5ed63a3f74198a96088924821bf3a9ff32a691b73f356b716",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    },
+    {
+      "input": "bbb35c9a69fa0e5ac76f92c459243fbdf736a9fe201eef93954f0bacbc3be715",
+      "output": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8"
+    },
+    {
+      "input": "3fa501ed80dd6bc72c160b2fdc5cca72859bcb684a2dbb6c8e65359a09ccb574",
+      "output": "4ec9599fc203d176a301536c2e091a19bc852759b255bd6818810a42c5fed14a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "33/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

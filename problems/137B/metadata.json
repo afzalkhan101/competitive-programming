@@ -1,0 +1,35 @@
+{
+  "id": "137B",
+  "order": 214,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Permutation",
+  "rating": 1000,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/137/B",
+  "source": "problems/137B/main.cpp",
+  "statement": "problems/137B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "960936c9a4610972f13e2cf2d767d227edcd2a2b54cb6d4009cd5a0c34f19a95",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "1e129b1895b0130d0cf44da7ea4ffc486f3df813fb958bb07c35f985ed367273",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "e868162390fd0a24fa035579bbb51b72091391cc91493a85203393d7ae15aa27",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "137/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

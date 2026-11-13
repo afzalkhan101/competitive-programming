@@ -1,0 +1,40 @@
+{
+  "id": "79C",
+  "order": 374,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Beaver",
+  "rating": 1800,
+  "tags": [
+    "data structures",
+    "dp",
+    "greedy",
+    "hashing",
+    "strings",
+    "two pointers"
+  ],
+  "url": "https://codeforces.com/problemset/problem/79/C",
+  "source": "problems/79C/main.cpp",
+  "statement": "problems/79C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "a0cf3f37aba7098cdb3b9110e3f7b6df9c7b38813b5b697be04ccdaef47661e2",
+      "output": "5b137f2e16514f8f02103379b54ec9129aa4183e0c71ce591dc986fef27cfdd1"
+    },
+    {
+      "input": "8a4b43abb3170ffbc378e7811be34f4365aee834ba7ff77678fa01a4d73a18e0",
+      "output": "933305f987bcf5fb6c250018e35a6eee1528f06013807a4136ec13622909af97"
+    },
+    {
+      "input": "d335ab471fefa6147aff075f3b45029262570112c932ce4b45f9299c42e27bef",
+      "output": "b1766f061523cc0d6619c0d86cf5b6781cfd51553de9f483940e611ce8b8591a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "79/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

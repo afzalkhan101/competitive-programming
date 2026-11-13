@@ -1,0 +1,36 @@
+{
+  "id": "140A",
+  "order": 479,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "New Year Table",
+  "rating": 1700,
+  "tags": [
+    "geometry",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/140/A",
+  "source": "problems/140A/main.cpp",
+  "statement": "problems/140A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "f71929a7c97e2ba6b80f84d7716fe9bc8720189bd0eefed29136e2ec252bff9e",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "4a10f884776e6d27f9ec099ec2c5b140b477c9a1eac82c6f67ba737836d68cda",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "76c90080c09c858e24326b6bedb43816a9ebfcdcd2b2c3ab51f3d0acc852975b",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "140/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

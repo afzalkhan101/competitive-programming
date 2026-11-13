@@ -1,0 +1,40 @@
+{
+  "id": "292B",
+  "order": 323,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Network Topology",
+  "rating": 1200,
+  "tags": [
+    "graphs",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/292/B",
+  "source": "problems/292B/main.cpp",
+  "statement": "problems/292B/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "3188b06193c3a42df51ac80667cca0a257375e68002ab7582a7e5ef5a8dadc02",
+      "output": "6ea186942c6453343b0fec09cae356249d3675cd0f73d18135a20e147e3ad4d3"
+    },
+    {
+      "input": "f1a4a4b480124aa7e9ac8b419f1e047efd269df0923bcec8866ba199317aa03a",
+      "output": "0f05ebbbc9c7e9f7ebf6500a718eba07cfe27d5661749d567630d1605e15a5af"
+    },
+    {
+      "input": "5accba55b1578bf91136bf64f80e2395c4723005058fd9d0ec6684cb8d1e01c1",
+      "output": "5aa30bc9f7d6b15e957c6a4dfa87cab181f2768862422ed4c6b26963da216fd3"
+    },
+    {
+      "input": "71109bb19e7050ccc992d86c3bda8f4bc5cacc7005c06c716a06aa66e3baff8d",
+      "output": "b689a5ddc28cd09e16e98485849f6f9f19a29059d2bcbd53debeb07e6d1eacb0"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "292/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,101 @@
+# 412A · Poster
+
+<!-- practice-tags:start -->
+<div class="practice-tags" aria-label="Category and topic tags"><span class="practice-tag category-tag" data-category="algorithms">Algorithms</span><span class="practice-tag">greedy</span><span class="practice-tag">implementation</span></div>
+<!-- practice-tags:end -->
+
+[Codeforces problem](https://codeforces.com/problemset/problem/412/A) · Rating 900
+
+Time: 1.0 seconds · Memory: 256.0 MB
+
+## Problem
+
+The R1 company has recently bought a high rise building in the centre of Moscow for its main office. It's time to decorate the new office, and the first thing to do is to write the company's slogan above the main entrance to the building.
+
+The slogan of the company consists of n characters, so the decorators hung a large banner, n meters wide and 1 meter high, divided into n equal squares. The first character of the slogan must be in the first square (the leftmost) of the poster, the second character must be in the second square, and so on.
+
+Of course, the R1 programmers want to write the slogan on the poster themselves. To do this, they have a large (and a very heavy) ladder which was put exactly opposite the k-th square of the poster. To draw the i-th character of the slogan on the poster, you need to climb the ladder, standing in front of the i-th square of the poster. This action (along with climbing up and down the ladder) takes one hour for a painter. The painter is not allowed to draw characters in the adjacent squares when the ladder is in front of the i-th square because the uncomfortable position of the ladder may make the characters untidy. Besides, the programmers can move the ladder. In one hour, they can move the ladder either a meter to the right or a meter to the left.
+
+Drawing characters and moving the ladder is very tiring, so the programmers want to finish the job in as little time as possible. Develop for them an optimal poster painting plan!
+
+## Input
+
+The first line contains two integers, n and k (1 ≤ k ≤ n ≤ 100) — the number of characters in the slogan and the initial position of the ladder, correspondingly. The next line contains the slogan as n characters written without spaces. Each character of the slogan is either a large English letter, or digit, or one of the characters: '.', '!', ',', '?'.
+
+## Output
+
+In t lines, print the actions the programmers need to make. In the i-th line print:
+
+- "LEFT" (without the quotes), if the i-th action was "move the ladder to the left";
+- "RIGHT" (without the quotes), if the i-th action was "move the ladder to the right";
+- "PRINT x" (without the quotes), if the i-th action was to "go up the ladder, paint character x, go down the ladder".
+
+The painting time (variable t) must be minimum possible. If there are multiple optimal painting plans, you can print any of them.
+
+## Sample 1
+
+Input
+
+```text
+2 2
+R1
+```
+
+Output
+
+```text
+PRINT 1
+LEFT
+PRINT R
+```
+
+## Sample 2
+
+Input
+
+```text
+2 1
+R1
+```
+
+Output
+
+```text
+PRINT R
+RIGHT
+PRINT 1
+```
+
+## Sample 3
+
+Input
+
+```text
+6 4
+GO?GO!
+```
+
+Output
+
+```text
+RIGHT
+RIGHT
+PRINT !
+LEFT
+PRINT O
+LEFT
+PRINT G
+LEFT
+PRINT ?
+LEFT
+PRINT O
+LEFT
+PRINT G
+```
+
+## Note
+
+Note that the ladder cannot be shifted by less than one meter. The ladder can only stand in front of some square of the poster. For example, you cannot shift a ladder by half a meter and position it between two squares. Then go up and paint the first character and the second character.
+
+---
+Offline statement and original statement examples from [Open R1 Codeforces dataset](https://huggingface.co/datasets/open-r1/codeforces), CC BY 4.0. Original problem by its Codeforces authors. Dataset snapshot; corrections on Codeforces may be newer. No editorials, solutions, generated checkers, or generated tests included.

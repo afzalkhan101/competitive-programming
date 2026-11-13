@@ -1,0 +1,33 @@
+{
+  "id": "554A",
+  "order": 403,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Kyoya and Photobooks",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "math",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/554/A",
+  "source": "problems/554A/main.cpp",
+  "statement": "problems/554A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+      "output": "031b4af5197ec30a926f48cf40e11a7dbc470048a21e4003b7a3c07c5dab1baa"
+    },
+    {
+      "input": "8f434346648f6b96df89dda901c5176b10a6d83961dd3c1ac88b59b2dc327aa4",
+      "output": "f74efabef12ea619e30b79bddef89cffa9dda494761681ca862cff2871a85980"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "554/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

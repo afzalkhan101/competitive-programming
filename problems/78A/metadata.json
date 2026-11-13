@@ -1,0 +1,32 @@
+{
+  "id": "78A",
+  "order": 19,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Haiku",
+  "rating": 800,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/78/A",
+  "source": "problems/78A/main.cpp",
+  "statement": "problems/78A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "cbd934fce6611db4096fb0f17ab55a8cc899468c8d39cbc01cb036e384159611",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "6e34424cc81b7b8e549fb10811836188242ea679536834b414c4e4e14fd08ecf",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "78/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

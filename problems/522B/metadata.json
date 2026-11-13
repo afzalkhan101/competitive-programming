@@ -1,0 +1,34 @@
+{
+  "id": "522B",
+  "order": 315,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Photo to Remember",
+  "rating": 1100,
+  "tags": [
+    "*special",
+    "data structures",
+    "dp",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/522/B",
+  "source": "problems/522B/main.cpp",
+  "statement": "problems/522B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "4cc0e3e5eae4ad810f69ba3531ed137a052ae67bb312c12e4a1e8589b6550b68",
+      "output": "60434f3e79dfa51cce101c8b9dfcbe26910a251fccc0427b86baf29052923d73"
+    },
+    {
+      "input": "8caf857fdb15c985e780a678ebb170f236d2392e353f7a9734dd627d7fdb55ea",
+      "output": "9651e610c893ff38b716d19ef0035dd0e0a7f14cfcf0d1ca7c66ecec9b0a524e"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "522/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

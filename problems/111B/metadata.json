@@ -1,0 +1,31 @@
+{
+  "id": "111B",
+  "order": 193,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Petya and Divisors",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "data structures",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/111/B",
+  "source": "problems/111B/main.cpp",
+  "statement": "problems/111B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "4c3173e02815b2cea4e6e291a585737c6779ee0b5888642c137f826ec4e40322",
+      "output": "e1f3ddc4a724a90ab3d6f5044a94ed9bb0a2d0206113a21b8004783ad07b468c"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "111/B",
+  "aliases": [
+    "112/D"
+  ],
+  "offline": true,
+  "timeLimit": 5.0,
+  "memoryLimit": 256.0
+}

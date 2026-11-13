@@ -1,0 +1,36 @@
+{
+  "id": "66A",
+  "order": 440,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Petya and Java",
+  "rating": 1300,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/66/A",
+  "source": "problems/66A/main.cpp",
+  "statement": "problems/66A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "922c7954216ccfe7a61def609305ce1dc7c67e225f873f256d30d7a8ee4f404c",
+      "output": "1c31626f568a075d2fd6934828ba678fe64655ef4e78e42c49367cbbfcaf42f5"
+    },
+    {
+      "input": "38d66d9692ac590000a91b03a88da1c88d51fab2b78f63171f553ecc551a0c6f",
+      "output": "f9b0078b5df596d2ea19010c001bbd009e651de2c57e8fb7e355f31eb9d3f739"
+    },
+    {
+      "input": "6c6ed3903211f2ffe5ffce1b1370c79964af05ae23c05126e50bb79b412f4c38",
+      "output": "d0fe83e821381f834a2bc6a8c088a21b55ff0b656790af266d82af75ec76f213"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "66/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

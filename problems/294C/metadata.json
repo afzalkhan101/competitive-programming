@@ -1,0 +1,36 @@
+{
+  "id": "294C",
+  "order": 198,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Shaass and Lights",
+  "rating": 1900,
+  "tags": [
+    "combinatorics",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/294/C",
+  "source": "problems/294C/main.cpp",
+  "statement": "problems/294C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "a4d9a5a24145b22749f5badecee6fb7a2758123e507963096c925e6ba395f713",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "893f2b8cef63625213ef182f0757080230606daa75832eee8363856b7741781e",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "8e5683057ea501a3a756c8c1ddc36d4f601acf6eae2385e4e3414c262dd47eda",
+      "output": "3e8ab67ce1b66389c3ae94f9c8f8afdeb70b46a33640554f352868f99d2f5616"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "294/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

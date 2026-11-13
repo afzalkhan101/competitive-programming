@@ -1,0 +1,39 @@
+{
+  "id": "490D",
+  "order": 200,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Chocolate",
+  "rating": 1900,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "math",
+    "meet-in-the-middle",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/490/D",
+  "source": "problems/490D/main.cpp",
+  "statement": "problems/490D/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "a00283a81933671b335e91b447e9e0056e4bd726b7906564619741ab05f252c9",
+      "output": "fae6b740ce4a282b657e9eb08ae62a1e7057f628cb940d7c3a473058f4529ac7"
+    },
+    {
+      "input": "b83e50e61eebdf93097ac9409cbc44e4e14d3b506b2ec48272f772cd04f000a6",
+      "output": "52ace370c7de54defbfa065ee837861ee27eff3e498711efabc4a984555d2649"
+    },
+    {
+      "input": "a37ce8690f3c483caf034a07d0e39d7cf74be1a5dda9dba54bdfa4283af5b21a",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "490/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

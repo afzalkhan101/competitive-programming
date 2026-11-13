@@ -1,0 +1,38 @@
+{
+  "id": "118C",
+  "order": 500,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Fancy Number",
+  "rating": 1900,
+  "tags": [
+    "brute force",
+    "greedy",
+    "sortings",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/118/C",
+  "source": "problems/118C/main.cpp",
+  "statement": "problems/118C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "d5476ea046f1f2e038c9d9ed23b57d131b7c8a6622f5e6d3f99baa2824f45c0b",
+      "output": "d98b99e9c2b359abd10eb9599e5ed4b6ddf06a8f0619888f6db4a1a6dac207d8"
+    },
+    {
+      "input": "984f6a1085a53cfcd692d326bb8b9a478f353600303d33d9212c327ef9c37262",
+      "output": "6e3e0105b442521f877e13e3d6867ffbd455f1a07da070942bdb2fc82f9720a3"
+    },
+    {
+      "input": "451d5ecf3a60c3482bba941709b0857413f2be26ddafd124f0d52896c862a98b",
+      "output": "30e02350b5c19c97d4c2cf98f7298dca45ef4047260f882df0cd6b0713c45853"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "118/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

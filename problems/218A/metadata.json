@@ -1,0 +1,33 @@
+{
+  "id": "218A",
+  "order": 420,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Mountain Scenery",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/218/A",
+  "source": "problems/218A/main.cpp",
+  "statement": "problems/218A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "91d5c0fe4565406bf02127d0a69863734d63acb00db9373f97dd7c856ea8aee6",
+      "output": "ad2b7ed0af46ae3bbcf9b0af115936215774eeb9a5a564707d1a3e9288b98e2d"
+    },
+    {
+      "input": "8244b2e780ba41db42c9344f567117f8e0ea0c5b4e2f8cf3649a4c027149b094",
+      "output": "908a5947c28591e7d14b7bf5470e545b36575b2db7e023ffc998b494b21e000e"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "218/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

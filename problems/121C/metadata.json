@@ -1,0 +1,35 @@
+{
+  "id": "121C",
+  "order": 194,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Lucky Permutation",
+  "rating": 1900,
+  "tags": [
+    "brute force",
+    "combinatorics",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/121/C",
+  "source": "problems/121C/main.cpp",
+  "statement": "problems/121C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "85e779728d6efabbfd4caba7909e84dc9efb3c98e08d1f6e803bdbdbe7ae1b79",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "71439e5799c1247fe32399a1a0e5c6a6aa31931ad0520e995e50d052069c267d",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "121/C",
+  "aliases": [
+    "122/E"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,31 @@
+{
+  "id": "562B",
+  "order": 165,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Clique in the Divisibility Graph",
+  "rating": 1500,
+  "tags": [
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/562/B",
+  "source": "problems/562B/main.cpp",
+  "statement": "problems/562B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "0f0616ae197d4a425257a0745681f1fef9a52362ec805292a4710820d2fad863",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "562/B",
+  "aliases": [
+    "566/F"
+  ],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

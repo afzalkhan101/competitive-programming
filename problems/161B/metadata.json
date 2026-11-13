@@ -1,0 +1,33 @@
+{
+  "id": "161B",
+  "order": 481,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Discounts",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/161/B",
+  "source": "problems/161B/main.cpp",
+  "statement": "problems/161B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "b821ea757ee6469d6f5f27d6b9bd49daad2cc9b6605d99e20f7f42152922b0a1",
+      "output": "f65fadf54fe0fbaf1859d34f7af9d3e6203d5e1797116e3c802ade5b3c57f6f4"
+    },
+    {
+      "input": "9019ab68a645bc209d954403f058b889e6d238b4d514982a48a0875e3b6e8c9d",
+      "output": "eaeaeb0c4ed6bf7d8c435c9b92937b08bfe895cde22576771b36f8e22055867a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "161/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

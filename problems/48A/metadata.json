@@ -1,0 +1,40 @@
+{
+  "id": "48A",
+  "order": 32,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Rock-paper-scissors",
+  "rating": 900,
+  "tags": [
+    "implementation",
+    "schedules"
+  ],
+  "url": "https://codeforces.com/problemset/problem/48/A",
+  "source": "problems/48A/main.cpp",
+  "statement": "problems/48A/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "6f23c4a5bb55ad20f70f8f4499150c89938762d7a293f32eb61cd4ef84bba7c1",
+      "output": "8a8de823d5ed3e12746a62ef169bcf372be0ca44f0a1236abc35df05d96928e1"
+    },
+    {
+      "input": "76395ac64df299d66de522e84f21fb0c56338c2a1a6b12dc7982699d8699c238",
+      "output": "f67ab10ad4e4c53121b6a5fe4da9c10ddee905b978d3788d2723d7bfacbe28a9"
+    },
+    {
+      "input": "2d4c50b85bfc5fbe7c4cf90829934a526af24b2a56e9457ee27d5f7f8d80fcf5",
+      "output": "8a8de823d5ed3e12746a62ef169bcf372be0ca44f0a1236abc35df05d96928e1"
+    },
+    {
+      "input": "d78ba4fd1f2895415c5523e5effe060a14ced0a4438571b59cdbeafc2b00fe3f",
+      "output": "8a8de823d5ed3e12746a62ef169bcf372be0ca44f0a1236abc35df05d96928e1"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "48/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,33 @@
+{
+  "id": "519B",
+  "order": 314,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "A and B and Compilation Errors",
+  "rating": 1100,
+  "tags": [
+    "data structures",
+    "implementation",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/519/B",
+  "source": "problems/519B/main.cpp",
+  "statement": "problems/519B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "3ee69539f80fb43647279cd098a6e61d6ce66fe31430bd534dd9b29aa63d206d",
+      "output": "524aef1a457ff143b2f0761b9c33e5d981520f3605720371ad69b7ef6995ab8e"
+    },
+    {
+      "input": "bec3f847e529778910336a043d8cadf6836f7ec201761312a09079409344a183",
+      "output": "e9348026dce8dd4e0af38f67b21c407c4515a6e8a7fd6da2cc30428c21968ff9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "519/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

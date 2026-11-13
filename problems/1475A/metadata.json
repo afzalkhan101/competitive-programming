@@ -1,0 +1,28 @@
+{
+  "id": "1475A",
+  "order": 116,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Odd Divisor",
+  "rating": 900,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1475/A",
+  "source": "problems/1475A/main.cpp",
+  "statement": "problems/1475A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "e919c63e14ae015d44e30d3ea3633b61d31d37eb09e4a8d245b0afabc82c75aa",
+      "output": "86b6368a67783a54945f4e86225528686fd77aa569b9d4e076c797a257c1b485"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1475/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

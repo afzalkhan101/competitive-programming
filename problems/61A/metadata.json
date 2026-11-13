@@ -1,0 +1,39 @@
+{
+  "id": "61A",
+  "order": 17,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Ultra-Fast Mathematician",
+  "rating": 800,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/61/A",
+  "source": "problems/61A/main.cpp",
+  "statement": "problems/61A/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "056c93d767becbd950c6c3af8555d55bc299b007c5d4266e35f47a3be1c5e07e",
+      "output": "815f6415f5e574c05c7bb4086e7d00597e833c0ab943516aa324c73491659b3f"
+    },
+    {
+      "input": "35d169ef3f3a45d1d56b55790a9ed96eabdcc6ca929d3f4c27412ae4413003b9",
+      "output": "f6e0a1e2ac41945a9aa7ff8a8aaa0cebc12a3bcc981a929ad5cf810a090e11ae"
+    },
+    {
+      "input": "cf5570c6c0483e9934ba071647562f3476fa45829781a1eaeb91f9cf9df696b9",
+      "output": "5e7b571a60a7c187d6a4cb8bbedbe4e69d4caa49b51d9ddf3320afd793f146bf"
+    },
+    {
+      "input": "aa0cd9e81dd0855dd2dd7e4927e4cbbb67d4df4e883f0e69dedda9ff17026328",
+      "output": "c1d17b87a5a3905071d821268e78cd9f8b4741d3162de825054ef9d0543b5116"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "61/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

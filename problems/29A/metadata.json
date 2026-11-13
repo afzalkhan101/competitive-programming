@@ -1,0 +1,35 @@
+{
+  "id": "29A",
+  "order": 56,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Spit Problem",
+  "rating": 1000,
+  "tags": [
+    "brute force"
+  ],
+  "url": "https://codeforces.com/problemset/problem/29/A",
+  "source": "problems/29A/main.cpp",
+  "statement": "problems/29A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "afd1fd677e07ae522ee11012a6ec5b49da70e240002b8a52a7ec2ccf0e461fc8",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "021104aee8ce905c7a9b6b66937a6a7415491d1b94769650d1f1c8ecfb8369c7",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "d70dd6bcd06a1225a70bd3f47d3e91fe91e9ec2ca286048237294e765666abaa",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "29/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

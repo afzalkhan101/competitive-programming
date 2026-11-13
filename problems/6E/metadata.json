@@ -1,0 +1,39 @@
+{
+  "id": "6E",
+  "order": 294,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Exposition",
+  "rating": 1900,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dsu",
+    "trees",
+    "two pointers"
+  ],
+  "url": "https://codeforces.com/problemset/problem/6/E",
+  "source": "problems/6E/main.cpp",
+  "statement": "problems/6E/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "38e8cdee0d53ce35781c3e05b65dddabf8aafa619b0e8730c02759043414d961",
+      "output": "1db9ac92777112de4197ac26dcb37ded14cb2435ad36e0f4d17cfd085daba50a"
+    },
+    {
+      "input": "30d1a47ed1fa083e6288a1327753597b0bc47cf7ceb5635700dd00e35c9b0ea0",
+      "output": "d951b7272052576aa64af8efd4f5e3fa939b771a603aee12e2f783827aa8dcf8"
+    },
+    {
+      "input": "11bbe5bf809622f8573a3c1417f45bd03bb8a5a09fa2facc7bd0d25191b70c7a",
+      "output": "00d08a2645ccf90105f91015c495a244ae41779a893fadcb1e86bb53ca35922a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "6/E",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.5,
+  "memoryLimit": 64.0
+}

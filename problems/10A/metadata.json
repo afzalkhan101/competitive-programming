@@ -1,0 +1,31 @@
+{
+  "id": "10A",
+  "order": 27,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Power Consumption Calculation",
+  "rating": 900,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/10/A",
+  "source": "problems/10A/main.cpp",
+  "statement": "problems/10A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "2087460a280054b4286ccefa63a5536c3cab16c6a65f94a3352de412d6fdae2c",
+      "output": "624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4"
+    },
+    {
+      "input": "4a80011f9f000a608a4bdc6d834578801f1bf7c882348659a1c36cf8c0af71ba",
+      "output": "085b2a38876eeddc33e3fbf612912d3d52a45c37cee95cf42cd3099d0a3fd8cb"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "10/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,31 @@
+{
+  "id": "22A",
+  "order": 6,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Second Order Statistics",
+  "rating": 800,
+  "tags": [
+    "brute force"
+  ],
+  "url": "https://codeforces.com/problemset/problem/22/A",
+  "source": "problems/22A/main.cpp",
+  "statement": "problems/22A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "871f00bf9358743dc2901f4009f5b4d38a1f0748c03817efa120ad95b2679f8a",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "f7be950b7961ba3a8a65bcc011ea47166243604822b17ad6c162f41f6bf53ae8",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "22/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

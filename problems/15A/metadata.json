@@ -1,0 +1,36 @@
+{
+  "id": "15A",
+  "order": 231,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Cottage Village",
+  "rating": 1200,
+  "tags": [
+    "implementation",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/15/A",
+  "source": "problems/15A/main.cpp",
+  "statement": "problems/15A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "92ea0e81a60b88a8a3049355182b88f9d1a7fe70210879788446151902e755a5",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "9fad721a1a73eda231fcf14a621aa29dde5ceb4b134d5254947501ab42886406",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    },
+    {
+      "input": "5cbe2bdeed697b2ef09fdf9c905a8bebcaf98e59973cfc74e9783c82c2fee107",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "15/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

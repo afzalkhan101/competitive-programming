@@ -1,0 +1,33 @@
+{
+  "id": "24C",
+  "order": 484,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Sequence of points",
+  "rating": 1800,
+  "tags": [
+    "geometry",
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/24/C",
+  "source": "problems/24C/main.cpp",
+  "statement": "problems/24C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "e4e45cc6d6a3d8b3a205f3213f53e120bf041c2f461250d83ecfc18d683e0057",
+      "output": "d79fd5acc29ebbe818c716ca8c42c62c6603198cde3202ec906139b8143b4249"
+    },
+    {
+      "input": "c9093b2962957d9447fd901769609aed30aa5a77db6f7173096a801fb155382f",
+      "output": "d9bf9ebcc961310d9133fd5c7b7649f9e29f5d57892e3c3df24db8f1ea607302"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "24/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

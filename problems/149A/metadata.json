@@ -1,0 +1,37 @@
+{
+  "id": "149A",
+  "order": 42,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Business trip",
+  "rating": 900,
+  "tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/149/A",
+  "source": "problems/149A/main.cpp",
+  "statement": "problems/149A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "704fa7381d6d9c0501670526b43dddf54686b8bf128683849434450f2c9d1310",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "7fb4484628ad63eea884b2b2f3029387e687aa19804c000f88af69c2c381fe89",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "c2545febdce1be508a1495617a1b2b4f069820927d2618634a64e923f667277f",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "149/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

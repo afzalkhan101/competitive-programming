@@ -1,0 +1,32 @@
+{
+  "id": "144C",
+  "order": 463,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Anagram Search",
+  "rating": 1500,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/144/C",
+  "source": "problems/144C/main.cpp",
+  "statement": "problems/144C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "03657a18090c6df1edc748138f798caa996f312e78801b18a45815b94a97fb21",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "f55fe46e5007c22a2227ffbd9900ccbc3a31f5f6f09ba7c7e5c33986937718ee",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "144/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

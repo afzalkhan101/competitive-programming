@@ -1,0 +1,28 @@
+{
+  "id": "1238A",
+  "order": 113,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Prime Subtraction",
+  "rating": 900,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1238/A",
+  "source": "problems/1238A/main.cpp",
+  "statement": "problems/1238A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "23f3ea440536c6a4722e094ba4bbadad51f22e260bab45c099a69fb11425f530",
+      "output": "bbb40cc568660abc5acfe46a43025832ecfde0bdda369809b284ad2ea71281c5"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1238/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

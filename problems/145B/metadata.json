@@ -1,0 +1,33 @@
+{
+  "id": "145B",
+  "order": 490,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Lucky Number 2",
+  "rating": 1800,
+  "tags": [
+    "constructive algorithms"
+  ],
+  "url": "https://codeforces.com/problemset/problem/145/B",
+  "source": "problems/145B/main.cpp",
+  "statement": "problems/145B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "46983787fc1046e2b595445650f5527959d0c14db27517cf4838a5c18fb1d22d",
+      "output": "e5b82b15c2c265c2733d7e4a1d9b3207c6b1de55d69e26e8c4b631b53299164f"
+    },
+    {
+      "input": "77d9a92da9206e61f1a497ab8f6bfce562ebf4149884a899b4b29acbdbcebd51",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "145/B",
+  "aliases": [
+    "146/D"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

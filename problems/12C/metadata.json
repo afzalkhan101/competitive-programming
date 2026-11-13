@@ -1,0 +1,33 @@
+{
+  "id": "12C",
+  "order": 79,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Fruits",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/12/C",
+  "source": "problems/12C/main.cpp",
+  "statement": "problems/12C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "9cf9fe2557b02b0de8d6e2814e297edc67cdffea047bec942a4a701907140f0e",
+      "output": "1cd11c498fa329bf881f18e95fd9746adafa8cda7c96088276ef7178545cb246"
+    },
+    {
+      "input": "0f76dc6050c223edd35d42f8aa378057d2dd09de9ebe54730a09924b94a03ab4",
+      "output": "019df6628933a78e6d550d0956df0eba5408e30a83435eac1dd7cb1c7e5f0ccc"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "12/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

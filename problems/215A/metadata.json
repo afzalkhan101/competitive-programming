@@ -1,0 +1,32 @@
+{
+  "id": "215A",
+  "order": 49,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Bicycle Chain",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/215/A",
+  "source": "problems/215A/main.cpp",
+  "statement": "problems/215A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "d4b0b2daebb27eec91837b9148ccc723c0bfa689f80bf009667ec56468e2f7f8",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "1cc3f371f27c33efbfaa259a4e405d26c6b7c326b2ed794861e4f0e8ce245748",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "215/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

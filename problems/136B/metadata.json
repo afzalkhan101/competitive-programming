@@ -1,0 +1,40 @@
+{
+  "id": "136B",
+  "order": 94,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Ternary Logic",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/136/B",
+  "source": "problems/136B/main.cpp",
+  "statement": "problems/136B/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "3149364e1ccad2279e867bed61215581ef1f0f951437583be7ecf1737fbd54c2",
+      "output": "1a6562590ef19d1045d06c4055742d38288e9e6dcd71ccde5cee80f1d5a774eb"
+    },
+    {
+      "input": "10affb4a81f2512d77e416318164a49e7096ceb5dd91b9cdc11b193c3eb36b9e",
+      "output": "8527a891e224136950ff32ca212b45bc93f69fbb801c3b1ebedac52775f99e61"
+    },
+    {
+      "input": "1a8007190fbe26e74e452683367c52655311d83294a5d4c4938b67656edef03b",
+      "output": "80a7cd0ffb78b364089257b612609ae24a9e886a2513ee0b3a7dc67b828c8c3c"
+    },
+    {
+      "input": "b1766f061523cc0d6619c0d86cf5b6781cfd51553de9f483940e611ce8b8591a",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "136/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

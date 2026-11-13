@@ -1,0 +1,31 @@
+{
+  "id": "26B",
+  "order": 247,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Regular Bracket Sequence",
+  "rating": 1400,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/26/B",
+  "source": "problems/26B/main.cpp",
+  "statement": "problems/26B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "10e29275e497da9537780b9deecbbdcc250e3f795f9ac7b45d3d8cfd53ed36a2",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "dc10b700253e027cf359d7ce1e80b04d7abfb1dda5881596e39dd8518ccb56a4",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "26/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 5.0,
+  "memoryLimit": 256.0
+}

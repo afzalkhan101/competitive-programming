@@ -1,0 +1,44 @@
+{
+  "id": "616A",
+  "order": 404,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Comparing Two Long Integers",
+  "rating": 900,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/616/A",
+  "source": "problems/616A/main.cpp",
+  "statement": "problems/616A/problem.md",
+  "samples": 5,
+  "sampleHashes": [
+    {
+      "input": "654f94133a139e31242c9cc78e5c7a708d3b760ef7030913397f7a8597a0bdd4",
+      "output": "dabd3aff769f07eb2965401eb029974ebba3407afd02b26ddb564ea5f8efae72"
+    },
+    {
+      "input": "7bdf95c48fda3949d7ce59a23260849e2de8443ebc0c3a2765537bf41324aa22",
+      "output": "62b67e1f685b7fef51102005dddd27774be3fee38c42965c53aab035d0b6b221"
+    },
+    {
+      "input": "79c8f0326b0f2d38682db9f825627e3f86c73fe6b621b389c3f4c187cb8590e4",
+      "output": "380918b946a526640a40df5dced6516794f3d97bbd9e6bb553d037c4439f31c3"
+    },
+    {
+      "input": "47372f793ead76cd3d07b214c4191ab254d2a79ae7bcdfaa7ab9863713946a05",
+      "output": "62b67e1f685b7fef51102005dddd27774be3fee38c42965c53aab035d0b6b221"
+    },
+    {
+      "input": "79bf6802b04030617af3644de04da2179ba686e5c0f572937a33ee8f50687010",
+      "output": "62b67e1f685b7fef51102005dddd27774be3fee38c42965c53aab035d0b6b221"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "616/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

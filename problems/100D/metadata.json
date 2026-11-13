@@ -1,0 +1,32 @@
+{
+  "id": "100D",
+  "order": 460,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "World of Mouth",
+  "rating": 1500,
+  "tags": [
+    "*special",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/100/D",
+  "source": "problems/100D/main.cpp",
+  "statement": "problems/100D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ad1373799749eb92e97f2425be6176c2f6b78c272966d9690cbc7dac9ffe9c3d",
+      "output": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e"
+    },
+    {
+      "input": "d969b9f6f2e369641fd4e7b0d664b3055bf5f8ed9fc87c3ad80ddc110616e25a",
+      "output": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "100/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 5.0,
+  "memoryLimit": 256.0
+}

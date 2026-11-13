@@ -1,0 +1,36 @@
+{
+  "id": "168A",
+  "order": 44,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Wizards and Demonstration",
+  "rating": 900,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/168/A",
+  "source": "problems/168A/main.cpp",
+  "statement": "problems/168A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "f371b16d1e4e635c9dee2c69285c97182604aa4b0002891b4c69525df87a96bd",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "29767ad0f80e32e08a8f4376b5d7585d76d005a927add59a56d596363c8d08aa",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "f20632d1ad6471fbc8405a0aec793c7d5b0daf8a8547b5f0024821f41fbce90e",
+      "output": "737c6b9773fa031bee4787ad780d2c9c9ecb3375a7c1f4dbd8047a6cd5c67b4c"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "168/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

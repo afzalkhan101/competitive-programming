@@ -1,0 +1,28 @@
+{
+  "id": "79B",
+  "order": 251,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Colorful Field",
+  "rating": 1400,
+  "tags": [
+    "implementation",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/79/B",
+  "source": "problems/79B/main.cpp",
+  "statement": "problems/79B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "77f3c2355e8e4f0588d667be2df63e2506b1e8493c0a879bd114f87fe6c7d85e",
+      "output": "84fc0eb09adfdbc9597bc7bc57e126239779fd359ed95cb4b872387fc4de9b36"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "79/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

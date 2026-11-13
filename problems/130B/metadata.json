@@ -1,0 +1,33 @@
+{
+  "id": "130B",
+  "order": 448,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Gnikool Ssalg",
+  "rating": 1400,
+  "tags": [
+    "*special",
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/130/B",
+  "source": "problems/130B/main.cpp",
+  "statement": "problems/130B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "06ce651928de1a37f62891c416f2acffdbd3d9bcb087369c03abde6b6b729e49",
+      "output": "e13a9b6e8ac54db6fa9c1962cc9e64ddb3ad29fc5a5b2111b27ce3433375d4f9"
+    },
+    {
+      "input": "c0d61fda916f1bac21bb3d11dcda35b83989611f8ea7fd7ab0d3c3088a038b73",
+      "output": "ed7296c7cf322e8dea45e5867037c02bfb13e72635e1cec08cc7d22a78c39d5b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "130/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

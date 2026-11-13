@@ -1,0 +1,37 @@
+{
+  "id": "172B",
+  "order": 138,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Pseudorandom Sequence Period",
+  "rating": 1200,
+  "tags": [
+    "*special",
+    "implementation",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/172/B",
+  "source": "problems/172B/main.cpp",
+  "statement": "problems/172B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "f38e3eb0b099d90b793da5b95d076b6d692c0681c69a44a2cc12dc6304788e03",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "1cb75a0c1c1923ef93be4c73fce55ad2c518822456301a3a7c76f9246cc26716",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "065d9b67a790d87a75a0137c5801c9ab3c9516541291261860b0118833730ac3",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "172/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

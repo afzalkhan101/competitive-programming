@@ -1,0 +1,32 @@
+{
+  "id": "64D",
+  "order": 291,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Presents",
+  "rating": 1800,
+  "tags": [
+    "*special",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/64/D",
+  "source": "problems/64D/main.cpp",
+  "statement": "problems/64D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "5e69add9d5fb6b801c056042b1d4c4cd8ddc551a815824a3a45ee39d9bf921a5",
+      "output": "6863ec2e884cf6985abff8feeb08986709119b83329b5637cf38e9379b06fe7f"
+    },
+    {
+      "input": "021537c35f15c70ce63620ef05146d68cdc82106867ceb80e53d4fef606bd6de",
+      "output": "c2c7cb513afe6b0b3249d32b70cb2aeff7f354f07bcdf47cd24cdc6269d53fd3"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "64/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

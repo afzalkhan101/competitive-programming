@@ -1,0 +1,31 @@
+{
+  "id": "244A",
+  "order": 50,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Dividing Orange",
+  "rating": 900,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/244/A",
+  "source": "problems/244A/main.cpp",
+  "statement": "problems/244A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "bbda82e38f12489b35649acfce4587be5af8046c475b5c7e30a4c3730824a4f0",
+      "output": "55839e32ca729bd5dccf1d5d615589b97613f41162f4e15922281f77e25b080c"
+    },
+    {
+      "input": "194e9bc2e65102074231975a73dc436990917e97badeb6f07aa0b96ae5469b3f",
+      "output": "5371f92756bff0551d771b56af731daf43ce379ed10ed4641ad94b6b4b2a9292"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "244/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

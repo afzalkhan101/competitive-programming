@@ -1,0 +1,33 @@
+{
+  "id": "4C",
+  "order": 328,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Registration system",
+  "rating": 1300,
+  "tags": [
+    "data structures",
+    "hashing",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/4/C",
+  "source": "problems/4C/main.cpp",
+  "statement": "problems/4C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "89ada0d0bdf4fc686ead2d1815e58f4c19653274a040b88723db359b46fe66a3",
+      "output": "ce9351a6dcf072d12b413886f80e25c12575754f92442a948d0038dc793c051c"
+    },
+    {
+      "input": "8361a4ff0a33e3b1ad8661af20b08b413d382b4ba594b223aae3ce5bd483ca40",
+      "output": "690fd4f107669e7e1dd0463fb507d96f09d80444d17b177fd64736245082ca64"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "4/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 5.0,
+  "memoryLimit": 64.0
+}

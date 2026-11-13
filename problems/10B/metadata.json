@@ -1,0 +1,32 @@
+{
+  "id": "10B",
+  "order": 256,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Cinema Cashier",
+  "rating": 1500,
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/10/B",
+  "source": "problems/10B/main.cpp",
+  "statement": "problems/10B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "35c652f8803dbea17a1400fd1a14016d5ed3e25e89a41a2908bfe53e8e342f6d",
+      "output": "e1bc750579c5424b2a7557e5756c6aa8550eee427093c32e816d89fbdbd99a0e"
+    },
+    {
+      "input": "798799685461a62b17bbf04568614673196f4bd4f1ce906e758783e0f5a1f4f4",
+      "output": "04ac5b8670a77235d5202143943e59c840f754a686cdbbd691391f0b42f6ce45"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "10/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

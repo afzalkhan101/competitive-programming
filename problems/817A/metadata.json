@@ -1,0 +1,33 @@
+{
+  "id": "817A",
+  "order": 144,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Treasure Hunt",
+  "rating": 1200,
+  "tags": [
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/817/A",
+  "source": "problems/817A/main.cpp",
+  "statement": "problems/817A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "334cf27eb34d09d5d1a2fca1b4318bf0cb99e549d76916ce606145dc97ec0a2d",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "edc5638eb9e50558265eefb7e64dd3a74d05cb466857c03ea81c3202ba65ce73",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "817/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

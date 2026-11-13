@@ -1,0 +1,33 @@
+{
+  "id": "370A",
+  "order": 311,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Rook, Bishop and King",
+  "rating": 1100,
+  "tags": [
+    "graphs",
+    "math",
+    "shortest paths"
+  ],
+  "url": "https://codeforces.com/problemset/problem/370/A",
+  "source": "problems/370A/main.cpp",
+  "statement": "problems/370A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "eff36718cbe10e660edfa7f819cc49dc192a997cb86668d68c645effb23a7e27",
+      "output": "6863ec2e884cf6985abff8feeb08986709119b83329b5637cf38e9379b06fe7f"
+    },
+    {
+      "input": "4a4dbc823a6b45b6ef0ae2ca836e0c815420be871de0eecf72ae10c8ef45796d",
+      "output": "ecfdc94c0f83722e8879e81f69560ab43a59d07cd3cb8f6471833c94a68356e0"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "370/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

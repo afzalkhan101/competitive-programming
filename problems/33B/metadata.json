@@ -1,0 +1,35 @@
+{
+  "id": "33B",
+  "order": 369,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "String Problem",
+  "rating": 1800,
+  "tags": [
+    "shortest paths"
+  ],
+  "url": "https://codeforces.com/problemset/problem/33/B",
+  "source": "problems/33B/main.cpp",
+  "statement": "problems/33B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "b6e9289928b86b7d9c5f023b36b4b075329fafd9dbee577086254547306c3187",
+      "output": "32b241b654fd96bdbc4d0ad8a990e4ba5c0d3d2cb6b464e38747059efad2596e"
+    },
+    {
+      "input": "b37f838e14dd75a0f745d9fd699a6965b1aefb8218dec1fd37cb7cfab2ce99a3",
+      "output": "d82732acd2ce74b8cfb4871e7613e88f037e6aea8808a236ddd51265a73c7e57"
+    },
+    {
+      "input": "44f24a6a6509855695b8d1acf623dd76348274904b71bc9db48eacb6d34c9878",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "33/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

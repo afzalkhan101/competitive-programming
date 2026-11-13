@@ -1,0 +1,34 @@
+{
+  "id": "222C",
+  "order": 189,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Reducing Fractions",
+  "rating": 1800,
+  "tags": [
+    "implementation",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/222/C",
+  "source": "problems/222C/main.cpp",
+  "statement": "problems/222C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "8aca1d061b4ca37ff0bd3c0a3ef48f67e5c4f23fd80f7f645a309d85b88c2072",
+      "output": "d0e30b819169d88fe7d4d998d9dc7f88c25a11e9b137ffd437de1aac75a3e679"
+    },
+    {
+      "input": "76e50dd47c160dc9f71c00ecd549c0aadd02217d0baa6324f12c88d9a660dedd",
+      "output": "cb5b62d1ec74a0b41b2be5228137f25382f7ce42db3e29caf57daf3ee3a250b1"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "222/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,36 @@
+{
+  "id": "75D",
+  "order": 391,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Big Maximum Sum",
+  "rating": 2000,
+  "tags": [
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation",
+    "math",
+    "trees"
+  ],
+  "url": "https://codeforces.com/problemset/problem/75/D",
+  "source": "problems/75D/main.cpp",
+  "statement": "problems/75D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "67c8e1a8b09b5fc6f5fb7904b3e4118a1ea52d0b0e24aff1337b4e14e0699d98",
+      "output": "19581e27de7ced00ff1ce50b2047e7a567c76b1cbaebabe5ef03f7c3017bb5b7"
+    },
+    {
+      "input": "24d09a66d4299ef71333ae5b3329ab82ab3e5140c3dc7f2ccfaf62009f750c8e",
+      "output": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "75/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

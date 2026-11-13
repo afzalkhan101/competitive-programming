@@ -1,0 +1,33 @@
+{
+  "id": "154A",
+  "order": 272,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Hometask",
+  "rating": 1600,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/154/A",
+  "source": "problems/154A/main.cpp",
+  "statement": "problems/154A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "3cc4eab869c84204933f2827b933dd2c6471c771bb1f1bb72fb1a25f47b084a7",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "af791d35ab178bf5f36acb8cc1c8ce71b12f4a03482d853db320e91131c57799",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "154/A",
+  "aliases": [
+    "155/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

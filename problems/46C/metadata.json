@@ -1,0 +1,31 @@
+{
+  "id": "46C",
+  "order": 265,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Hamsters and Tigers",
+  "rating": 1600,
+  "tags": [
+    "two pointers"
+  ],
+  "url": "https://codeforces.com/problemset/problem/46/C",
+  "source": "problems/46C/main.cpp",
+  "statement": "problems/46C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "1854ea6a36583256ca5d05ec582ac20e6a4d86d913a52dcb23a4b3e8cfa8678c",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "ec0cf968d2e7e01186255252262bc4e766b6f993edba24bf90428073eda6af48",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "46/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,40 @@
+{
+  "id": "143B",
+  "order": 435,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Help Kingdom of Far Far Away 2",
+  "rating": 1200,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/143/B",
+  "source": "problems/143B/main.cpp",
+  "statement": "problems/143B/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "4b9a7f50c0bb198c6f5414c5a8459f5d216d34ab521ea94c060ea35cac66f900",
+      "output": "57bac89b381802c8e0855dc4c5382395e3b0102dab2ce5dc5fc80a1ecf46246e"
+    },
+    {
+      "input": "c1299919d8fa4a81a72417592e1a2006b2fd2d6baa48716cf7f3069a8fdc85a2",
+      "output": "51e42aec27492f6e19540f7c77d40d60049b8dc53d655f0128d4ffc060729d2a"
+    },
+    {
+      "input": "059e2164d6cb2355d4cf14fdde629daf4d3ef834c763ac204d659759521aea9d",
+      "output": "59dd34ab23866d095932fe08b532e78ebb978ed27ef8624df9bc2bdf3d213bf5"
+    },
+    {
+      "input": "10bab0b181beb5916b69c6505892b97df2d076a38c4f77be44e0f42e94baf669",
+      "output": "ff2039ffdcaffe1df2369e0bd178ad5b067f65a7e6697d482404d59cd7829e23"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "143/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

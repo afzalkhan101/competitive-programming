@@ -1,0 +1,28 @@
+{
+  "id": "106B",
+  "order": 66,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Choosing Laptop",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/106/B",
+  "source": "problems/106B/main.cpp",
+  "statement": "problems/106B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "09537e0dd170f058f5e3c904ffff52140e81bc4e9ca476eea5696a9b357b4ebf",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "106/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

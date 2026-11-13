@@ -1,0 +1,31 @@
+{
+  "id": "169B",
+  "order": 223,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Replacing Digits",
+  "rating": 1100,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/169/B",
+  "source": "problems/169B/main.cpp",
+  "statement": "problems/169B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "be645692ddf3a87e01cf663c31bd8de1fc37af28f6171591e113756a6cd339be",
+      "output": "736e537f0f664a3d8208e88c114f2c5a16fff5800e5c146b0b83b1c43213d003"
+    },
+    {
+      "input": "00f0e3947cf0be7d3112575939aa2dbd64b25160ed356cf77a9aa9d514cca203",
+      "output": "55c8079ac96c6a4f6a94e3460c79e4006d62374cce6e9fc8b281938a3abc7627"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "169/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

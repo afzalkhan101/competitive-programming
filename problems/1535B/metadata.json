@@ -1,0 +1,31 @@
+{
+  "id": "1535B",
+  "order": 117,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Array Reodering",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "greedy",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1535/B",
+  "source": "problems/1535B/main.cpp",
+  "statement": "problems/1535B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "9af3f6598da12d9d595961199bf2d7df71105f6769bd63961b21e0b26c0ac20a",
+      "output": "3e5dd4945d15ea8fab965c0fce65895103f341500fe24fb0ec36c5ae7366475e"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1535/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

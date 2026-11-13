@@ -1,0 +1,33 @@
+{
+  "id": "158C",
+  "order": 341,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Cd and pwd commands",
+  "rating": 1400,
+  "tags": [
+    "*special",
+    "data structures",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/158/C",
+  "source": "problems/158C/main.cpp",
+  "statement": "problems/158C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ba0bfdb4da0afe1bd3c6e472746a0ba7096516e4da1ca8402e07eb7c98e59d88",
+      "output": "d549ef365c6b6c4427df459486f4c62e12cd56f753b487930d86b4e6df6eb673"
+    },
+    {
+      "input": "94e70c1cc6a1bddac6fed94366775c914d1a119b25fb68dad5b15004c319080b",
+      "output": "b8e5212e27b717eef9aa91866edfd65b0fc1f2bddbc8ca88063f6b7385686ad8"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "158/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

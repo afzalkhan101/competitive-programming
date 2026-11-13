@@ -1,0 +1,31 @@
+{
+  "id": "174A",
+  "order": 98,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Problem About Equation",
+  "rating": 1100,
+  "tags": [
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/174/A",
+  "source": "problems/174A/main.cpp",
+  "statement": "problems/174A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "c03a0f6c74f302ff707b4d88db66390609fa020806addab0a8bab59638e31607",
+      "output": "3126fde8016c3faafe68585e64b87c1ac598684777acad5dfe9964696820d73f"
+    },
+    {
+      "input": "a4768c78b3d84f76d761661f85c01011458be0fc31e239d826916300ad24d8c0",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "174/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

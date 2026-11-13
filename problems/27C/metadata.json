@@ -1,0 +1,36 @@
+{
+  "id": "27C",
+  "order": 494,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Unordered Subsequence",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/27/C",
+  "source": "problems/27C/main.cpp",
+  "statement": "problems/27C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "181f14e19615f1863a6f7c524d230786f611a12c52d1e73a4c7c264b4f10f1cc",
+      "output": "7fade8e28a44f789ece6d15ae6773ada03b1196b3bab06fb5b4028f8fcc0cedf"
+    },
+    {
+      "input": "fcf1118351be8397e5f451ca4bc45bff96a26824f71e01f56a13fcd16e2702f7",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "993b61f9ae7fcab49b7a6427bf7af503a50f8f652ef37f3e1fa6af403fd9df18",
+      "output": "fcf1118351be8397e5f451ca4bc45bff96a26824f71e01f56a13fcd16e2702f7"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "27/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

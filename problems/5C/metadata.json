@@ -1,0 +1,36 @@
+{
+  "id": "5C",
+  "order": 293,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Longest Regular Bracket Sequence",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "greedy",
+    "sortings",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/5/C",
+  "source": "problems/5C/main.cpp",
+  "statement": "problems/5C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "750988934b40e3ff5a5242b875ade2645b55b20f73a3d8985c6264ccd4353a74",
+      "output": "cf5b436a3be666f91c1085e8004b168ec0d69c1fa3587741e3805eda709c4255"
+    },
+    {
+      "input": "3b215d67955f83f34fe0ac9f2797523983de371a4c9ffd8e365d036c3fda45fe",
+      "output": "5cc3a6551605a0b4e9c3334f5eb5554c404973daf0b1a58655fa29c0ba3d47b0"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "5/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

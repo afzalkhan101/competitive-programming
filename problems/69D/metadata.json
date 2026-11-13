@@ -1,0 +1,32 @@
+{
+  "id": "69D",
+  "order": 498,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Dot",
+  "rating": 1900,
+  "tags": [
+    "dp",
+    "games"
+  ],
+  "url": "https://codeforces.com/problemset/problem/69/D",
+  "source": "problems/69D/main.cpp",
+  "statement": "problems/69D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "3df1005a94b239ee4c3f84dde6631fee104bc535cff6b0dafcf36434051c2139",
+      "output": "42972c1b3e85cfd086628e6177d23a0a057132fb6f897d58d987995d442ace69"
+    },
+    {
+      "input": "7b9577f3bce7cc67bec76c87e7f8490b5fe6a9799078153f72b80283bcc0fdc6",
+      "output": "821a9eeb0a02ee7a96d65000a822f4e36fd0b527d4576f4a91f9e3192ac324d7"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "69/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

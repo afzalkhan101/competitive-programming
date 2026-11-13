@@ -1,0 +1,39 @@
+{
+  "id": "49A",
+  "order": 14,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Sleuth",
+  "rating": 800,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/49/A",
+  "source": "problems/49A/main.cpp",
+  "statement": "problems/49A/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "2618d8d6eeef1c609649708d8df79f8685daca0b0775d9093697667f2e9b7eae",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "f6c5fb949fb28da0a3875c58efed3ce7257496ed8c5b66105258c354f11b11de",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "645eb0dfb62bd81929a829e15eb85fe6e92a820b63cca711437751b8d7078d40",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "04dcff0cdb8084bd7e1efe7215630ad054020718f9bd86788b52eaa4b229f9d3",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "49/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

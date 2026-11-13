@@ -1,0 +1,31 @@
+{
+  "id": "79A",
+  "order": 236,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Bus Game",
+  "rating": 1200,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/79/A",
+  "source": "problems/79A/main.cpp",
+  "statement": "problems/79A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "04412575067f0bdb6722e31a7ee45744cc1ecf2dfacec4cfbfa70cfd364bb7e2",
+      "output": "80804a7729037e43a74f0879060ae34d9eff62da17b56e6ef26ed17e4f975beb"
+    },
+    {
+      "input": "7c9e41b27ea29727b8ad66a379b3881412a649bb19f50056cd8f162124e00028",
+      "output": "bffd8c034536667634381acc56074879167b89a01410312579296aca2887e180"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "79/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

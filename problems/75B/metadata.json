@@ -1,0 +1,33 @@
+{
+  "id": "75B",
+  "order": 459,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Facetook Priority Wall",
+  "rating": 1500,
+  "tags": [
+    "expression parsing",
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/75/B",
+  "source": "problems/75B/main.cpp",
+  "statement": "problems/75B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "313ee5ad500b7c869ab497ba4c1abc9d76551ceb4137bba99003e99840a0f45d",
+      "output": "37d2d2408d1ba40f2db116e0abcd237660b56c1e83355998ef23103d360e6a24"
+    },
+    {
+      "input": "03bceb5ff9970cab5404349838836d4a25ce370c3756297e6066155ee3cfb10d",
+      "output": "a83e27cd1393b1289890385d490688fe37c6fabeca3f8a6a4fcb79aaf87858fd"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "75/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

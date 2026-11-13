@@ -1,0 +1,32 @@
+{
+  "id": "94A",
+  "order": 36,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Restoring Password",
+  "rating": 900,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/94/A",
+  "source": "problems/94A/main.cpp",
+  "statement": "problems/94A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "9171615dae8381680b50ee0bd1822335eea1b3d09749b54d06a64aa5bb4fb87a",
+      "output": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f"
+    },
+    {
+      "input": "f53180543dea239d1b603efd02e4b3b9a1135aa50dbedb3e53a3bca7d0f09ccf",
+      "output": "617982121b027e2d9064daf20ed83e23e563740d35f57222600b71d4ea55f0cf"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "94/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

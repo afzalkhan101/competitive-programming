@@ -1,0 +1,36 @@
+{
+  "id": "41A",
+  "order": 11,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Translation",
+  "rating": 800,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/41/A",
+  "source": "problems/41A/main.cpp",
+  "statement": "problems/41A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "794735caa32def812d9e6b3fae94bd176527c018b11f3a5bbd51a6d77f7a129c",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "231ded775a06d85f988eb262e8d3043b291ad04fbf18279b3ec9a7f2bc845482",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "4f4b1b757048d2e7a9284fad30e07331b7bbece0d41268d1d3ba8c662d7c8df4",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "41/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

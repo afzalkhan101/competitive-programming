@@ -1,0 +1,34 @@
+{
+  "id": "519C",
+  "order": 152,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "A and B and Team Training",
+  "rating": 1300,
+  "tags": [
+    "greedy",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/519/C",
+  "source": "problems/519C/main.cpp",
+  "statement": "problems/519C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "0696624ad56e189b13ae72a19e0897172e3c16be15b8b5910ff146f8dba09617",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "37cea345359e1afdfc365b9a948f34466ee978d2bdece5e3514de791708142f2",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "519/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

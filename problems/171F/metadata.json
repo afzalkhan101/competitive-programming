@@ -1,0 +1,30 @@
+{
+  "id": "171F",
+  "order": 172,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "ucyhf",
+  "rating": 1600,
+  "tags": [
+    "*special",
+    "brute force",
+    "implementation",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/171/F",
+  "source": "problems/171F/main.cpp",
+  "statement": "problems/171F/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+      "output": "3fdba35f04dc8c462986c992bcf875546257113072a909c162f7e470e581e278"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "171/F",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

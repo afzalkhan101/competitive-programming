@@ -1,0 +1,31 @@
+{
+  "id": "63D",
+  "order": 497,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Dividing Island",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms"
+  ],
+  "url": "https://codeforces.com/problemset/problem/63/D",
+  "source": "problems/63D/main.cpp",
+  "statement": "problems/63D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "c5b31fed8de75f30042e6117bc537351c77b88b94f70ec282e088cdaa0e86455",
+      "output": "169524de7349bf35912f817992df8d7983661ce1dd494923d06aae615b8dec2d"
+    },
+    {
+      "input": "b3efb9a292486508af3c7afe16a352564753ce9e36016e0b295dee2341a16317",
+      "output": "141f8ca29a93c8230c6e6e0e76a0311e294b4b5e0a62509558cea523b315b11e"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "63/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,32 @@
+{
+  "id": "499B",
+  "order": 417,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Lecture",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/499/B",
+  "source": "problems/499B/main.cpp",
+  "statement": "problems/499B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "180dc83b317182d92584e9111f3b5378bf29bd0cdb0f5c60433b03b60168d130",
+      "output": "ddf28bd9dc67c3221d2cdea3a2eff1e30c837089dadefde72ab62a35324ec87f"
+    },
+    {
+      "input": "0f03434ead398298cca41ce3527d8617140414903c66be8eced63f2d9dca653d",
+      "output": "722c7afcc1e9e25f95cfb279fee6314ccd4daf544f26e687d384ace15c54d744"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "499/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

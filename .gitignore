@@ -55,3 +55,14 @@ tempCodeRunnerFile
 /R_Age_in_Days
 /m_capital_or_Small_or_Digit
 /t_sort_numbers
+
+# Python cache
+__pycache__/
+
+# Local browser credentials and automation dependencies
+.cf-local/
+.venv/
+
+# Keep Codeforces samples in Git
+!problems/**/samples/*.in
+!problems/**/samples/*.out

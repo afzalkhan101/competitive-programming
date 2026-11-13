@@ -1,0 +1,32 @@
+{
+  "id": "22D",
+  "order": 300,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Segments",
+  "rating": 1900,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/22/D",
+  "source": "problems/22D/main.cpp",
+  "statement": "problems/22D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "37d7c71c7427f94ab4058d323acee2f9b729a78d3a4df1dad1673c8d81b0aef1",
+      "output": "b598b3a62a3f7cedb17e66d1cb31d53dffeebaf5c07e2c60d5e31971936fd35e"
+    },
+    {
+      "input": "be814c72ce5e237c9fa76a89ed48d592d559730dd11b5452bf4f4bfa030a521a",
+      "output": "2a10ac266d4fbffe021f7fc67a04d5bb7f37c21673c32277fa6894fdc154f9b8"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "22/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

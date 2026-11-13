@@ -1,0 +1,31 @@
+{
+  "id": "106C",
+  "order": 282,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Buns",
+  "rating": 1700,
+  "tags": [
+    "dp"
+  ],
+  "url": "https://codeforces.com/problemset/problem/106/C",
+  "source": "problems/106C/main.cpp",
+  "statement": "problems/106C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "f0ef12b81b9640d20848b813f7472e159ec0f1a56b5bcc786eb2c3d929f73cbb",
+      "output": "749fc650cacb0f06547520d53c31505c8156e0a3be07073eddb2ef3ad9e383ba"
+    },
+    {
+      "input": "01126376a595e62ea4d3cd05ecd35b46613c0905050e44470ddad488ab2da5cf",
+      "output": "27badc983df1780b60c2b3fa9d3a19a00e46aac798451f0febdca52920faaddf"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "106/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,32 @@
+{
+  "id": "12B",
+  "order": 78,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Correct Solution?",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/12/B",
+  "source": "problems/12B/main.cpp",
+  "statement": "problems/12B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "5ad7331de61814a351e508aa36dbc7c72ebc6c138cf57f90d20baa4da54e58e5",
+      "output": "565339bc4d33d72817b583024112eb7f5cdf3e5eef0252d6ec1b9c9a94e12bb3"
+    },
+    {
+      "input": "8b4e10707dcead989801d60437cd70beb94d9e914329ca259fef45d2b11c7051",
+      "output": "9455cdbe9032d161b8b519951195802eaedc5e5bc039de02068c2aadf790f84c"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "12/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

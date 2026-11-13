@@ -1,0 +1,38 @@
+{
+  "id": "103C",
+  "order": 499,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Russian Roulette",
+  "rating": 1900,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/103/C",
+  "source": "problems/103C/main.cpp",
+  "statement": "problems/103C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "f6d8d44acabb009221252ca71e1751564c36349f7d69a593d4b37ae45e3c8398",
+      "output": "999c1de0253110ca277004cdd23fb50d6dac8f4c7e749650b572aac8bc7020ba"
+    },
+    {
+      "input": "d107479cdfe618b51f66275ff7190aad365266e1efa73b56e9eccb8a94b6abbf",
+      "output": "bb2e2fdef046af90d0bea3db101afefeba5e9d9e89452806ed876df6d131bccb"
+    },
+    {
+      "input": "3faa2446d53949f69240865ac5079f634fcf2f281158f59b0480f015ae3947bb",
+      "output": "ee96479b00aa7932411174be563d363999f470d48b27fa7d5a673e92c27951b7"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "103/C",
+  "aliases": [
+    "104/D"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

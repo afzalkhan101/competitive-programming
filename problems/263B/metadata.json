@@ -1,0 +1,37 @@
+{
+  "id": "263B",
+  "order": 204,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Squares",
+  "rating": 900,
+  "tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/263/B",
+  "source": "problems/263B/main.cpp",
+  "statement": "problems/263B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "2f519683c3865ab995248cdcd05836d059b86359294b95738ac3156bc1c91307",
+      "output": "e57acc10f53c55bd65c8462f1402834edd30e4f41203988a0cac5aff6122a614"
+    },
+    {
+      "input": "fd11611256027a7881d20ad22b9befe415de1727699b64a0fe69f23ab9b45414",
+      "output": "d18582a28dbe3e7cb38e361c95b97fb0ecf1ab4cf35582a79612e310b24a2598"
+    },
+    {
+      "input": "f0d7b5bf4a4c43617e7b890d708d46b8d78f5eb85a219f2fba6947620711a7aa",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "263/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

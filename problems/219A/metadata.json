@@ -1,0 +1,32 @@
+{
+  "id": "219A",
+  "order": 412,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "k-String",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/219/A",
+  "source": "problems/219A/main.cpp",
+  "statement": "problems/219A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "7478d8a7efc2851bb91a3ad1db49e6c471075c924ca3d53ccc6ba34ab6c85fc1",
+      "output": "f4a4ba37b2e383f43ddc7d668482e2c639aa464fe7f91f1029b4b00acf75e82a"
+    },
+    {
+      "input": "80ad348244e12ffa8cb22ccf3ea122f4a72979dfb679ee270a2cd2b0d0985099",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "219/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

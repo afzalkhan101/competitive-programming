@@ -1,0 +1,38 @@
+{
+  "id": "159D",
+  "order": 464,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Palindrome pairs",
+  "rating": 1500,
+  "tags": [
+    "*special",
+    "brute force",
+    "dp",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/159/D",
+  "source": "problems/159D/main.cpp",
+  "statement": "problems/159D/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "961b6dd3ede3cb8ecbaacbd68de040cd78eb2ed5889130cceb4c49268ea4d506",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "9834876dcfb05cb167a5c24953eba58c4ac89b1adf57f28f2f9d09af107ee8f0",
+      "output": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+    },
+    {
+      "input": "510a1c5d1c0f51fe1bca026934f9dd6e4f8c3e0833705a81859b00cca2a35d31",
+      "output": "76a50887d8f1c2e9301755428990ad81479ee21c25b43215cf524541e0503269"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "159/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,35 @@
+{
+  "id": "45C",
+  "order": 382,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Dancing Lessons",
+  "rating": 1900,
+  "tags": [
+    "data structures"
+  ],
+  "url": "https://codeforces.com/problemset/problem/45/C",
+  "source": "problems/45C/main.cpp",
+  "statement": "problems/45C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "0e19b4eb4c892de5e4621e6450013f6e2585e4be821cf9ec6c2c14535d42c1cd",
+      "output": "07be9ffe5bbbc7aae0d5e4941ee4f567e590a8cbbb495d6b2fdd1ff22578973f"
+    },
+    {
+      "input": "e27d9a633dd2cb8859549da5f545e1a58437071963d42f0cfc931ffb5624ad52",
+      "output": "6bf90fab17604bd4d31cc3581eaf4b87d8a6dd5bc89bd8be578c20b130656065"
+    },
+    {
+      "input": "0e1192c3489a36335d13dbdec5c8facea6c856f14ba4b4b02126e21c1ff24039",
+      "output": "da57c7587ea165f9b854320ceeb8229dcca10a4696088a00884b72fdb3cfc218"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "45/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

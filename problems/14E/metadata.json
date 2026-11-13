@@ -1,0 +1,31 @@
+{
+  "id": "14E",
+  "order": 297,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Camels",
+  "rating": 1900,
+  "tags": [
+    "dp"
+  ],
+  "url": "https://codeforces.com/problemset/problem/14/E",
+  "source": "problems/14E/main.cpp",
+  "statement": "problems/14E/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "23774b2bfd1c1daf1c0ca673780fc6393c8d5659adffc93627634de656a35c26",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    },
+    {
+      "input": "73c6486e6a5c1897d40af5c75219b5e5310df7ce20f20d63559be25a28053341",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "14/E",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

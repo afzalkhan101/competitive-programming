@@ -1,0 +1,33 @@
+{
+  "id": "405A",
+  "order": 208,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Gravity Flip",
+  "rating": 900,
+  "tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/405/A",
+  "source": "problems/405A/main.cpp",
+  "statement": "problems/405A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "17368c3c5291a3ccd26034477753fb79f23372dd49c30d76c4c96ca53b97a309",
+      "output": "c0dde147e6ecc5c4831ef8c74d7548669debb6f08b181555b819cd01744d8504"
+    },
+    {
+      "input": "d288e2a22f9bd5a176b95b01f066f377d025aeffcde3a6fb686f2dabb22eaa23",
+      "output": "19c35352c82742ee2cf55dfeec41be5e78f33549cbd0fa5ee3b88feaf3370cab"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "405/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

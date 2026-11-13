@@ -1,0 +1,35 @@
+{
+  "id": "14C",
+  "order": 474,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Four Segments",
+  "rating": 1700,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "geometry",
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/14/C",
+  "source": "problems/14C/main.cpp",
+  "statement": "problems/14C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "a94a990a89194018e2db522dee1ba04d3aedde6dccebdcb99c39c1e45ccb6829",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "8194c9493e1f9e31875fbc4356a2b916007f960298214fdf158c2c7b3fe98cfb",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "14/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

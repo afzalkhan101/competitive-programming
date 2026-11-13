@@ -1,0 +1,32 @@
+{
+  "id": "100A",
+  "order": 89,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Carpeting the Room",
+  "rating": 1100,
+  "tags": [
+    "*special",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/100/A",
+  "source": "problems/100A/main.cpp",
+  "statement": "problems/100A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "3a0585bf88a8e3cc2a3cbd141e525f7fa55782ef40da8b2395fd0452ae3b103a",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "a34850e3a9af6c704247789b9654fea790843a747ccc927d2e629e2b00e43c91",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "100/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

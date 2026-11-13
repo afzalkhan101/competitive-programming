@@ -1,0 +1,32 @@
+{
+  "id": "37B",
+  "order": 285,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Computer Game",
+  "rating": 1800,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/37/B",
+  "source": "problems/37B/main.cpp",
+  "statement": "problems/37B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "20853390bd26da8498da362eee25bb5db021e5d8aa63c48225da4a37149f38ab",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "8e61482207d3495651b02fb0f10a8b6ab1856e969544f068b4e21af0e5b6be45",
+      "output": "ec03b7a59d359e02674de135d481dc205e37bdb382d790df684120193e69982d"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "37/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

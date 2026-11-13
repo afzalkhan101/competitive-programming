@@ -1,0 +1,33 @@
+{
+  "id": "159A",
+  "order": 254,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Friends or Not",
+  "rating": 1400,
+  "tags": [
+    "*special",
+    "greedy",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/159/A",
+  "source": "problems/159A/main.cpp",
+  "statement": "problems/159A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "fa1d0e30e9c1d36e25c91ced1dc49a524a8fde7684b052dbb5469a92cf2e4fa1",
+      "output": "eb423a44d3b657dcfe12f85a7ae2c071178418ffed64e9a77bab8d28f9b843d4"
+    },
+    {
+      "input": "0c0a392bf133827a12bbdcc696b3e90d785fb77d5b5e771fed7ce5005100e6a2",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "159/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

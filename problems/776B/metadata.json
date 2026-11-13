@@ -1,0 +1,32 @@
+{
+  "id": "776B",
+  "order": 142,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Sherlock and his girlfriend",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/776/B",
+  "source": "problems/776B/main.cpp",
+  "statement": "problems/776B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce",
+      "output": "e5109f1cfe40b511cd3b469b2f38a695f698b64634b9b1a78e2b61e826690799"
+    },
+    {
+      "input": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a",
+      "output": "4249d4c7c8f96d1620350b7c458d1fd18684cf1211c7a6dacb33829258afd90d"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "776/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,31 @@
+{
+  "id": "45A",
+  "order": 31,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Codecraft III",
+  "rating": 900,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/45/A",
+  "source": "problems/45A/main.cpp",
+  "statement": "problems/45A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "550795ec8d6548b695d8cc8b6e184cceacd477d35d8e9e00eb52e8321d6977d9",
+      "output": "c877c6ff405ec29ca3d090237af972c34926ffde7088da4839394b48931da888"
+    },
+    {
+      "input": "fb74b5bec95b4851dc9f19418ad2511e108bf7e25dab46860487406068c2a2f9",
+      "output": "8c78fe5b9936488c111733d36f3da4b246a4d206159efe5cd64cdb229c38f069"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "45/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

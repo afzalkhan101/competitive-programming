@@ -1,0 +1,41 @@
+{
+  "id": "898B",
+  "order": 136,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Proper Nutrition",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "implementation",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/898/B",
+  "source": "problems/898B/main.cpp",
+  "statement": "problems/898B/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "bc62b7ea4c8f902719400e22cfa0f9ba447c60ecb386e62fd4b771624d48107d",
+      "output": "371f7457879f77ddfa1ae09f5e221ed0955fad66b54510095a2233ab6a1bc7fb"
+    },
+    {
+      "input": "e73a0ca7ad805ceab0f0abba2f6def6d12ff4fff226713c1f58463967b24e08a",
+      "output": "dfa74caac69f3d4c93d00a8a825ae24afbc950c96a366fe9a4fd1e6d5b3ca252"
+    },
+    {
+      "input": "423f3663e3d2280ed6201eb237d5845b50f400bcf4bfa3c47cd2e93b12f47181",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "375a57e2231cc7067f03b71a7e98b5a8142bcd86d7c37ea434a5fe4d13753910",
+      "output": "fe782050a7bf56e6f6dca2f0f22d01088c26875b97510e21e9f2a0d080eaea17"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "898/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

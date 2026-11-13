@@ -1,0 +1,33 @@
+{
+  "id": "166A",
+  "order": 97,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Rank List",
+  "rating": 1100,
+  "tags": [
+    "binary search",
+    "implementation",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/166/A",
+  "source": "problems/166A/main.cpp",
+  "statement": "problems/166A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "8f4bbc50944c909f2e7888c8b1c801a7af4747030cdb70dc017e073445f0a243",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    },
+    {
+      "input": "cf8e33f14ac3bfdabe67ad2680636293ff47adc45c7f1e4426ae094090ca7dc2",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "166/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,32 @@
+{
+  "id": "72G",
+  "order": 213,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Fibonacci army",
+  "rating": 1000,
+  "tags": [
+    "*special",
+    "dp"
+  ],
+  "url": "https://codeforces.com/problemset/problem/72/G",
+  "source": "problems/72G/main.cpp",
+  "statement": "problems/72G/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "72/G",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

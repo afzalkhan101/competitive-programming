@@ -1,0 +1,37 @@
+{
+  "id": "344B",
+  "order": 324,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Simple Molecules",
+  "rating": 1200,
+  "tags": [
+    "brute force",
+    "graphs",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/344/B",
+  "source": "problems/344B/main.cpp",
+  "statement": "problems/344B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "be417fad9f739c95814e8070079741ddef383326d830301c9287397217929dde",
+      "output": "3497a8d1a34483c59920257d477a21cd2e5bbfc03786627741c4a939421d0741"
+    },
+    {
+      "input": "ea833ec338087463594840580c551f0637cb0a631009e1ec47bc9739a7da287b",
+      "output": "c2c7cb513afe6b0b3249d32b70cb2aeff7f354f07bcdf47cd24cdc6269d53fd3"
+    },
+    {
+      "input": "ff0a11daff5ddb7ebc378295d5809752c5a6bb32594aab2e70555a0941907390",
+      "output": "7623b1fa270edd0bbfbcac43c4c3578153b6415b1aeb3387d5abf1a7ce4fe15f"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "344/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

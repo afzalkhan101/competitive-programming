@@ -1,0 +1,28 @@
+{
+  "id": "46E",
+  "order": 383,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Comb",
+  "rating": 1900,
+  "tags": [
+    "data structures",
+    "dp"
+  ],
+  "url": "https://codeforces.com/problemset/problem/46/E",
+  "source": "problems/46E/main.cpp",
+  "statement": "problems/46E/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "1aaa58a6a50ffa7d9754fe85308d7b8e09e8c6146af0e85d0adefcad61e6e191",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "46/E",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

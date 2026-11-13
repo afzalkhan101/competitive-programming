@@ -1,0 +1,27 @@
+{
+  "id": "1A",
+  "order": 51,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Theatre Square",
+  "rating": 1000,
+  "tags": [
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1/A",
+  "source": "problems/1A/main.cpp",
+  "statement": "problems/1A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "c63d737ae69c32a00ce8ac387e75651413b1332a205568317e1e99e2e4b3b64c",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

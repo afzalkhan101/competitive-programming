@@ -1,0 +1,29 @@
+{
+  "id": "501B",
+  "order": 313,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Misha and Changing Handles",
+  "rating": 1100,
+  "tags": [
+    "data structures",
+    "dsu",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/501/B",
+  "source": "problems/501B/main.cpp",
+  "statement": "problems/501B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "dcd2657e05746a9cfccc66eb42cd71b0b6b275add65cdb20bba3ddc4cd91f6aa",
+      "output": "0f1533d0fda99707e17a909bf8028a63066600cfec654bc317cbbbc27558e8d3"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "501/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

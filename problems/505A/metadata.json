@@ -1,0 +1,37 @@
+{
+  "id": "505A",
+  "order": 428,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Mr. Kitayuta's Gift",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/505/A",
+  "source": "problems/505A/main.cpp",
+  "statement": "problems/505A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "34f54b279dd0fa8b6fd6add091f024cdea7fc58afc62e3b3df1debd220082695",
+      "output": "ee84ee693d1f21da66f5e4a02d5fc751db94083ca71dd15d6b6661b17937ca5a"
+    },
+    {
+      "input": "27a84712e4b22c415fc544d55cdee82327a829f96d03329457f76ebf9af4dcaa",
+      "output": "47c215b5f70eb9c9b4bcb2c027007d6cf38a899f40d1d1da6922e49308b15b69"
+    },
+    {
+      "input": "91bf3fd022cc299730bd21a4499e2226c1dc4d104b69ccd7c5fdfeb3801245f4",
+      "output": "20ef0f0c8d0eea98772412cea9b3b92612e3e53cb5e59152b5703165f56e8a53"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "505/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

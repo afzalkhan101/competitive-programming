@@ -1,0 +1,28 @@
+{
+  "id": "75C",
+  "order": 170,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Modified GCD",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/75/C",
+  "source": "problems/75C/main.cpp",
+  "statement": "problems/75C/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "661ee7967ca52ec7ed4aa5d09e3296294dc494bbbf26066dcbbb336cf61eb33d",
+      "output": "efd65ddfc3aeb54424623514201eda16e1da1235f7151af0fd0da261c3e8c961"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "75/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

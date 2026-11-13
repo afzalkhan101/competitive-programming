@@ -1,0 +1,32 @@
+{
+  "id": "412B",
+  "order": 210,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Network Configuration",
+  "rating": 900,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/412/B",
+  "source": "problems/412B/main.cpp",
+  "statement": "problems/412B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "8f949bf255c1027769948199d28d896d453199684abbf47546c965690727d64d",
+      "output": "624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4"
+    },
+    {
+      "input": "e3d330afe32097f3a76e3b144008dc6e06b23ea7be6e0d6fb3aec3d8fe93d242",
+      "output": "d59eced1ded07f84c145592f65bdf854358e009c5cd705f5215bf18697fed103"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "412/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,37 @@
+{
+  "id": "452A",
+  "order": 415,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Eevee",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/452/A",
+  "source": "problems/452A/main.cpp",
+  "statement": "problems/452A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "40c2b7f338e674629cbecc7b1734c6833a9c83afc4071807ce586bf69de38c45",
+      "output": "aaf30d99f010d27dce550af9d0539f64a18401ce292f50005528f5d7fb2c50ed"
+    },
+    {
+      "input": "f66551836125374c9d641bc9db232b006d1b37b17c003e74b69a4ec5d72063f6",
+      "output": "29d3f5785d599569812287c445e5ad92f6e090a4907b1afd8542fd27fc3fd05d"
+    },
+    {
+      "input": "4f29586f54542d0a9477d6b4a45f2749cdd9d4777ef84e5888448ecd201e51df",
+      "output": "989f9c3f8054c8ff71c8be644451f6e54fb8807615120de7c9d6e5e6e17a6bdc"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "452/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

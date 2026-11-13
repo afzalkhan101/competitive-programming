@@ -1,0 +1,36 @@
+{
+  "id": "31D",
+  "order": 386,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Chocolate",
+  "rating": 2000,
+  "tags": [
+    "dfs and similar",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/31/D",
+  "source": "problems/31D/main.cpp",
+  "statement": "problems/31D/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "09fa5d9bc77884d5e644a95c7e75dd056e5b59f0e0ed34970616b46e2380f8d7",
+      "output": "be417fad9f739c95814e8070079741ddef383326d830301c9287397217929dde"
+    },
+    {
+      "input": "3abe042e1544251c50ebfc0c7c39749429de3b3dbd80698349aac8e208810346",
+      "output": "1bf779d349708b908004d305b1238039b48396e4627f14ff11ed6f77ecc82694"
+    },
+    {
+      "input": "75d9494e1e99de23327a1e24485fab3d3a789d70aa079d228ec15088ee4fbdf4",
+      "output": "717fc2c3ba46436381ab7f53a332a185bd6629dbdc35d64512fd243c9402be09"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "31/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

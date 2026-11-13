@@ -1,0 +1,37 @@
+{
+  "id": "48E",
+  "order": 394,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Ivan the Fool VS Gorynych the Dragon",
+  "rating": 2100,
+  "tags": [
+    "dp",
+    "games",
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/48/E",
+  "source": "problems/48E/main.cpp",
+  "statement": "problems/48E/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "044188ea16ecf77f57e566097a6eeee5915a8586c9987b03ba660c0520856a5e",
+      "output": "5a0be77d19b7cf27dd25ad5bfcc293e02090f73267698b8f6b91a891b31e4f0d"
+    },
+    {
+      "input": "5838c818be2e3cf1e4ab7160e9a53f37004397973e626c593fee4f3738c9bbca",
+      "output": "61517c08b3bf84b42ac5a38367a9ca07dbc54e9c00ee92df09debe4f38df34d4"
+    },
+    {
+      "input": "5148fa19b485f1eb5b69f5f8fd9ca5b7016593111887eb40fc5f38cee367b9e4",
+      "output": "1a7919a128a6fb58f5c093334eee0f523e412ee494fe7265757790f39b1d28df"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "48/E",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

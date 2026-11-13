@@ -1,0 +1,35 @@
+{
+  "id": "103D",
+  "order": 399,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Time to Raid Cowavans",
+  "rating": 2100,
+  "tags": [
+    "brute force",
+    "data structures",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/103/D",
+  "source": "problems/103D/main.cpp",
+  "statement": "problems/103D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "334a0304a7844b653612a518942d1622930717203f75e67eb69752e22b69cf60",
+      "output": "a5c39df50deddc4702d0d463fd1113dfc0e18d4ff5dfc866ecea4e4b1a413b77"
+    },
+    {
+      "input": "5043e0b9722f20402c92cf898ee50813ea9da2ef8477a93c3ee4aed4de53138f",
+      "output": "87cf91c62420f2aa6f56c50422eeab73fc81322265354749eb7a9db108406995"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "103/D",
+  "aliases": [
+    "104/E"
+  ],
+  "offline": true,
+  "timeLimit": 4.0,
+  "memoryLimit": 70.0
+}

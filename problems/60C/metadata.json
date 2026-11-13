@@ -1,0 +1,40 @@
+{
+  "id": "60C",
+  "order": 395,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Mushroom Strife",
+  "rating": 2100,
+  "tags": [
+    "brute force",
+    "dfs and similar"
+  ],
+  "url": "https://codeforces.com/problemset/problem/60/C",
+  "source": "problems/60C/main.cpp",
+  "statement": "problems/60C/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "8fad34bbb0c1ed095fbf1b50cb0e48785a030d5af68dc1a4957cbb583c3c1e5a",
+      "output": "a7cb60069efa96d2d9e53fc291c444fb35acab9e9390915fc55e37352480d47e"
+    },
+    {
+      "input": "e3ff8039cd7ad4ba1fb9a9ca39a73f4769ef4195225e9ba80addbe8de2dc5805",
+      "output": "83537dcbc99aed61494f5fa04fdc51b919f333c9dc59637e07441df7da4e4670"
+    },
+    {
+      "input": "57a4496ccef8a52c39b6ca3ec3101f949796dda6105e5b8d645989545c85c2d0",
+      "output": "b6949d388bf8846e39f4fd43a53bfe041f9b9abbb8c3c02120500fde874a2de5"
+    },
+    {
+      "input": "6c6592c58e1835122feaf2727809585d75dd999b45b09926d79b4c43718d7ca9",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "60/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

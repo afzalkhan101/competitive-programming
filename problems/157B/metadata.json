@@ -1,0 +1,32 @@
+{
+  "id": "157B",
+  "order": 215,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Trace",
+  "rating": 1000,
+  "tags": [
+    "geometry",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/157/B",
+  "source": "problems/157B/main.cpp",
+  "statement": "problems/157B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "c553228271d4cf65305957e97cd75da60964776a9e615c702bd6a4c077d266c0",
+      "output": "d593c1ea94c1628d38f8e3cd945d76f4037ceecc4b30e12f5a4ac7663f841ce5"
+    },
+    {
+      "input": "8e6b3e9bf0708cede8021e09b95b8773a74a59e367df0392c5310c05703a7946",
+      "output": "f1984897bf70ddf3d3d0dfa5896bd847ba11a5395f8fac7a0e7e7f422145a1ad"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "157/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

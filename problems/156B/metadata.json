@@ -1,0 +1,39 @@
+{
+  "id": "156B",
+  "order": 358,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Suspects",
+  "rating": 1600,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/156/B",
+  "source": "problems/156B/main.cpp",
+  "statement": "problems/156B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "1a73b0d709beb13a2d19cc29a8a32dc9729cf3b7137f23aa7b96d863f526bc32",
+      "output": "cc3a062a97bf2935e0e12e1aee3bed944a81e1f4e4ca21eaa03b07be38628686"
+    },
+    {
+      "input": "51166662d212ae08e3404f184e0a143ac53154e01a0f5c43a2a0e7fd29fd7252",
+      "output": "76f3b332e7a33d01aa5902ec5f3ae9696e6d425ec1f32ff5eca98344d01350cb"
+    },
+    {
+      "input": "cc911d428b20ae092cd6f05b1b30b1931842fc5ce0afc074d547f7eba0733251",
+      "output": "8b89be7b433eb6ee15ca57152c79d552d6070df4a618455db0ea2616f315d90f"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "156/B",
+  "aliases": [
+    "157/D"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

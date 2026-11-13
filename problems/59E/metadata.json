@@ -1,0 +1,36 @@
+{
+  "id": "59E",
+  "order": 388,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Shortest Path",
+  "rating": 2000,
+  "tags": [
+    "graphs",
+    "shortest paths"
+  ],
+  "url": "https://codeforces.com/problemset/problem/59/E",
+  "source": "problems/59E/main.cpp",
+  "statement": "problems/59E/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "9f03b7d64fd908c4c35d387629a2ce4328c648f0ede976db9bdaaf384d859a1f",
+      "output": "279c5981e291dbdc4321c2c8678d148e9b7bf596fb3b78309974fdcd680e9fbb"
+    },
+    {
+      "input": "a0bc3869b7ffbf94014273e3de5369fff26d60484a6bbab952acdf7a1a86478b",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    },
+    {
+      "input": "ff8e77b4ae1296be086a285b8727285ff8d70562a4fb39d127fb6f2b205395fc",
+      "output": "dc45b9e6d5e7f160b20eca29df6ebe48ce2833de838d73d77ec06ffc435cac00"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "59/E",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

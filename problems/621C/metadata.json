@@ -1,0 +1,34 @@
+{
+  "id": "621C",
+  "order": 183,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Wet Shark and Flowers",
+  "rating": 1700,
+  "tags": [
+    "combinatorics",
+    "math",
+    "number theory",
+    "probabilities"
+  ],
+  "url": "https://codeforces.com/problemset/problem/621/C",
+  "source": "problems/621C/main.cpp",
+  "statement": "problems/621C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "d1caa2005120f6a9b7380d92f538fe15b1a86bf1b3bc612d2311b7de385666d9",
+      "output": "e79188f6ae638f972bf508453a54898a7332468468d4a6453fa756147195aeca"
+    },
+    {
+      "input": "56306a5bf57a3ab2ec51bd88bdba7916e8c0e243524cfcc545e3852de06138f7",
+      "output": "8aed642bf5118b9d3c859bd4be35ecac75b6e873cce34e7b6f554b06f75550d7"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "621/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "100H",
+  "order": 398,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Battleship",
+  "rating": 2100,
+  "tags": [
+    "*special",
+    "dfs and similar",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/100/H",
+  "source": "problems/100H/main.cpp",
+  "statement": "problems/100H/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "6d961c02b7adf2901c70cb9ef54790922dc3cbf816f6b4fce721866208524898",
+      "output": "48466f15aaead5e2742c0c399499299fc5418ec26640f25f2dda4f933b46301c"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "100/H",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

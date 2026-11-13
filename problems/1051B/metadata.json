@@ -1,0 +1,29 @@
+{
+  "id": "1051B",
+  "order": 124,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Relatively Prime Pairs",
+  "rating": 1000,
+  "tags": [
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1051/B",
+  "source": "problems/1051B/main.cpp",
+  "statement": "problems/1051B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "f0338ab884f95eb1e72ceb1c55a69d02644113c93e2ef5e5b1737234fe1d2546",
+      "output": "83cff69656f066abbfa32349c68182cd43ee3d001c542558fb160e4c5532f282"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1051/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

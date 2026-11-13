@@ -1,0 +1,39 @@
+{
+  "id": "135B",
+  "order": 468,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Rectangle and Square",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "geometry",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/135/B",
+  "source": "problems/135B/main.cpp",
+  "statement": "problems/135B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "cc9236dcba9955e9bc2e0e43660a0feef02eafc0cc8b13d62903d21bf4e2392e",
+      "output": "fe97691b385c37df22dfd93188830b9ba853143e2d5273d3091aca205bbe307e"
+    },
+    {
+      "input": "eefa0ad367d96bbb2c17aa170c8735e008e8f094c8d2af670fec811aa036fa5f",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "97c3fb4c9268ec7be1cf137b11285e9d48546c8697f1eed24f4969f596013544",
+      "output": "84a6c22572715b23a5dd04b943d227c9d7a649c99663e0575f4ab740a8a7d90b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "135/B",
+  "aliases": [
+    "136/D"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

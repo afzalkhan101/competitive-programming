@@ -1,0 +1,32 @@
+{
+  "id": "33A",
+  "order": 234,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "What is for dinner?",
+  "rating": 1200,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/33/A",
+  "source": "problems/33A/main.cpp",
+  "statement": "problems/33A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "c2735576e21e5571168b70e3602b076969dc2ef1187a34c496fc123c401cc235",
+      "output": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8"
+    },
+    {
+      "input": "c61b0836c535d649e07b9d187d51bab8b2035fda9ebc52c46e371f0f7d739c40",
+      "output": "3fdba35f04dc8c462986c992bcf875546257113072a909c162f7e470e581e278"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "33/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

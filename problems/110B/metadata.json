@@ -1,0 +1,32 @@
+{
+  "id": "110B",
+  "order": 91,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Lucky String",
+  "rating": 1100,
+  "tags": [
+    "constructive algorithms",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/110/B",
+  "source": "problems/110B/main.cpp",
+  "statement": "problems/110B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+      "output": "4a4f0b3e705fb43ec0ea2213e57bb6624f10f3d2d46284c0a6e10116234df21d"
+    },
+    {
+      "input": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce",
+      "output": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "110/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

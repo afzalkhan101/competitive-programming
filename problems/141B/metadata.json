@@ -1,0 +1,44 @@
+{
+  "id": "141B",
+  "order": 450,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Hopscotch",
+  "rating": 1400,
+  "tags": [
+    "geometry",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/141/B",
+  "source": "problems/141B/main.cpp",
+  "statement": "problems/141B/problem.md",
+  "samples": 5,
+  "sampleHashes": [
+    {
+      "input": "e28e05197da972243cdddb14bcafa15a24b31d50819b61d3ffa666a4d3a685a1",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    },
+    {
+      "input": "d1b6071d8cca5ffcfdbebb7f3fb570d7f8a113b4c31f4558efa2cbd3bd29860e",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "dbf8bef78f83f2c47dd0809b8835415ede02bb3605ba9e641a270675f0d644cf",
+      "output": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+    },
+    {
+      "input": "ba9b10ae2fb0ea68e3d14682a478dc60201c9a0a44238679f665b50f85ce6ad7",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    },
+    {
+      "input": "71db41c11efd724760b2886ce78611c976db3bbcd8ee14e79c31255c3cff95de",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "141/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

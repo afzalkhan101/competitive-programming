@@ -1,0 +1,37 @@
+{
+  "id": "101A",
+  "order": 237,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Homework",
+  "rating": 1200,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/101/A",
+  "source": "problems/101A/main.cpp",
+  "statement": "problems/101A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "dee3bcb16b0bf1f6913775a454acc12cdc5e971446406359709056077f9de2c2",
+      "output": "dfc3bd2b25059cdd507a716eb2e0e212438f14119cfdc61c05f8408f42cc9383"
+    },
+    {
+      "input": "1cbedcaac4d5c190cd28b43904da32116bcc9a6e929da67f1ef6f8f3588ce07b",
+      "output": "2e03ba37b57efd5ef892f8637975c548609cfd2c63d6d6b962ed8732475abfc1"
+    },
+    {
+      "input": "8362a57422c4d3c6e901963ef7b7f79df9612755cdf35437989c01f0ff4dd1bf",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "101/A",
+  "aliases": [
+    "102/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

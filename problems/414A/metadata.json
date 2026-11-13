@@ -1,0 +1,38 @@
+{
+  "id": "414A",
+  "order": 163,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Mashmokh and Numbers",
+  "rating": 1500,
+  "tags": [
+    "constructive algorithms",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/414/A",
+  "source": "problems/414A/main.cpp",
+  "statement": "problems/414A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "e99e144bfc65e8f855e5d5bf3c5af53b009cc7ec37c8a3d56efb184c0ac563c8",
+      "output": "2deb4db564eb7bf637bbcd3cf2d964639e63825caaa233dd8d759708b272dd55"
+    },
+    {
+      "input": "3918302e287740389848cfb6a0c92d961c70f55d234f800ec903fdab2f704cf1",
+      "output": "43aedcca284e1610d2f37c5fee9abe1eb4f3bdd878c8b481f0cafbd05eb8d06d"
+    },
+    {
+      "input": "8847ccf9793caf1bf27c8069e90dc6c6f1b505284f04e569a73ebb56106dc5bd",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "414/A",
+  "aliases": [
+    "415/C"
+  ],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

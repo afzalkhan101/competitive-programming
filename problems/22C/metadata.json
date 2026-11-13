@@ -1,0 +1,31 @@
+{
+  "id": "22C",
+  "order": 361,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "System Administrator",
+  "rating": 1700,
+  "tags": [
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/22/C",
+  "source": "problems/22C/main.cpp",
+  "statement": "problems/22C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "4c1a9ced15f7533c60ee8f616e04c4af8ec00c1354da56d5b954fcacc0036fc3",
+      "output": "89069b1f252dc313a46eca0a6debe75010ddd81b8a3b327bd337323574ad9352"
+    },
+    {
+      "input": "ea1d772cc551596ce8262c6e9768d78a7ec76266946be63505fa49703e1d95b1",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "22/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

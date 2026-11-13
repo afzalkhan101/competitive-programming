@@ -1,0 +1,32 @@
+{
+  "id": "248B",
+  "order": 154,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Chilly Willy",
+  "rating": 1400,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/248/B",
+  "source": "problems/248B/main.cpp",
+  "statement": "problems/248B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    },
+    {
+      "input": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+      "output": "2ab4e55c7fdf332c78e4f36966a981f452ffb6758026085a4ad9df565a1df82d"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "248/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

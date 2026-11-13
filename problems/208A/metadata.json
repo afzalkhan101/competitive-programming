@@ -1,0 +1,31 @@
+{
+  "id": "208A",
+  "order": 48,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Dubstep",
+  "rating": 900,
+  "tags": [
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/208/A",
+  "source": "problems/208A/main.cpp",
+  "statement": "problems/208A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "c0dd9261a8d711effa79ee3377e73ae787eacf477bf2465e7c5fe20aad592a54",
+      "output": "b5d4045c3f466fa91fe2cc6abe79232a1a57cdf104f7a26e716e0a1e2789df78"
+    },
+    {
+      "input": "775ccf3a08515d1bc874ec8286bb2f960eb7f7f14da00b65a643d396af73aca9",
+      "output": "29c5d23919ac7711c599e408761c95e8b64a9b2864bd062ba184e8965f9d34e4"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "208/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,33 @@
+{
+  "id": "100I",
+  "order": 461,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Rotation",
+  "rating": 1500,
+  "tags": [
+    "*special",
+    "geometry",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/100/I",
+  "source": "problems/100I/main.cpp",
+  "statement": "problems/100I/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "7e609a09303478498e5bb8971c1498f01ab20b16dfb221ce6e92c78a92f15765",
+      "output": "037afbbda896be36066e5174808c083fc97d92a519c1511b5c3031ab6dddc183"
+    },
+    {
+      "input": "712d7601867300adf513766ab2db46c219fe76e98e94d7aa16832de23328f380",
+      "output": "aefdd7a3eaf483f0e57588c0eca6fd54200e1216270446f9fe2aea3c5c54ed0a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "100/I",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

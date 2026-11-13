@@ -1,0 +1,32 @@
+{
+  "id": "69B",
+  "order": 235,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Bets",
+  "rating": 1200,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/69/B",
+  "source": "problems/69B/main.cpp",
+  "statement": "problems/69B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "28694ef62405051527c5d6d95075cf54b30b7fb40c84b195293c1a75af602718",
+      "output": "39fa9ec190eee7b6f4dff1100d6343e10918d044c75eac8f9e9a2596173f80c9"
+    },
+    {
+      "input": "cfee149370474535c7026f25e015b5d7e6ad3f759c32bd6cd662a5b9c8299087",
+      "output": "1253e9373e781b7500266caa55150e08e210bc8cd8cc70d89985e3600155e860"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "69/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

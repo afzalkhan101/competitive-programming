@@ -1,0 +1,35 @@
+{
+  "id": "48D",
+  "order": 260,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Permutations",
+  "rating": 1500,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/48/D",
+  "source": "problems/48D/main.cpp",
+  "statement": "problems/48D/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "e96e523675b43a649d098ec8fca287f4c288fe7944a3f20cb8d431f13b587f8b",
+      "output": "2eb30fc740c676447263593a629cd8cc77231be8c904e5174a675de64bf31f3d"
+    },
+    {
+      "input": "9c854df41fd51f13e6221ee5fc4edc55f1a7dead131362229d7fb072ae90fbcb",
+      "output": "8bdce65ba56073aeeacd96522b70ff536dbddc2a5278de22b8c58cde103cefc9"
+    },
+    {
+      "input": "e5886a11ca128692ecc2807f064ed671aefed7d0c37bf4f41ea3b6fe684c72f9",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "48/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,32 @@
+{
+  "id": "90B",
+  "order": 88,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "African Crossword",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/90/B",
+  "source": "problems/90B/main.cpp",
+  "statement": "problems/90B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "370814c8bd83c241bab6db2ea4426726a97cf3bd92021f4cf97ed3f9a35f0094",
+      "output": "88d4266fd4e6338d13b845fcf289579d209c897823b9217da3e161936f031589"
+    },
+    {
+      "input": "ad924eb21db40ed3af37e93dd7c9e88967bdc5804a6a697a98619c860ed6a137",
+      "output": "e13a9b6e8ac54db6fa9c1962cc9e64ddb3ad29fc5a5b2111b27ce3433375d4f9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "90/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

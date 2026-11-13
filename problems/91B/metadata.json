@@ -1,0 +1,38 @@
+{
+  "id": "91B",
+  "order": 264,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Queue",
+  "rating": 1500,
+  "tags": [
+    "binary search",
+    "data structures"
+  ],
+  "url": "https://codeforces.com/problemset/problem/91/B",
+  "source": "problems/91B/main.cpp",
+  "statement": "problems/91B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "745c001a143e3df25786cb91a8d8dea3f9984dabc0c74021622b6f9b0762dba6",
+      "output": "815944ba0c8e0762cb3ecaeac28e7a8c4cfcb637c2b26bc8627322d2870be8e0"
+    },
+    {
+      "input": "f5e786cdab213efac9881f70fcd44ea407ec96292262cd10d29fe9ae0f694c1d",
+      "output": "506627a953eb7e742d3d6b6e19666a73e8666a3bb6fbdb2c50da5cfb72ea06a1"
+    },
+    {
+      "input": "1b47e64ada592822c3aae9236061d548b75d630afc6e3e5a2e3aa139553aef90",
+      "output": "62856544b95325b9e58592ca6ce7f8d7b212fd58cba040b7d5c1d69b3ca4cfe0"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "91/B",
+  "aliases": [
+    "92/D"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

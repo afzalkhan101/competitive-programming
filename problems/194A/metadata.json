@@ -1,0 +1,36 @@
+{
+  "id": "194A",
+  "order": 45,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Exams",
+  "rating": 900,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/194/A",
+  "source": "problems/194A/main.cpp",
+  "statement": "problems/194A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "809c025ba41f5c3d2106b85998e2eb962f64571f2c7108bd8c83201fe39fe62e",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "7db968081eb9c254f3f4632030042cdbea2c94b82b17344d6c91de4f83675de8",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "63b51e9a6a3330e3291aa4d3f6b44c69d7fb50791c3427054c934abe929fd780",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "194/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

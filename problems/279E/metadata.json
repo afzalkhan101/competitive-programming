@@ -1,0 +1,38 @@
+{
+  "id": "279E",
+  "order": 197,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Beautiful Decomposition",
+  "rating": 1900,
+  "tags": [
+    "dp",
+    "games",
+    "greedy",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/279/E",
+  "source": "problems/279E/main.cpp",
+  "statement": "problems/279E/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "f6e0a1e2ac41945a9aa7ff8a8aaa0cebc12a3bcc981a929ad5cf810a090e11ae",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "6daf94ec6b4d0da10ecdcfb8518bad5a583967f380cb38ab1a1143d3d92f7199",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "279/E",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

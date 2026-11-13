@@ -1,0 +1,34 @@
+{
+  "id": "64C",
+  "order": 266,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Table",
+  "rating": 1600,
+  "tags": [
+    "*special",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/64/C",
+  "source": "problems/64C/main.cpp",
+  "statement": "problems/64C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "66a9fa5e1d538af18e2db89dbe0e720ebb8ff04a6cb3f7be079005bf3e6edf03",
+      "output": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3"
+    },
+    {
+      "input": "40fbe685c38e1533d6bfcb335cb01b496ef97bfb19d4114d852f093983da0a2e",
+      "output": "0d679bc68326dea934ef01c33165fb98423adf7996cae630ad1356f1e4514775"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "64/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

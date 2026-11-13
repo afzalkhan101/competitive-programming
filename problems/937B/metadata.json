@@ -1,0 +1,33 @@
+{
+  "id": "937B",
+  "order": 160,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Vile Grasshoppers",
+  "rating": 1400,
+  "tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/937/B",
+  "source": "problems/937B/main.cpp",
+  "statement": "problems/937B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "aac7435da70cf1094d8292218bcb01794eeaa3ef6a95f00e20cd20a185d5b367",
+      "output": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+    },
+    {
+      "input": "7f5564f0fafd57bfe1d569c9320f06a12364394e6ea245de8d919cc423e02868",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "937/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

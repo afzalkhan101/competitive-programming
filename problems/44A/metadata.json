@@ -1,0 +1,31 @@
+{
+  "id": "44A",
+  "order": 30,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Indian Summer",
+  "rating": 900,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/44/A",
+  "source": "problems/44A/main.cpp",
+  "statement": "problems/44A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "bbbdd23564567893f762eb4a57ca87e29aeb7fb929c6bfc790b86e73dde65e7e",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "bc5ab9901da991c68bfdf204edf7ce1ef412c0acd8d46e524cc3f1a48080a7dd",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "44/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

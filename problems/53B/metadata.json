@@ -1,0 +1,36 @@
+{
+  "id": "53B",
+  "order": 276,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Blog Photo",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/53/B",
+  "source": "problems/53B/main.cpp",
+  "statement": "problems/53B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "e57acc10f53c55bd65c8462f1402834edd30e4f41203988a0cac5aff6122a614",
+      "output": "020a7c91e30725bb191818987340dec6040aff93923840de685e1e1d7b3d071a"
+    },
+    {
+      "input": "04412575067f0bdb6722e31a7ee45744cc1ecf2dfacec4cfbfa70cfd364bb7e2",
+      "output": "04412575067f0bdb6722e31a7ee45744cc1ecf2dfacec4cfbfa70cfd364bb7e2"
+    },
+    {
+      "input": "b1766f061523cc0d6619c0d86cf5b6781cfd51553de9f483940e611ce8b8591a",
+      "output": "55a6ea8892c3f465ed0fa61e578cb9330f702decfa76dfef0d7c80e8aec971a3"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "53/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

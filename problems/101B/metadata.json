@@ -1,0 +1,39 @@
+{
+  "id": "101B",
+  "order": 281,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Buses",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "data structures",
+    "dp"
+  ],
+  "url": "https://codeforces.com/problemset/problem/101/B",
+  "source": "problems/101B/main.cpp",
+  "statement": "problems/101B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "861dce2ec565bc814571732def2aef046fe8cfe7e4fd88ed9a2c9b80d1d02ee8",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "21687d4c03411e2d4f97e9b8a41d6a64724e0fa675f38648e70fff9cac5ed7c8",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "50ab1f433c40482fc21d3391617533916420015a47bad99ea6662cdd1a18bcee",
+      "output": "b17ef6d19c7a5b1ee83b907c595526dcb1eb06db8227d650d5dda0a9f4ce8cd9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "101/B",
+  "aliases": [
+    "102/D"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 265.0
+}

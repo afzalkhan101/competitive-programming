@@ -1,0 +1,38 @@
+{
+  "id": "729A",
+  "order": 408,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Interview with Oleg",
+  "rating": 900,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/729/A",
+  "source": "problems/729A/main.cpp",
+  "statement": "problems/729A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "1f7ca93140b153cbfc499c2c5f7551bcd728021b660e3591d231493addd3862a",
+      "output": "7c33a06cb1a6cecd6e38ec6f55060e0c359405d58ea92d8695175f68018a5d93"
+    },
+    {
+      "input": "12c86c20a5d24c76d8476d45944d5eccf60e4f530be08896a4c3f2d14e485446",
+      "output": "9b33272a952953f2aa2c32a33c574c86d8d751275ea68f35d23c6a8529ab9931"
+    },
+    {
+      "input": "ab3f968821c23f95dca5800dae61e4cbc27e6c811f189d06790ac170952d613f",
+      "output": "27722dfd03d0749dbd6aefbf21cc6a018f7876b6e6f821b8541356c15101abce"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "729/A",
+  "aliases": [
+    "738/A"
+  ],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

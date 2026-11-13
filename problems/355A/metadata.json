@@ -1,0 +1,36 @@
+{
+  "id": "355A",
+  "order": 426,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Vasya and Digital Root",
+  "rating": 1100,
+  "tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/355/A",
+  "source": "problems/355A/main.cpp",
+  "statement": "problems/355A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "3fc6552433851f85babd1965fabeacde6ea78c347e7967da246beb96e0eee37d",
+      "output": "461b2e3622293c303571880413edf2e26b35f5d191b30a32e7eea20da00613d2"
+    },
+    {
+      "input": "194fccc2a325736e71080e5531d3693de3b41e8e5426ebd607597051a15b3490",
+      "output": "0d61c87f2827a09763810c081e88ac3acdc734ac82bfcaa98331012cd4acb512"
+    },
+    {
+      "input": "8fad34bbb0c1ed095fbf1b50cb0e48785a030d5af68dc1a4957cbb583c3c1e5a",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "355/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

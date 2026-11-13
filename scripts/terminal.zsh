@@ -1,28 +1,45 @@
-# Load from ~/.zshrc to enable repository commands.
-function runcode() {
-    local repo=/Users/laptopheaven/competitive-programming
-    if [[ "$PWD" != "$repo" && "$PWD" != "$repo/"* ]]; then
-        print -u2 'Run runcode from the competitive-programming folder.'
+# Compatible with zsh and bash. Commands resolve this clone from the current folder.
+function _practice_repo() {
+    local repo
+    repo="$(git rev-parse --show-toplevel 2>/dev/null)" || return 1
+    if [[ ! -f "$repo/practice/catalog.json" || ! -f "$repo/scripts/cf.py" ]]; then
+        printf '%s\n' 'Run this command inside your competitive-programming clone.' >&2
         return 1
     fi
-    python3 "$repo/scripts/runcode.py" "$@"
+    printf '%s\n' "$repo"
+}
+
+function _practice_python() {
+    local repo="$1"
+    shift
+    if [[ -x "$repo/.venv/bin/python" ]]; then
+        "$repo/.venv/bin/python" "$@"
+    else
+        python3 "$@"
+    fi
+}
+
+function runcode() {
+    local repo
+    repo="$(_practice_repo)" || return 1
+    _practice_python "$repo" "$repo/scripts/runcode.py" "$@"
+}
+
+function cf() {
+    local repo
+    repo="$(_practice_repo)" || return 1
+    _practice_python "$repo" "$repo/scripts/cf.py" "$@"
+}
+
+function testcode() {
+    cf test "$@"
 }
 
 function push() {
-    local repo=/Users/laptopheaven/competitive-programming
     if [[ "$1" != this ]]; then
-        print -u2 'Usage: push this [commit message]'
-        return 1
-    fi
-    if [[ "$PWD" != "$repo" && "$PWD" != "$repo/"* ]]; then
-        print -u2 'Run push this from the competitive-programming folder.'
+        printf '%s\n' 'Usage: push this [commit message]' >&2
         return 1
     fi
     shift
-    local message="${*:-Update competitive programming solutions}"
-    git -C "$repo" add -A || return $?
-    if ! git -C "$repo" diff --cached --quiet; then
-        git -C "$repo" commit -m "$message" || return $?
-    fi
-    git -C "$repo" push origin HEAD
+    cf submit "$*"
 }

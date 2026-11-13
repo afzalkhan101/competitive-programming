@@ -1,0 +1,32 @@
+{
+  "id": "13A",
+  "order": 53,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Numbers",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/13/A",
+  "source": "problems/13A/main.cpp",
+  "statement": "problems/13A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+      "output": "653e83e7d95bb7be2685ebb3549dd4fb8525591259ef65a5385a9ba172e43537"
+    },
+    {
+      "input": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce",
+      "output": "1d800ad9f4e99e1c61aa45473623da4013509f1ab2e23718f713de921b0eee90"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "13/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 64.0
+}

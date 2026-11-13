@@ -1,0 +1,40 @@
+{
+  "id": "472A",
+  "order": 101,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Design Tutorial: Learn from Math",
+  "rating": 800,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/472/A",
+  "source": "problems/472A/main.cpp",
+  "statement": "problems/472A/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "6b51d431df5d7f141cbececcf79edf3dd861c3b4069f0b11661a3eefacbba918",
+      "output": "809c025ba41f5c3d2106b85998e2eb962f64571f2c7108bd8c83201fe39fe62e"
+    },
+    {
+      "input": "e629fa6598d732768f7c726b4b621285f9c3b85303900aa912017db7617d8bdb",
+      "output": "a9021ceb33c83062214a43e9961c7f89cd9bd508f19a33da1138cea33bfbf3a2"
+    },
+    {
+      "input": "535fa30d7e25dd8a49f1536779734ec8286108d115da5045d77f3b4185d8f790",
+      "output": "c2604bcca6516e5a89525538eeadf54783b39c5bf50511744d0e07d0be408c94"
+    },
+    {
+      "input": "6cce36d9f8a9e151b100234af75cca89d55bcb94c153f51847debdf1f39cae45",
+      "output": "d1cab3a6dc169d668b771368ed81d3bfa41078d7d5e593ad42c57803c274f8bf"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "472/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

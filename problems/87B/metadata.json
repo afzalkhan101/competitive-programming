@@ -1,0 +1,34 @@
+{
+  "id": "87B",
+  "order": 487,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Vasya and Types",
+  "rating": 1800,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/87/B",
+  "source": "problems/87B/main.cpp",
+  "statement": "problems/87B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "b679a469ba185f720bd3b546f7680ab0ad0ec13c4a150ed042851da3adb631be",
+      "output": "6f0b490ca74564a28d8c0b391d6252d617e1caeaa97db868a0c8951f869f654e"
+    },
+    {
+      "input": "6f06c040147d8c5de8d33bd4185be01b6422fb7010f3330ac5c3a449701a2f9a",
+      "output": "7929659592d322073363d2b1391776ed44339bdcbf75754d7385c5b6ee6e20fa"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "87/B",
+  "aliases": [
+    "88/D"
+  ],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

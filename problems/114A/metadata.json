@@ -1,0 +1,31 @@
+{
+  "id": "114A",
+  "order": 69,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Cifera",
+  "rating": 1000,
+  "tags": [
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/114/A",
+  "source": "problems/114A/main.cpp",
+  "statement": "problems/114A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "0876f436c1c902f33eb4a3c51d59e7e4966b912b617334524f7299206528f1ad",
+      "output": "a7cb60069efa96d2d9e53fc291c444fb35acab9e9390915fc55e37352480d47e"
+    },
+    {
+      "input": "fe67b88153e0784e1d4d14718b1408d21c241d40e0e5f818bd3de3374c35dbc5",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "114/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

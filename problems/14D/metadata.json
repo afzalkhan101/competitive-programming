@@ -1,0 +1,40 @@
+{
+  "id": "14D",
+  "order": 296,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Two Paths",
+  "rating": 1900,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "shortest paths",
+    "trees",
+    "two pointers"
+  ],
+  "url": "https://codeforces.com/problemset/problem/14/D",
+  "source": "problems/14D/main.cpp",
+  "statement": "problems/14D/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "2161ff93c25f144705121f4b1dafe5880a7daead8e57705a078727c7f3f2a0d5",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "f2940c96f24625232f7f5c23b5517fd7da6fc602f3e4db290bedfe5d7e97d7aa",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "ff937a220fab58b1dbea0d6368a256d11311d9ef23fb3a6035860a199ab2e1e5",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "14/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

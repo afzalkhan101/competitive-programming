@@ -1,0 +1,28 @@
+{
+  "id": "27A",
+  "order": 233,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Next Test",
+  "rating": 1200,
+  "tags": [
+    "implementation",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/27/A",
+  "source": "problems/27A/main.cpp",
+  "statement": "problems/27A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "e8be5c17d1e073477defc2406b6f271a9bd32a50b41eea08c91dc4b7933929e3",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "27/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

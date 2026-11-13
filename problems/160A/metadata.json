@@ -1,0 +1,32 @@
+{
+  "id": "160A",
+  "order": 202,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Twins",
+  "rating": 900,
+  "tags": [
+    "greedy",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/160/A",
+  "source": "problems/160A/main.cpp",
+  "statement": "problems/160A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "0f7a17b17756baeb38d6afc5a736474f96fe5ea128db6e918ae1da89df85fa19",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "382eae2d412102f29a356c68d33b65e3cde76edaa514da3d0458575438e0f506",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "160/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

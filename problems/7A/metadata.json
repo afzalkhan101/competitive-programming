@@ -1,0 +1,32 @@
+{
+  "id": "7A",
+  "order": 77,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Kalevitch and Chess",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "constructive algorithms"
+  ],
+  "url": "https://codeforces.com/problemset/problem/7/A",
+  "source": "problems/7A/main.cpp",
+  "statement": "problems/7A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "27afe6a3b5864848ddbdc0597a9dd188694d89a4e34bda0e2d4e2d1fff94d4ce",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    },
+    {
+      "input": "243df21b338c6d7c8873d1ee0905324de0fd9fd7695ab4abcb376f3a56502780",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "7/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

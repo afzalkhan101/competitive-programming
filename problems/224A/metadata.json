@@ -1,0 +1,33 @@
+{
+  "id": "224A",
+  "order": 421,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Parallelepiped",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "geometry",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/224/A",
+  "source": "problems/224A/main.cpp",
+  "statement": "problems/224A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "c413f845fbe90b262337e1c7f973d9afd3b4816dd7cdb77c3e6c4abce0891a62",
+      "output": "6b51d431df5d7f141cbececcf79edf3dd861c3b4069f0b11661a3eefacbba918"
+    },
+    {
+      "input": "f997f23fe27ac944a6b463a68b03cb970fd3247e4fca58a485393e328e874857",
+      "output": "59e19706d51d39f66711c2653cd7eb1291c94d9b55eb14bda74ce4dc636d015a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "224/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

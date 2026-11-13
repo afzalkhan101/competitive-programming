@@ -1,0 +1,38 @@
+{
+  "id": "653B",
+  "order": 336,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Bear and Compressing",
+  "rating": 1300,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/653/B",
+  "source": "problems/653B/main.cpp",
+  "statement": "problems/653B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "c230b51b16dab4b2d57ca474514a71e2d775dfdefd01d6a7cb26abce085ee0ba",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    },
+    {
+      "input": "36ec0be5daf5246baeae201005910dccb30b3baf6b86132557757fb634f0edd6",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "a5c40ae894ec31ba53ea4590759e5c3dc45daf6ff532755c266a2a26109def00",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "653/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,31 @@
+{
+  "id": "14A",
+  "order": 4,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Letter",
+  "rating": 800,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/14/A",
+  "source": "problems/14A/main.cpp",
+  "statement": "problems/14A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "05d11dda0d89bf9329771f80bb6a3b3f434bf18f9027eecc767a87a8eb50715e",
+      "output": "10f75036c25b71b164ad4231dbd5e4d8bfbc9f67dc1da216bb08648a51607235"
+    },
+    {
+      "input": "cddbec391a9d5c1f8a76c199924a0f9dbe4fa24cc9cf0f438f9e572e547edb98",
+      "output": "ff919d327f4dcab919f7aae55fce4dc28437ada23f49e16450f6127f845f6a37"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "14/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 64.0
+}

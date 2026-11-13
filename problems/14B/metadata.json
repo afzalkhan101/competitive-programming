@@ -1,0 +1,27 @@
+{
+  "id": "14B",
+  "order": 54,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Young Photographer",
+  "rating": 1000,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/14/B",
+  "source": "problems/14B/main.cpp",
+  "statement": "problems/14B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "ec22b2a0726cb8d75eaf558c09a348f672659c0493cbf98f9591608093c07520",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "14/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

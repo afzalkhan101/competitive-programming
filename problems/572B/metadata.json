@@ -1,0 +1,30 @@
+{
+  "id": "572B",
+  "order": 334,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Order Book",
+  "rating": 1300,
+  "tags": [
+    "data structures",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/572/B",
+  "source": "problems/572B/main.cpp",
+  "statement": "problems/572B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "f200207ca2ded5aeab7864a20734e5f0282a7553b3e5f0c053a359502febc92d",
+      "output": "10759a06a0e6b51d17451658bf0bed73f6e5679bc230cf99dc22f5d3ec4ec2b5"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "572/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

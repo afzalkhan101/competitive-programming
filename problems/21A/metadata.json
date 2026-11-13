@@ -1,0 +1,32 @@
+{
+  "id": "21A",
+  "order": 493,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Jabber ID",
+  "rating": 1900,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/21/A",
+  "source": "problems/21A/main.cpp",
+  "statement": "problems/21A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "8aa8d117730465bf2a2694b2464b6ad3ecd5f2eac2c62b72a858a57283ff466d",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "c64a94854c85d9073b518b4c721cf98bf595541ebeb02aae0b384339040f47f2",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "21/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 0.5,
+  "memoryLimit": 256.0
+}

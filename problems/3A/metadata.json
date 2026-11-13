@@ -1,0 +1,28 @@
+{
+  "id": "3A",
+  "order": 211,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Shortest path of the king",
+  "rating": 1000,
+  "tags": [
+    "greedy",
+    "shortest paths"
+  ],
+  "url": "https://codeforces.com/problemset/problem/3/A",
+  "source": "problems/3A/main.cpp",
+  "statement": "problems/3A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "8edd1ce454abca45a55575470c66c4937296fb808205f03893539164a94b205c",
+      "output": "e0089397965cfeec8929e38afd08683e77964f610d0f84666ac448d2ca60abef"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "3/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 64.0
+}

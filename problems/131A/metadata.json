@@ -1,0 +1,32 @@
+{
+  "id": "131A",
+  "order": 411,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "cAPS lOCK",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/131/A",
+  "source": "problems/131A/main.cpp",
+  "statement": "problems/131A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "8fc5a9937d89865900d026be911322328794ae49ed9a6bd85d56e772bd890b0e",
+      "output": "bd9b6abb39811686a3ce6937ab20e015e9670dd7284c04ffef25cc751b7317d6"
+    },
+    {
+      "input": "db44b8db4f05d720ef1a57abadeed0c164d47b17416c7dd7d136d8f10fba91c9",
+      "output": "db44b8db4f05d720ef1a57abadeed0c164d47b17416c7dd7d136d8f10fba91c9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "131/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 0.5,
+  "memoryLimit": 256.0
+}

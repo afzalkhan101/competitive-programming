@@ -1,0 +1,27 @@
+{
+  "id": "74A",
+  "order": 61,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Room Leader",
+  "rating": 1000,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/74/A",
+  "source": "problems/74A/main.cpp",
+  "statement": "problems/74A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "db6eb4b6946e27e14ca9787fbd7af306cf65952101270501318ead822e7b17c3",
+      "output": "b58951d8a9c710e08d39322c6fabe22e55b900707ecf54d8d15e5aa08f645548"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "74/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

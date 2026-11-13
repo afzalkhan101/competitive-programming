@@ -1,0 +1,29 @@
+{
+  "id": "822A",
+  "order": 106,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "I'm bored with life",
+  "rating": 800,
+  "tags": [
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/822/A",
+  "source": "problems/822A/main.cpp",
+  "statement": "problems/822A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "c33a915bed8c8aa8a4a28414bb9424904099b1d0f8a4244f9077b3b13113cf98",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "822/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

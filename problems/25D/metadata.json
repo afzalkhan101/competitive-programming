@@ -1,0 +1,33 @@
+{
+  "id": "25D",
+  "order": 379,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Roads not only in Berland",
+  "rating": 1900,
+  "tags": [
+    "dsu",
+    "graphs",
+    "trees"
+  ],
+  "url": "https://codeforces.com/problemset/problem/25/D",
+  "source": "problems/25D/main.cpp",
+  "statement": "problems/25D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "3f3866d69cbba2ea4e3df4d1de18af95cc9e02f84df9144776f4ad2f6b35958d",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "b8e79d70a2a3fb905d6a53aba317d949bc3e426d25348f02cd89d19705d13cee",
+      "output": "d678e9eb6b435fdd216c694ed1900c2cfb8571d47fc86773c93f9812dfa37d87"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "25/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

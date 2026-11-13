@@ -1,0 +1,36 @@
+{
+  "id": "313A",
+  "order": 112,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Ilya and Bank Account",
+  "rating": 900,
+  "tags": [
+    "implementation",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/313/A",
+  "source": "problems/313A/main.cpp",
+  "statement": "problems/313A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "903a4207be29cb52c7c28b6b3e83b7bea776a390167924fe8ff18aa325f10285",
+      "output": "903a4207be29cb52c7c28b6b3e83b7bea776a390167924fe8ff18aa325f10285"
+    },
+    {
+      "input": "c171d4ec282b23db89a99880cd624e9ba2940c1d894783602edab5d7481dc1ea",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "cb079d18950e42b6f76af84894c8579b2cfc462d29566e6440ee1c23f32672b0",
+      "output": "8c1906cbced1e9921232f2d6bd77ab1b553c4246b45133e0daf351ea88de6d3c"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "313/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

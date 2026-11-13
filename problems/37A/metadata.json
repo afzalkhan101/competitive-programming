@@ -1,0 +1,31 @@
+{
+  "id": "37A",
+  "order": 212,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Towers",
+  "rating": 1000,
+  "tags": [
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/37/A",
+  "source": "problems/37A/main.cpp",
+  "statement": "problems/37A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "fcf1118351be8397e5f451ca4bc45bff96a26824f71e01f56a13fcd16e2702f7",
+      "output": "63b51e9a6a3330e3291aa4d3f6b44c69d7fb50791c3427054c934abe929fd780"
+    },
+    {
+      "input": "3a75f02dae038d353f57cf24c33681e642250a3571868f8c158fb39dcbbe7450",
+      "output": "7bd7df1a31049cd71ae13cd2097a04efad83aa634963236227cec39eef3a2588"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "37/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

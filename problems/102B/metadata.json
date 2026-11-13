@@ -1,0 +1,35 @@
+{
+  "id": "102B",
+  "order": 64,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Sum of Digits",
+  "rating": 1000,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/102/B",
+  "source": "problems/102B/main.cpp",
+  "statement": "problems/102B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "25b7c81e770034aeda70db74af0fb638beca992d2a535641e6313f38b9665016",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "102/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 265.0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "758B",
+  "order": 133,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Blown Garland",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "implementation",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/758/B",
+  "source": "problems/758B/main.cpp",
+  "statement": "problems/758B/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "ecc891a1aa4a5d03e174824bc8972eae6b0b08f40d8083d47c2fc264eb198f97",
+      "output": "f7a6c106dd2f1b3f0931bc9333e6d8772a1b7399f07ccd8b030952c1341aab16"
+    },
+    {
+      "input": "207922d04d65d08abcf9a9a329309d5942f22465753e94130756023d92ce6180",
+      "output": "5373217ff066ca937ac75f49d852ba5fb01da73a3e99f45a3325c4c8d5ae657e"
+    },
+    {
+      "input": "d83f7fa456f266e797fd6c80eea469ff3710fdc58fb50b19ab013cf706c7b3f2",
+      "output": "1bf779d349708b908004d305b1238039b48396e4627f14ff11ed6f77ecc82694"
+    },
+    {
+      "input": "8d7fc27de6ac841693b5db545fe68d28cdc7189fcc5ce0d5213003c4ad4294c0",
+      "output": "9bc21f4fdb426e77c21553ccc2f9418869376bf998cd7e0da2c3fc5ee01f0695"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "758/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

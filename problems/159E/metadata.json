@@ -1,0 +1,34 @@
+{
+  "id": "159E",
+  "order": 364,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Zebra Tower",
+  "rating": 1700,
+  "tags": [
+    "*special",
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/159/E",
+  "source": "problems/159E/main.cpp",
+  "statement": "problems/159E/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "47484d6ffc028f526a93e2cd9c5ce73c5c295ab6d05009fc652551813bc2bd70",
+      "output": "e64ed3689fb805c82439579b7ba6623ebc7767c1e8a78c2614fb9c5651654d4f"
+    },
+    {
+      "input": "decc1e2b5bf1a12be2b97cc2a8cf517584fbe12db7846753089b43d6a37f9eb9",
+      "output": "0c81e057be0e6261e3cd819c138b02b42dadb7943c2f657c70e73c2dbb9be80e"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "159/E",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.5,
+  "memoryLimit": 256.0
+}

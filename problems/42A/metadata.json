@@ -1,0 +1,36 @@
+{
+  "id": "42A",
+  "order": 248,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Guilty \u2014 to the kitchen!",
+  "rating": 1400,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/42/A",
+  "source": "problems/42A/main.cpp",
+  "statement": "problems/42A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "a9f99b50414381385d59021ed6a49501e8585f925b2924a479a7e2f4302db9a5",
+      "output": "e15274dcfe2d0cb541e8aa23fef7aaaa116bfcbc937d35ffda9d4506c8d7e785"
+    },
+    {
+      "input": "f2d7c783e3b44ed01ed1e5b3cbf956e48081a4920657ee663d96ccb1356cef69",
+      "output": "f97a13577367c1d604d37c4d2b6242d7193c7ba04aa4d1a64c322b23b2f9bd2a"
+    },
+    {
+      "input": "5dc845a46512cb282a060a3d79ca433ac355a13651d2ad1120c4f0309f51aa63",
+      "output": "43b87f618caab482ebe4976c92bcd6ad308b48055f1c27b4c574f3e31d7683e0"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "42/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

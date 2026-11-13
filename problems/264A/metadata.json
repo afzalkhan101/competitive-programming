@@ -1,0 +1,40 @@
+{
+  "id": "264A",
+  "order": 322,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Escape from Stones",
+  "rating": 1200,
+  "tags": [
+    "constructive algorithms",
+    "data structures",
+    "implementation",
+    "two pointers"
+  ],
+  "url": "https://codeforces.com/problemset/problem/264/A",
+  "source": "problems/264A/main.cpp",
+  "statement": "problems/264A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "3ef0c79a80639d3eb1768b12f6fc1fadeb14892d7328f3353f0cb3211cccfd5e",
+      "output": "a2dbf809a1350e54b153b7a6252014d32160a0c86e6bfde594709936a11b572a"
+    },
+    {
+      "input": "1da72342801e263684171c216f73cc245fc6912f7b9f6eb3daf8b789795c68ad",
+      "output": "e32f31ad3a9f66a88ab5ca0275ad2cac6f4f86fa55bf9a52bc2c5ef0da5baa92"
+    },
+    {
+      "input": "fdc5d0da7041dc96657830e71734e99732f78e919e0326e557b28243520bced6",
+      "output": "c2f8645ffaf74a452defa1cb7a1b64e9d84c0227b8e1a2fbb1e87eca1f674eab"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "264/A",
+  "aliases": [
+    "265/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

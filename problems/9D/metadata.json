@@ -1,0 +1,33 @@
+{
+  "id": "9D",
+  "order": 295,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "How many trees?",
+  "rating": 1900,
+  "tags": [
+    "combinatorics",
+    "divide and conquer",
+    "dp"
+  ],
+  "url": "https://codeforces.com/problemset/problem/9/D",
+  "source": "problems/9D/main.cpp",
+  "statement": "problems/9D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "c64b40bd6b04f739d22eede5a843a916f7581a6868d763dccb4137b482233d35",
+      "output": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+    },
+    {
+      "input": "cd0cf807835179d73cad42fefc8c76827617958cf3e022ae2c8c454828e9cc38",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "9/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 64.0
+}

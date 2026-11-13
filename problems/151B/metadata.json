@@ -1,0 +1,36 @@
+{
+  "id": "151B",
+  "order": 436,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Phone Numbers",
+  "rating": 1200,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/151/B",
+  "source": "problems/151B/main.cpp",
+  "statement": "problems/151B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "f655fb9819115874d5dfa7a5304187f29040b07e8b371984cc4b2dffffb02c24",
+      "output": "1577104bfea879c43600fb88a24030043de84c5b6d1029e21154b2f8f2b7411e"
+    },
+    {
+      "input": "d8e4db429f019cde3c320829d549d26d56279310d3bbfac134344c4a008dad6c",
+      "output": "3cf759a2b59c7ef999aa1ea9523618758629ed06127fc9ec97cf27abf1d80daf"
+    },
+    {
+      "input": "84dff86f4feadf2d3b40f52565c78a05d0098d803272c735a4d6cb3e12fd7024",
+      "output": "88c162ff378a47b8f0a7a7209d648f13af1c713b86d148df4a879a5482b62a7f"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "151/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

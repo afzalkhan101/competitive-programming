@@ -1,0 +1,37 @@
+{
+  "id": "337C",
+  "order": 176,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Quiz",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "greedy",
+    "math",
+    "matrices",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/337/C",
+  "source": "problems/337C/main.cpp",
+  "statement": "problems/337C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ec2d40e10ac8acffb55860bb69ec3dadf21f0fbe74fcba59d257fcda9a2714ae",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    },
+    {
+      "input": "b46635848705e3b73f500f33926322ea99cf7742c2eb1bb68afcd70021cac863",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "337/C",
+  "aliases": [
+    "338/A"
+  ],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

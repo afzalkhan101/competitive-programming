@@ -1,0 +1,34 @@
+{
+  "id": "600B",
+  "order": 335,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Queries about less or equal elements",
+  "rating": 1300,
+  "tags": [
+    "binary search",
+    "data structures",
+    "sortings",
+    "two pointers"
+  ],
+  "url": "https://codeforces.com/problemset/problem/600/B",
+  "source": "problems/600B/main.cpp",
+  "statement": "problems/600B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "122a473f18e198524692ce60238066246e8506821dba8d7c6f0333b0eabd7b94",
+      "output": "9578fb06286aded5d561e1e64811d47628e57d8d3abb6bfb6ba577f1718fec23"
+    },
+    {
+      "input": "160af600f1953974910958247b6735e7b9ea427f69e91031c9398e3568fe3417",
+      "output": "bed3ac3720c5a330ae5ba62916d42cb2bc7f4c1f926a32133e497eb1b5bf89fd"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "600/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

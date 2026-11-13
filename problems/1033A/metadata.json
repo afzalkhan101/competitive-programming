@@ -1,0 +1,37 @@
+{
+  "id": "1033A",
+  "order": 304,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "King Escape",
+  "rating": 1000,
+  "tags": [
+    "dfs and similar",
+    "graphs",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1033/A",
+  "source": "problems/1033A/main.cpp",
+  "statement": "problems/1033A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "8159cdfbdb4ca54dbd1b4e69ba04ea9bf5f96bfee6d543b51947a9aefa8e8077",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "035bde0fd5c51c828c315391597f06d183047d8c1dcb6e9f85f6c82ec282cbdb",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "979684b5f7f9b077c0010e84579a44433cbbc3d95640b47133ea8f801204fe54",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1033/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

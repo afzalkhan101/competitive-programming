@@ -1,0 +1,31 @@
+{
+  "id": "190C",
+  "order": 349,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "STL",
+  "rating": 1500,
+  "tags": [
+    "dfs and similar"
+  ],
+  "url": "https://codeforces.com/problemset/problem/190/C",
+  "source": "problems/190C/main.cpp",
+  "statement": "problems/190C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "0bb5e7f46c9b7d77a23aba6352f94797719d901a6af08af831adb926edac03f7",
+      "output": "07093c611e468ee052f1f387bf0106ce6df9fc2ab890e178e817c7d432c3e438"
+    },
+    {
+      "input": "51943062b10366fec5225bc7baf21eab00cbe0b4ba1912c7076b28c820735457",
+      "output": "5143a201f513b3a01e15995aa3da706540083a63a2f33e03f40a613e018e754b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "190/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

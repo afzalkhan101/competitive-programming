@@ -1,0 +1,30 @@
+{
+  "id": "1622B",
+  "order": 309,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Berland Music",
+  "rating": 1000,
+  "tags": [
+    "data structures",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1622/B",
+  "source": "problems/1622B/main.cpp",
+  "statement": "problems/1622B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "c14a5a4c93e8db07607f8f747385bd5acb7e993742a87dad5b0f6e776fca598c",
+      "output": "ed15d7e31be350cb3995a3490c47fb2c4d9c54a86614efc351193d24ac95d0e2"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1622/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

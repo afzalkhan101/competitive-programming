@@ -1,0 +1,49 @@
+{
+  "id": "682A",
+  "order": 131,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Alyona and Numbers",
+  "rating": 1100,
+  "tags": [
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/682/A",
+  "source": "problems/682A/main.cpp",
+  "statement": "problems/682A/problem.md",
+  "samples": 6,
+  "sampleHashes": [
+    {
+      "input": "453820eabfa59c1fdb6ec0f5b4930169f7388697350bb8390ac5005cae89ca91",
+      "output": "8527a891e224136950ff32ca212b45bc93f69fbb801c3b1ebedac52775f99e61"
+    },
+    {
+      "input": "bc13775c1f4c7c569afb5c217136a6fc0f943d6ba636243cfdf0a44b63a438c1",
+      "output": "eb1e33e8a81b697b75855af6bfcdbcbf7cbbde9f94962ceaec1ed8af21f5a50f"
+    },
+    {
+      "input": "68bc23b5950dfa4317f4c8cd5612ec059857fbaae30824d6a86270174f5e9fcb",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "f4702dca8e9380e2700b7c3a1a2533730772fa55025fed25da51893723bf7da8",
+      "output": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+    },
+    {
+      "input": "87fe2571f194c7433f7a66c6bab392ce696174aafe4bd276d4516f0c87c5f860",
+      "output": "7902699be42c8a8e46fbbb4501726517e86b22c56a189f7625a6da49081b2451"
+    },
+    {
+      "input": "82caaeba2535ec4c7aeb2b12ace56a0dd5af2892371d2d0f865ac7d6132de342",
+      "output": "8b940be7fb78aaa6b6567dd7a3987996947460df1c668e698eb92ca77e425349"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "682/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

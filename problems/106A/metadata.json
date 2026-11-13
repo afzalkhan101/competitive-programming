@@ -1,0 +1,35 @@
+{
+  "id": "106A",
+  "order": 65,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Card Game",
+  "rating": 1000,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/106/A",
+  "source": "problems/106A/main.cpp",
+  "statement": "problems/106A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "e05dbae82bbec2a7b58d3e2b1dfbd3b643702e951ffb7280e7ed359c18e49c8f",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "1a3b7f662eb115c4aa241a316c762e3f0bf5fa0e075d6caaa8674d511b8c9917",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "fe4a5d3f5116919a4d332fe3614b87e82372a92f9feafa212536555ea6777c8c",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "106/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

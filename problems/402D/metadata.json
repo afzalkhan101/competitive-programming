@@ -1,0 +1,36 @@
+{
+  "id": "402D",
+  "order": 191,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Upgrading Array",
+  "rating": 1800,
+  "tags": [
+    "dp",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/402/D",
+  "source": "problems/402D/main.cpp",
+  "statement": "problems/402D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ff8e933cad2f0c090209504eb6f6113eca47d8ac7e3e4517d243a78add23e987",
+      "output": "cf3bae39dd692048a8bf961182e6a34dfd323eeb0748e162eaf055107f1cb873"
+    },
+    {
+      "input": "c4e0ad8f19ae82adfe3d0d52956f87ec4af725dea3b0a5701852df20b9a23989",
+      "output": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "402/D",
+  "aliases": [
+    "403/B"
+  ],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

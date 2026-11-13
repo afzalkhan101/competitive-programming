@@ -1,0 +1,33 @@
+{
+  "id": "246C",
+  "order": 473,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Beauty Pageant",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/246/C",
+  "source": "problems/246C/main.cpp",
+  "statement": "problems/246C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "dbcef3405d0cb1163ca94088114edd9336f6103525b9b6ff7f4d9c2eb83bbcd0",
+      "output": "5f87d713603a6e9a8273d34ea16067aaaed7f8fd92d4f2abe8aef8a0c4445f21"
+    },
+    {
+      "input": "e2027b706ca3db7edb7419555e925da3454a8ce716135f9bce1f5213d8ba60c7",
+      "output": "c045c92d7e56a3be70499ca646db7d81821cbd1c08db1d594f492e627f03d372"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "246/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

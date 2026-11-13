@@ -1,0 +1,33 @@
+{
+  "id": "337B",
+  "order": 156,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Routine Problem",
+  "rating": 1400,
+  "tags": [
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/337/B",
+  "source": "problems/337B/main.cpp",
+  "statement": "problems/337B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "56ddf139d7ce07a10d456c6fd51f6a3b47f85220c82d6d00f9acf85b5a80003c",
+      "output": "0d7f0e336166042f8cc9e4c20ae427ba367c279d6e3dfd1bd7247b0fbce61d50"
+    },
+    {
+      "input": "def462e8e557a56e72f3458c0ca8e63795db01fe17574a52d7eae8e3a3530e75",
+      "output": "f70b94aeb67de2a5eb4bd8c2ea85128f13776cb545a661abe422b378a6cf3099"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "337/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

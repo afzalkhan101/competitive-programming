@@ -1,0 +1,31 @@
+{
+  "id": "52B",
+  "order": 465,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Right Triangles",
+  "rating": 1600,
+  "tags": [
+    "combinatorics"
+  ],
+  "url": "https://codeforces.com/problemset/problem/52/B",
+  "source": "problems/52B/main.cpp",
+  "statement": "problems/52B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "0fba19c3738eefb76f7362b0d16f947a19801e315fbd97771b7de6263fc388fa",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "8789782c0052f517bd51ecc3f0a863b54405cd844a3537cbcdbd1247452e9fcc",
+      "output": "19581e27de7ced00ff1ce50b2047e7a567c76b1cbaebabe5ef03f7c3017bb5b7"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "52/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

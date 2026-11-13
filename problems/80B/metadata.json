@@ -1,0 +1,36 @@
+{
+  "id": "80B",
+  "order": 434,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Depression",
+  "rating": 1200,
+  "tags": [
+    "geometry",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/80/B",
+  "source": "problems/80B/main.cpp",
+  "statement": "problems/80B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "9616672e04ef79c5abe02054678ef0d0c766b2197e92364ffaaf64bb23c5ef12",
+      "output": "933305f987bcf5fb6c250018e35a6eee1528f06013807a4136ec13622909af97"
+    },
+    {
+      "input": "fb33df7e1bba760faa41fb285cb54d893ad7aecdcbeb30f8cd4f670eaee4ff0f",
+      "output": "97568c0fb4355aa98ef812d5958b1cbf61f2f1c07340e0ea3430737e440db12b"
+    },
+    {
+      "input": "2470996980294d8d800cc8ee34169740d079b7b79887415bb6125897afa3ff6b",
+      "output": "dc316d503295cb6372900d6a64e8965f66766167ab12279a2b43277710fd6184"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "80/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,31 @@
+{
+  "id": "75A",
+  "order": 62,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Life Without Zeros",
+  "rating": 1000,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/75/A",
+  "source": "problems/75A/main.cpp",
+  "statement": "problems/75A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "24ad8de81e1ad0e99d0f9688d0e8211227f6be19809e00062520e0ea4cd5a150",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "d35826822071acf247b63006af02c6abbf3911614a32a799aba9230c2e94f8df",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "75/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

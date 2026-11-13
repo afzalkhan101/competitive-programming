@@ -1,0 +1,31 @@
+{
+  "id": "6B",
+  "order": 76,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "President's Office",
+  "rating": 1100,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/6/B",
+  "source": "problems/6B/main.cpp",
+  "statement": "problems/6B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "6abf923f67f79844dbc3a173f7eac04819218dee9fd5955dad1bd28e69d8fa37",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "e26d3711ca52d672440392d4d24c97f5f56b82b8e703ddbf5e4609db95deb3f0",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "6/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "630K",
+  "order": 167,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Indivisibility",
+  "rating": 1500,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/630/K",
+  "source": "problems/630K/main.cpp",
+  "statement": "problems/630K/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "6b51d431df5d7f141cbececcf79edf3dd861c3b4069f0b11661a3eefacbba918",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "630/K",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 0.5,
+  "memoryLimit": 64.0
+}

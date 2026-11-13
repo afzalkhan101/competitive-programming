@@ -1,0 +1,37 @@
+{
+  "id": "299A",
+  "order": 120,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Ksusha and Array",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "number theory",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/299/A",
+  "source": "problems/299A/main.cpp",
+  "statement": "problems/299A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "2bbc5dc96ebc980edeb93318ad9f90ed825a8321b85850c2a175027a4f3f5e65",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "a21490423555b71286bd3454a4fab0b8c8e017c2e043a3d0907b0ccffe256148",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "c094a1b62deaab1d8a0fd9f321b89fe533ac187eb234bc76216b22bc5411ce4d",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "299/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

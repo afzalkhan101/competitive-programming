@@ -1,0 +1,31 @@
+{
+  "id": "125B",
+  "order": 75,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Simple XML",
+  "rating": 1000,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/125/B",
+  "source": "problems/125B/main.cpp",
+  "statement": "problems/125B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ea6a5c33a212350b49b7ba4deb19b6cdbfe407ee0355af05185e9fa354a00903",
+      "output": "edfc45f68c8fd051b553fe98b05ac9a0ff1204ebbfe4d288b4b787f831ddbb57"
+    },
+    {
+      "input": "703e114b97a29226463cb5aa52e1caed26882f05c65eec9058ebd36804dcb166",
+      "output": "1658f8a854f3b5b86f581b5f11f9b5029274a78e447110a3bc2a71af62b55bf8"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "125/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

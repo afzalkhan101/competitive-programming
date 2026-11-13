@@ -1,0 +1,37 @@
+{
+  "id": "797A",
+  "order": 134,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "k-Factorization",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/797/A",
+  "source": "problems/797A/main.cpp",
+  "statement": "problems/797A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "7cd7c86f15be106a3ce9568c4b854d3cda7e994d128ae54273dd56e88fd75763",
+      "output": "f1158936e549f9ff5cf801518bc2c7ad27b700754fcff4a96e33f87854a2394e"
+    },
+    {
+      "input": "785c3ddbca9c914e9406c1f2d0b11fef7b136dbfd74a19124dde1d9b5a9fbcde",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    },
+    {
+      "input": "13380122a42f6c4ebc1213bed14f6045746bc9f3cc0ed437a4bf8dd0205a0626",
+      "output": "49f9525cba37ca0007782de752ae16078feb5ca8bb40edba8e8bb1abe16ceeb3"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "797/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

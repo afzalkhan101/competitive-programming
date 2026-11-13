@@ -1,0 +1,40 @@
+{
+  "id": "369A",
+  "order": 207,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Valera and Plates",
+  "rating": 900,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/369/A",
+  "source": "problems/369A/main.cpp",
+  "statement": "problems/369A/problem.md",
+  "samples": 4,
+  "sampleHashes": [
+    {
+      "input": "a71155965bc958c97641cdd11207ecf3d98e76e9b38f8fadf9d0d84232e9f8b1",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "f64af7e39e206947c6265338e17b38d1ef5136c9557255ad9bc8e086aadee598",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "c9b90a4961e74903c22489daa710488a42ed2866b3ae0ab6a3ae4c4de37e3a4b",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "9e574d670fbf330a13003fc0206f23f26c022718a59adfcc8cbcadca29e6b791",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "369/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

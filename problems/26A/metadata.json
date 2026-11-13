@@ -1,0 +1,31 @@
+{
+  "id": "26A",
+  "order": 110,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Almost Prime",
+  "rating": 900,
+  "tags": [
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/26/A",
+  "source": "problems/26A/main.cpp",
+  "statement": "problems/26A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "6f4b6612125fb3a0daecd2799dfd6c9c299424fd920f9b308110a2c1fbd8f443",
+      "output": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "26/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

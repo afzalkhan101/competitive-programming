@@ -1,0 +1,38 @@
+{
+  "id": "129B",
+  "order": 320,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Students and Shoelaces",
+  "rating": 1200,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "graphs",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/129/B",
+  "source": "problems/129B/main.cpp",
+  "statement": "problems/129B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "7cd22d6dcffd61da4cc3d0df6130b41eada9d411e4d55e6bc8720b14f0ab23db",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "60bbf756ebc11112847b59ef8ea5c17a6a78c4eeb7324d651bf6ca79503566e6",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "ae60629f0edf1545ff9166a81a464cbc1878f87a2295f9be8dd93c52adcacc37",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "129/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

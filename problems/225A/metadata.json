@@ -1,0 +1,32 @@
+{
+  "id": "225A",
+  "order": 226,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Dice Tower",
+  "rating": 1100,
+  "tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/225/A",
+  "source": "problems/225A/main.cpp",
+  "statement": "problems/225A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "010cd47da137a34c79f01bc4b10e2b6111a3563b2255054682474f8ac39e53c8",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "4e63d2a77991bc85dff9e40d08bed13333c80e6adb5616e01f5dd958c07e0c1b",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "225/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

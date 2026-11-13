@@ -1,0 +1,31 @@
+{
+  "id": "43A",
+  "order": 57,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Football",
+  "rating": 1000,
+  "tags": [
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/43/A",
+  "source": "problems/43A/main.cpp",
+  "statement": "problems/43A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "5bcfe39623772aff8257b73b28082119bf6c12ff3a7ad547b721ec8b96e93895",
+      "output": "b5d4045c3f466fa91fe2cc6abe79232a1a57cdf104f7a26e716e0a1e2789df78"
+    },
+    {
+      "input": "4a927253327fc2881646525ca6f35deeabfd84328a9fb741a79a726b1d2e9902",
+      "output": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "43/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

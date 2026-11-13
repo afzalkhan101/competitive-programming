@@ -1,0 +1,32 @@
+{
+  "id": "767A",
+  "order": 318,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Snacktower",
+  "rating": 1100,
+  "tags": [
+    "data structures",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/767/A",
+  "source": "problems/767A/main.cpp",
+  "statement": "problems/767A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "960936c9a4610972f13e2cf2d767d227edcd2a2b54cb6d4009cd5a0c34f19a95",
+      "output": "921f851c4d3552d1ca8b54469bf53ed81826c9dd25735317a07584ccf54870b8"
+    },
+    {
+      "input": "3f7f6b7fd5bdba2134ad247031986b3c7042e8da83a861f9d546c79e21a5aae7",
+      "output": "926061fce662108658a592a424d41530f0a329ab40dfd5fd3c6e3954e0eb18c5"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "767/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

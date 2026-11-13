@@ -1,0 +1,31 @@
+{
+  "id": "50B",
+  "order": 458,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Choosing Symbol Pairs",
+  "rating": 1500,
+  "tags": [
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/50/B",
+  "source": "problems/50B/main.cpp",
+  "statement": "problems/50B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "bc18814a5c5b7390186930df5d42ecaaad0eb5812d6c7d938114283da2902ba0",
+      "output": "7902699be42c8a8e46fbbb4501726517e86b22c56a189f7625a6da49081b2451"
+    },
+    {
+      "input": "bf2cb58a68f684d95a3b78ef8f661c9a4e5b09e82cc8f9cc88cce90528caeb27",
+      "output": "ad57366865126e55649ecb23ae1d48887544976efea46a48eb5d85a6eeb4d306"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "50/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

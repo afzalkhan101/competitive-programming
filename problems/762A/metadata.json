@@ -1,0 +1,36 @@
+{
+  "id": "762A",
+  "order": 159,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "k-th divisor",
+  "rating": 1400,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/762/A",
+  "source": "problems/762A/main.cpp",
+  "statement": "problems/762A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "73c6486e6a5c1897d40af5c75219b5e5310df7ce20f20d63559be25a28053341",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "3918302e287740389848cfb6a0c92d961c70f55d234f800ec903fdab2f704cf1",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    },
+    {
+      "input": "4c07008dc709b4f4e6851287bf88217a000451577792f12bfba2cfe23d019dc6",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "762/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

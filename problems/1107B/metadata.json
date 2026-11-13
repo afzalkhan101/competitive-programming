@@ -1,0 +1,28 @@
+{
+  "id": "1107B",
+  "order": 125,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Digital root",
+  "rating": 1000,
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1107/B",
+  "source": "problems/1107B/main.cpp",
+  "statement": "problems/1107B/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "8487538ee6dc873901d6fd56912474b4e039eb8130a474daeed180ddb3b3957c",
+      "output": "3be180b4d42b34f661bdbe64994af2aaf262201624b8e1ed8545533a87f5b7fb"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1107/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

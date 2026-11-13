@@ -1,0 +1,39 @@
+{
+  "id": "150A",
+  "order": 153,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Win or Freeze",
+  "rating": 1400,
+  "tags": [
+    "games",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/150/A",
+  "source": "problems/150A/main.cpp",
+  "statement": "problems/150A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4",
+      "output": "06d136252184b5ff94a341a90d4b1aa439fcaeaa47d79f2dcd44c71e25951813"
+    },
+    {
+      "input": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+      "output": "4ea2ed1420659bf15773230715e87b4408625eaf88869b7e8bb51c42889579d6"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "150/A",
+  "aliases": [
+    "151/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

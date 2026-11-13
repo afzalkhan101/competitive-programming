@@ -1,0 +1,33 @@
+{
+  "id": "16E",
+  "order": 298,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Fish",
+  "rating": 1900,
+  "tags": [
+    "bitmasks",
+    "dp",
+    "probabilities"
+  ],
+  "url": "https://codeforces.com/problemset/problem/16/E",
+  "source": "problems/16E/main.cpp",
+  "statement": "problems/16E/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "c70fd171556a3dd3bab766bcfcec7b29406462ec6e68d7fac07bbd2aeb13f303",
+      "output": "f598adb67f24006cf7ec37320b8a9dc8e88fff685b7ad2366b295542c18bfb3d"
+    },
+    {
+      "input": "ed20f9d3ad22c3a7ac5ec32562229f26f09abce570bf135ff344e53f97ea7352",
+      "output": "72d43c6ec0e434f667ad5fc2a6266e905070af8a45958bce6462ffeb6666bf00"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "16/E",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 128.0
+}

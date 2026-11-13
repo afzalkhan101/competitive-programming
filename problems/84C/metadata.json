@@ -1,0 +1,32 @@
+{
+  "id": "84C",
+  "order": 280,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Biathlon",
+  "rating": 1700,
+  "tags": [
+    "binary search",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/84/C",
+  "source": "problems/84C/main.cpp",
+  "statement": "problems/84C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "b4c58df5a2da84a72e69809ce223625e0eb828598ed5cfe80974f777017b3bb7",
+      "output": "9297bd7dcae4c413d56cbb07889f82d5ecf00c31ffff79d1f40f0ba6224d699e"
+    },
+    {
+      "input": "b070af6753286ea74cf823352836307a336f68e5684d5434f6209e43c1855242",
+      "output": "11c5b629881d1b0a999c0751c8dc29189c45326c2c26e4925c3ad8821b0fd584"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "84/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

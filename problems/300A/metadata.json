@@ -1,0 +1,33 @@
+{
+  "id": "300A",
+  "order": 424,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Array",
+  "rating": 1100,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/300/A",
+  "source": "problems/300A/main.cpp",
+  "statement": "problems/300A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "130ee9eb937fd6b08034653596ad8f2c1839126af4aecaa6e91643e8944958a3",
+      "output": "15073652b8f0ddd4ae6caab3da109b899799bf6393f33ef65269cf30d8d7d144"
+    },
+    {
+      "input": "824f6c08cf94a5cf1af9f86bfe3aad3dfd78c885206dc54283796046105b2de8",
+      "output": "213fe4538deafa34b01c171e7133b378d784b577368083f21a2dc4beb608d562"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "300/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

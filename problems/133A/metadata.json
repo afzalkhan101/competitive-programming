@@ -1,0 +1,31 @@
+{
+  "id": "133A",
+  "order": 40,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "HQ9+",
+  "rating": 900,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/133/A",
+  "source": "problems/133A/main.cpp",
+  "statement": "problems/133A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ca51ce1fb15acc6d69b8a5700256172fcc507e02073e6f19592e341bd6508ab8",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "b943ea141d932a4672712e90b1bf75808bde5bace50fce97a9b2ae6771764d3a",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "133/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

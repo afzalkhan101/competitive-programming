@@ -1,0 +1,34 @@
+{
+  "id": "109A",
+  "order": 68,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Lucky Sum of Digits",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/109/A",
+  "source": "problems/109A/main.cpp",
+  "statement": "problems/109A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8",
+      "output": "31489056e0916d59fe3add79e63f095af3ffb81604691f21cad442a85c7be617"
+    },
+    {
+      "input": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "109/A",
+  "aliases": [
+    "110/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

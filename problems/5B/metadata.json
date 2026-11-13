@@ -1,0 +1,32 @@
+{
+  "id": "5B",
+  "order": 429,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Center Alignment",
+  "rating": 1200,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/5/B",
+  "source": "problems/5B/main.cpp",
+  "statement": "problems/5B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "de986609eab3f79a3ad6e0b2b2ae3d46eeec3e4a4161791011d77ecbeb39b9ba",
+      "output": "8819b9aa728c8cb89abe344e1203ffa69a4009f58d91b1b6ae4a98cdf3478847"
+    },
+    {
+      "input": "8384f4481dfd1971e3c21d01fe3c5f6cd976c0236e462ba4ee2f9470f9b2e3bc",
+      "output": "115c65e1eb3285a828699a87f7c82d97774d558631789ae5dddd01a6fefdf25e"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "5/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 64.0
+}

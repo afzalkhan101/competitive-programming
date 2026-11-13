@@ -1,0 +1,35 @@
+{
+  "id": "111C",
+  "order": 400,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Petya and Spiders",
+  "rating": 2100,
+  "tags": [
+    "bitmasks",
+    "dp",
+    "dsu"
+  ],
+  "url": "https://codeforces.com/problemset/problem/111/C",
+  "source": "problems/111C/main.cpp",
+  "statement": "problems/111C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "020a7c91e30725bb191818987340dec6040aff93923840de685e1e1d7b3d071a",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "7bd7df1a31049cd71ae13cd2097a04efad83aa634963236227cec39eef3a2588",
+      "output": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "111/C",
+  "aliases": [
+    "112/E"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

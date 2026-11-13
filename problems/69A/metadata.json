@@ -1,0 +1,32 @@
+{
+  "id": "69A",
+  "order": 60,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Young Physicist",
+  "rating": 1000,
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/69/A",
+  "source": "problems/69A/main.cpp",
+  "statement": "problems/69A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "296faaa130c3c0c91f37ed35431d172bea1f0e23b4c3b5d79a01d23892d89052",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "f9af96f515e64f54b2490ade6668762a35c7188e9f7fecbc149b4e54a6595ef2",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "69/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

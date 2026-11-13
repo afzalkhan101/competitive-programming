@@ -1,0 +1,39 @@
+{
+  "id": "103A",
+  "order": 90,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Testing Pants for Sadness",
+  "rating": 1100,
+  "tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/103/A",
+  "source": "problems/103A/main.cpp",
+  "statement": "problems/103A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "22b438b4df6d428373dbc168066fa53a7d4d928d0b21679c3545f5988ee01fab",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "1e129b1895b0130d0cf44da7ea4ffc486f3df813fb958bb07c35f985ed367273",
+      "output": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+    },
+    {
+      "input": "1c66de01b7f821e9a8d621a6acb6c30c5df037c125baa9ed102b8ba8cc84dfe7",
+      "output": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "103/A",
+  "aliases": [
+    "104/B"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

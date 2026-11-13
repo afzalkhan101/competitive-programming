@@ -1,0 +1,36 @@
+{
+  "id": "232A",
+  "order": 359,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Cycles",
+  "rating": 1600,
+  "tags": [
+    "binary search",
+    "constructive algorithms",
+    "graphs",
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/232/A",
+  "source": "problems/232A/main.cpp",
+  "statement": "problems/232A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+      "output": "71618e581120c43f28bac1b1dd625b1e7cddd4dca581313fcfe489a8ece4851b"
+    },
+    {
+      "input": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5",
+      "output": "9dd13da190399986e9de16f28d303df56742c9b84ea4179ba6e68e5133385e9b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "232/A",
+  "aliases": [
+    "233/C"
+  ],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

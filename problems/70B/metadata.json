@@ -1,0 +1,37 @@
+{
+  "id": "70B",
+  "order": 268,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Text Messaging",
+  "rating": 1600,
+  "tags": [
+    "expression parsing",
+    "greedy",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/70/B",
+  "source": "problems/70B/main.cpp",
+  "statement": "problems/70B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "c339ad5de01f5d2fa1f36f9ba32d4a28a433cf2b9f0c2e53d05acd041a1a410a",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "d746b65a97c877c6a376f657a97e1484deee06c3216d21469afeda88df5c3898",
+      "output": "7623b1fa270edd0bbfbcac43c4c3578153b6415b1aeb3387d5abf1a7ce4fe15f"
+    },
+    {
+      "input": "462fffa1a68d2560b5f163ef619e06022ac087d9dff9dc4b9266dea0c85752bf",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "70/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1020B",
+  "order": 303,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Badge",
+  "rating": 1000,
+  "tags": [
+    "brute force",
+    "dfs and similar",
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1020/B",
+  "source": "problems/1020B/main.cpp",
+  "statement": "problems/1020B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "fb79247db15947b07cf2a2881ae897197a3ff1664fee4ddc5876f166fff8d9b7",
+      "output": "a6e5df86481488bee1966e958acf422674a1d6e0b340d98fe3d4c0914dc9fba7"
+    },
+    {
+      "input": "fcf1118351be8397e5f451ca4bc45bff96a26824f71e01f56a13fcd16e2702f7",
+      "output": "7c8f5059290305cec8323d79521f0353c9ac308b60cb4c1976340d0ce4a121d5"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1020/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,29 @@
+{
+  "id": "1543A",
+  "order": 118,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Exciting Bets",
+  "rating": 900,
+  "tags": [
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1543/A",
+  "source": "problems/1543A/main.cpp",
+  "statement": "problems/1543A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "312fe3d260e17fa17399cffde8cd391a51cebfa43c2200113e5164354b72e4a6",
+      "output": "4a57a14a3c671073a95cd90a6cbc936e29dbd30ebbdbea738a8503fdf2277345"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1543/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

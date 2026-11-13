@@ -1,0 +1,29 @@
+{
+  "id": "76D",
+  "order": 278,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Plus and xor",
+  "rating": 1700,
+  "tags": [
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/76/D",
+  "source": "problems/76D/main.cpp",
+  "statement": "problems/76D/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "539940b5456455b465a3aac4f5532ba8cf06ce2453cfe07620e55063ab98fea8",
+      "output": "ff3704923bf2fa89a4e274797ce057eca5a4cc327c38edc61046002481d80d39"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "76/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 0.5,
+  "memoryLimit": 256.0
+}

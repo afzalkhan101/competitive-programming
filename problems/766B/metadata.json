@@ -1,0 +1,36 @@
+{
+  "id": "766B",
+  "order": 123,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Mahmoud and a Triangle",
+  "rating": 1000,
+  "tags": [
+    "constructive algorithms",
+    "geometry",
+    "greedy",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/766/B",
+  "source": "problems/766B/main.cpp",
+  "statement": "problems/766B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "d2bacaf2b4b327051b641a19c463d2c7f8cf2ccc6a06cae229f38267559b2716",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "2b6681bd61622ba259696d4c9a1c9c6b67cafc694625a4bad0e263e69850fda8",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "766/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

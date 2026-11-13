@@ -1,0 +1,38 @@
+{
+  "id": "34C",
+  "order": 239,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Page Numbers",
+  "rating": 1300,
+  "tags": [
+    "expression parsing",
+    "implementation",
+    "sortings",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/34/C",
+  "source": "problems/34C/main.cpp",
+  "statement": "problems/34C/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "60d4aea6f1b97a75c47daa8860490fdbb50e3b800b579db8a7e46b942dbff722",
+      "output": "54eb5fd1acf67f800310e329c99795aea7c78794ce78c5346799b3c5bf92c343"
+    },
+    {
+      "input": "ade5aa392903732cb785f91e714f9aa4002eefd9183d394aa6f89c649d95f8e7",
+      "output": "f261d3d442c8de6223a64cd2cce530900639fa6ad865fd3cec08f3c9909144cb"
+    },
+    {
+      "input": "2f73a1e63821fe2c4d2d601bf70d95a8f7f62710bdb448eb9f7c80cb1d68c86d",
+      "output": "872b582f6920c1fa2bd8e833ff1ffe3c6379aeefacd7a8e0b52fd4d8fe7f8288"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "34/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

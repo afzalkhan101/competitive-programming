@@ -1,0 +1,37 @@
+{
+  "id": "158D",
+  "order": 146,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Ice Sculptures",
+  "rating": 1300,
+  "tags": [
+    "*special",
+    "brute force",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/158/D",
+  "source": "problems/158D/main.cpp",
+  "statement": "problems/158D/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "247212a041d4151b9b395a1c6141c81bdeeb035de24c59c8408b1c1418cb63bc",
+      "output": "8527a891e224136950ff32ca212b45bc93f69fbb801c3b1ebedac52775f99e61"
+    },
+    {
+      "input": "a6cd64a2db8762a7b876d0d026070d0e4ad2c0248f0581124161bb9c748e8d07",
+      "output": "19581e27de7ced00ff1ce50b2047e7a567c76b1cbaebabe5ef03f7c3017bb5b7"
+    },
+    {
+      "input": "7c76b27eb7a86404f10eb6ae6f38e33ef3c2f2b32d2e652a826bca191f4c5e99",
+      "output": "6f4b6612125fb3a0daecd2799dfd6c9c299424fd920f9b308110a2c1fbd8f443"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "158/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

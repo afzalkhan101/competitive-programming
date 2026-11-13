@@ -1,0 +1,28 @@
+{
+  "id": "1326A",
+  "order": 127,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Bad Ugly Numbers",
+  "rating": 1000,
+  "tags": [
+    "constructive algorithms",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1326/A",
+  "source": "problems/1326A/main.cpp",
+  "statement": "problems/1326A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "68871db17ac1865341d79d6b6d51c2ce0f85d958d8df5774cd1ccfbda7b17544",
+      "output": "d95053f8a04c809b979252e989ca2e904505b98cd33a96d4d8a077a31e3610c2"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1326/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

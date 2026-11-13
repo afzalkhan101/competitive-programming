@@ -1,0 +1,32 @@
+{
+  "id": "245B",
+  "order": 422,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Internet Address",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/245/B",
+  "source": "problems/245B/main.cpp",
+  "statement": "problems/245B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "8b612b54c92578442b0ee37c2acd4cd318726df1e198b5c6a8ee7d53db092afb",
+      "output": "3c2527f852cb7982f234d70e6f16738fcec27f8f1356962459ac2a39c3e08be6"
+    },
+    {
+      "input": "bb80f0c54a71c8e181ca89b45dcbede869f800c3c3ee8fe4dbd863d061882bd4",
+      "output": "42d3f728ba8339049eb07a77ed7a1daff7e3b44196e6961f8500a085f052d7bb"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "245/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

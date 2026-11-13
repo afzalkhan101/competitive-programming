@@ -1,0 +1,34 @@
+{
+  "id": "33D",
+  "order": 387,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Knights",
+  "rating": 2000,
+  "tags": [
+    "geometry",
+    "graphs",
+    "shortest paths",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/33/D",
+  "source": "problems/33D/main.cpp",
+  "statement": "problems/33D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "0c9d3e66841d41232cc7c3f54215acf144d3ace5782841a9f078821fc1e890c2",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "59d4185e03196b162e64c4cd768244807a234ca22301adf8d62d737ee931c072",
+      "output": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "33/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

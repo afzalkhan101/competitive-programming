@@ -1,0 +1,36 @@
+{
+  "id": "81B",
+  "order": 476,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Sequence Formatting",
+  "rating": 1700,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/81/B",
+  "source": "problems/81B/main.cpp",
+  "statement": "problems/81B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "881d2a3885fc4ee547afce7a11824b6d699df0f25252d435bb56eefa7846b1d5",
+      "output": "652ca86de2de1b9d701c579062ec6d6beb5e9ed87a8d95143032abd93d50ee49"
+    },
+    {
+      "input": "55b877941c2c9332b8a6d1d74f3653deb93aab428c35495cae63a822b796e9d9",
+      "output": "b9ca353f1ca9f92de7fb5294259fff31a95791bd9ccb229985cf03e9e61ae5c6"
+    },
+    {
+      "input": "af60a9264e69ee72d173eedcd61fda418da2f0f8eb0c54a4006520f1c389951a",
+      "output": "cfc18e5a68984a4bf7222ade19204bd9ebbcbf0756231f0a7efc60ac932def3f"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "81/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

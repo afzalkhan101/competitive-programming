@@ -1,0 +1,29 @@
+{
+  "id": "1325A",
+  "order": 108,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "EhAb AnD gCd",
+  "rating": 800,
+  "tags": [
+    "constructive algorithms",
+    "greedy",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1325/A",
+  "source": "problems/1325A/main.cpp",
+  "statement": "problems/1325A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "bedc9b73521c3b9df3fe5c151e8c2bcd1f3b004da50a8299529ddca6fe19cd86",
+      "output": "f0c1157c37b0f1eceddda52914054401aa856c9a21933686d5e3a1bc1345eb66"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1325/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

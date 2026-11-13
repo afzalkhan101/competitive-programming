@@ -1,0 +1,37 @@
+{
+  "id": "77C",
+  "order": 397,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Beavermuncher-0xFF",
+  "rating": 2100,
+  "tags": [
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "greedy",
+    "trees"
+  ],
+  "url": "https://codeforces.com/problemset/problem/77/C",
+  "source": "problems/77C/main.cpp",
+  "statement": "problems/77C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "be3d9bbe91c1c397cd473df843515cb413be537f3c327c83f3489b16da281597",
+      "output": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+    },
+    {
+      "input": "dab058a8d331b459032910de1d0e32d0b066b0d4bc6fcc7e35334e7c67c5426f",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "77/C",
+  "aliases": [
+    "80/E"
+  ],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

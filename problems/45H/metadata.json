@@ -1,0 +1,31 @@
+{
+  "id": "45H",
+  "order": 393,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Road Problem",
+  "rating": 2100,
+  "tags": [
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/45/H",
+  "source": "problems/45H/main.cpp",
+  "statement": "problems/45H/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "3188b06193c3a42df51ac80667cca0a257375e68002ab7582a7e5ef5a8dadc02",
+      "output": "94e2a37eced891750e95919ec5361c604c66eeefbde57c60c8d8cb9572d0de0a"
+    },
+    {
+      "input": "f9359186915d9c1208b215e76a822dc927a69ebdf0f9ba00e0cba5e1597e187a",
+      "output": "644ebbbc3f0c934c18386e9120b4de09730270203ffa969fff1b0d47b800a3f8"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "45/H",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 3.0,
+  "memoryLimit": 256.0
+}

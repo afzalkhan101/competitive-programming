@@ -1,0 +1,34 @@
+{
+  "id": "17B",
+  "order": 257,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Hierarchy",
+  "rating": 1500,
+  "tags": [
+    "dfs and similar",
+    "dsu",
+    "greedy",
+    "shortest paths"
+  ],
+  "url": "https://codeforces.com/problemset/problem/17/B",
+  "source": "problems/17B/main.cpp",
+  "statement": "problems/17B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "e7ba778c43b66c192526cca7c83e82a8de3718ac8918637bcc57f247ebbd823c",
+      "output": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8"
+    },
+    {
+      "input": "da8fcdbf1b1c5d649045449fa12e6dc998ce8ac60cf5ceb73d0e43cd57d2b362",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "17/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

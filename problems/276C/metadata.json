@@ -1,0 +1,34 @@
+{
+  "id": "276C",
+  "order": 352,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "Little Girl and Maximum Sum",
+  "rating": 1500,
+  "tags": [
+    "data structures",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/276/C",
+  "source": "problems/276C/main.cpp",
+  "statement": "problems/276C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "9ad01e9c0f7cd2725ac3d09683a5849eaa9e6dd9b0a0764e4a37e75b373383be",
+      "output": "b7a56873cd771f2c446d369b649430b65a756ba278ff97ec81bb6f55b2e73569"
+    },
+    {
+      "input": "f08b4d874c3ddf304719865f9d180e97620622bdf3003e8c5cf88d6f156419be",
+      "output": "c6f3ac57944a531490cd39902d0f777715fd005efac9a30622d5f5205e7f6894"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "276/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

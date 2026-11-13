@@ -1,0 +1,31 @@
+{
+  "id": "39B",
+  "order": 240,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Company Income Growth",
+  "rating": 1300,
+  "tags": [
+    "greedy"
+  ],
+  "url": "https://codeforces.com/problemset/problem/39/B",
+  "source": "problems/39B/main.cpp",
+  "statement": "problems/39B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "8f897ad38fac5be60f4a66c4b2d746c399a620fcf0ebb6e46e9da5d7ea585017",
+      "output": "f44492dcc58a08a181ca04e5796f4de6e0f3dc3d26ee7aae4fa9214be72f4a74"
+    },
+    {
+      "input": "2bddf90325c0b4b5ed63a3f74198a96088924821bf3a9ff32a691b73f356b716",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "39/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 64.0
+}

@@ -1,0 +1,34 @@
+{
+  "id": "91A",
+  "order": 263,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Newspaper Headline",
+  "rating": 1500,
+  "tags": [
+    "greedy",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/91/A",
+  "source": "problems/91A/main.cpp",
+  "statement": "problems/91A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "042f01ade2c5988edbe230efc3f48fdcdbbe493931de8cae8bd02156802b77cd",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    },
+    {
+      "input": "33260224072e041c7ef3abc948906d7c0b3bccfa95244c0dcce1a0e0fe75a6d8",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "91/A",
+  "aliases": [
+    "92/C"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

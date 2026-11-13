@@ -1,0 +1,70 @@
+# 172D · Calendar Reform
+
+<!-- practice-tags:start -->
+<div class="practice-tags" aria-label="Category and topic tags"><span class="practice-tag category-tag" data-category="number-theory">Number Theory</span><span class="practice-tag">*special</span><span class="practice-tag">number theory</span></div>
+<!-- practice-tags:end -->
+
+[Codeforces problem](https://codeforces.com/problemset/problem/172/D) · Rating 1500
+
+Time: 2.0 seconds · Memory: 256.0 MB
+
+## Problem
+
+Reforms have started in Berland again! At this time, the Parliament is discussing the reform of the calendar. To make the lives of citizens of Berland more varied, it was decided to change the calendar. As more and more people are complaining that "the years fly by...", it was decided that starting from the next year the number of days per year will begin to grow. So the coming year will have exactly a days, the next after coming year will have a + 1 days, the next one will have a + 2 days and so on. This schedule is planned for the coming n years (in the n-th year the length of the year will be equal a + n - 1 day).
+
+No one has yet decided what will become of months. An MP Palevny made the following proposal.
+
+- The calendar for each month is comfortable to be printed on a square sheet of paper. We are proposed to make the number of days in each month be the square of some integer. The number of days per month should be the same for each month of any year, but may be different for different years.
+- The number of days in each year must be divisible by the number of days per month in this year. This rule ensures that the number of months in each year is an integer.
+- The number of days per month for each year must be chosen so as to save the maximum amount of paper to print the calendars. In other words, the number of days per month should be as much as possible.
+
+These rules provide an unambiguous method for choosing the number of days in each month for any given year length. For example, according to Palevny's proposition, a year that consists of 108 days will have three months, 36 days each. The year that consists of 99 days will have 11 months, 9 days each, and a year of 365 days will have 365 months, one day each.
+
+The proposal provoked heated discussion in the community, the famous mathematician Perelmanov quickly calculated that if the proposal is supported, then in a period of n years, beginning with the year that has a days, the country will spend p sheets of paper to print a set of calendars for these years. Perelmanov's calculations take into account the fact that the set will contain one calendar for each year and each month will be printed on a separate sheet.
+
+Repeat Perelmanov's achievement and print the required number p. You are given positive integers a and n. Perelmanov warns you that your program should not work longer than four seconds at the maximum test.
+
+## Input
+
+The only input line contains a pair of integers a, n (1 ≤ a, n ≤ 107; a + n - 1 ≤ 107).
+
+## Output
+
+Print the required number p.
+
+Please, do not use the %lld specifier to read or write 64-bit integers in C++. It is preferred to use cin, cout streams or the %I64d specifier.
+
+## Sample 1
+
+Input
+
+```text
+25 3
+```
+
+Output
+
+```text
+30
+```
+
+## Sample 2
+
+Input
+
+```text
+50 5
+```
+
+Output
+
+```text
+125
+```
+
+## Note
+
+A note to the first sample test. A year of 25 days will consist of one month containing 25 days. A year of 26 days will consist of 26 months, one day each. A year of 27 days will have three months, 9 days each.
+
+---
+Offline statement and original statement examples from [Open R1 Codeforces dataset](https://huggingface.co/datasets/open-r1/codeforces), CC BY 4.0. Original problem by its Codeforces authors. Dataset snapshot; corrections on Codeforces may be newer. No editorials, solutions, generated checkers, or generated tests included.

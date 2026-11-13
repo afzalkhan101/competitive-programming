@@ -1,0 +1,37 @@
+{
+  "id": "82B",
+  "order": 477,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Sets",
+  "rating": 1700,
+  "tags": [
+    "constructive algorithms",
+    "hashing",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/82/B",
+  "source": "problems/82B/main.cpp",
+  "statement": "problems/82B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "5ebc5e2b5da6f3dcd6f7d349f519039f3cba4ab9253e8cdbb6c11e631a1a6555",
+      "output": "f81b85dba5937804ba768c1e967a7ac3475918a4e433d3a3fc6f95d017f48261"
+    },
+    {
+      "input": "ae68e92554b515eecbeed5b7b03ec1cb909fe4531b3057d756c1954a34f7ba17",
+      "output": "00a1f722bbf270fb90ce99b7dd3406a67db03780ac8c42aa512d448ce3a65913"
+    },
+    {
+      "input": "e5a659c351777aed6b936e0470902c9cabf54b8811699b7770f232759bd386d7",
+      "output": "1e255de09a3e404588fa41c8796f5a40ea7ee86dbcfbdc25f880f29eae212ce0"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "82/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

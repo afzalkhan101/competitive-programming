@@ -1,0 +1,31 @@
+{
+  "id": "53D",
+  "order": 261,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Physical Education",
+  "rating": 1500,
+  "tags": [
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/53/D",
+  "source": "problems/53D/main.cpp",
+  "statement": "problems/53D/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "4650de94e8d55eba0f9690105fafcbdce0e90748be8d9c3b9e089e19372c3923",
+      "output": "15b8d400170077ebe16f37d0455ed767cb21d5ffe73c41304d7cffd2043dab9f"
+    },
+    {
+      "input": "39e655324226b0776af59e6ae90ac29077da06e5e2268041c9523cb89ee06c2a",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "53/D",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

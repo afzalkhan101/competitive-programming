@@ -1,0 +1,35 @@
+{
+  "id": "129A",
+  "order": 38,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Cookies",
+  "rating": 900,
+  "tags": [
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/129/A",
+  "source": "problems/129A/main.cpp",
+  "statement": "problems/129A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "c553228271d4cf65305957e97cd75da60964776a9e615c702bd6a4c077d266c0",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "input": "5a3322c605621e0aefc3539be6217f033c4d19cf4bb8af60d33b074c701337f2",
+      "output": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3"
+    },
+    {
+      "input": "b987d314f0528c3a9df78dd9eb7d1166f9684350ad19ab2bf2d3a2c2b528b815",
+      "output": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "129/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

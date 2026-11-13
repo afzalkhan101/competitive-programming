@@ -1,0 +1,32 @@
+{
+  "id": "265B",
+  "order": 218,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Roadside Trees (Simplified Edition)",
+  "rating": 1000,
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/265/B",
+  "source": "problems/265B/main.cpp",
+  "statement": "problems/265B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "bdc9736e67017bbdee01528adebb24d6cf3f10b4348444a3c356851f37f2df67",
+      "output": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+    },
+    {
+      "input": "5d87e3df437fbc47f9232a6a9b3656f2fbc72998d45eba2774123cfe35a4f87b",
+      "output": "8527a891e224136950ff32ca212b45bc93f69fbb801c3b1ebedac52775f99e61"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "265/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

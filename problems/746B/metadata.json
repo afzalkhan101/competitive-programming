@@ -1,0 +1,36 @@
+{
+  "id": "746B",
+  "order": 410,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Decoding",
+  "rating": 900,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/746/B",
+  "source": "problems/746B/main.cpp",
+  "statement": "problems/746B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "3929b1233bda7812d40aef470f96a3d95f8c3a5eaf479bcf0fe51ffcaf3f8152",
+      "output": "26a63eceb26c993aa5617cd97f8d982f2c644f850991d371cf0f287a23c61950"
+    },
+    {
+      "input": "d605d805b1e6542c51091a905e2f8cee23658b0f48fd95bb13a45308e0c4f05c",
+      "output": "9390298f3fb0c5b160498935d79cb139aef28e1c47358b4bbba61862b9c26e59"
+    },
+    {
+      "input": "70791712ed7733d07a30c89ee3e2791d1b4b9fc7bbd8b036f260135e0ecf7f09",
+      "output": "e75a6cd43a16c2f31d1a3c17700af64d3658a380c49d65b20cc75b1f7c0e001b"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "746/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,32 @@
+{
+  "id": "186A",
+  "order": 99,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Comparing Strings",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/186/A",
+  "source": "problems/186A/main.cpp",
+  "statement": "problems/186A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "9b1e2b25a90f80f6c7ac257e31ad9be039728cb8caeccfdf2e032cd2097b7f2c",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    },
+    {
+      "input": "140899cec55276e654da3c1747b317f4b9f3c0d6f39c7bfeb7f5887c6ec66ad5",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "186/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

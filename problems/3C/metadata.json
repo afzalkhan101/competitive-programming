@@ -1,0 +1,29 @@
+{
+  "id": "3C",
+  "order": 483,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Tic-tac-toe",
+  "rating": 1800,
+  "tags": [
+    "brute force",
+    "games",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/3/C",
+  "source": "problems/3C/main.cpp",
+  "statement": "problems/3C/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "bcff684e1835cf89ad630f9bacd62c343ea58a419c994932df38f57a0a0fa851",
+      "output": "16367aacb67a4a017c8da8ab95682ccb390863780f7114dda0a0e0c55644c7c4"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "3/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 64.0
+}

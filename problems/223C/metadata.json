@@ -1,0 +1,35 @@
+{
+  "id": "223C",
+  "order": 196,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Partial Sums",
+  "rating": 1900,
+  "tags": [
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/223/C",
+  "source": "problems/223C/main.cpp",
+  "statement": "problems/223C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "ff2afb413a51be2da4053a537a50a7e3a7393226ce2c38f8a5e75631cf03f806",
+      "output": "e54ae271e0240622e8098e3ffd18c43d0cdc4da82dac1dc22f357206a7a6b118"
+    },
+    {
+      "input": "f06ba6044ddc7076d7de796a8a68488e9fd3c94bf646b4be81d8a031b5fc8065",
+      "output": "abf36f4052cf2e6eafa6b00c5a6a399a4f9a8954314e63c6924ff71315f488d2"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "223/C",
+  "aliases": [
+    "224/E"
+  ],
+  "offline": true,
+  "timeLimit": 4.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,36 @@
+{
+  "id": "445A",
+  "order": 325,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "DZY Loves Chessboard",
+  "rating": 1200,
+  "tags": [
+    "dfs and similar",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/445/A",
+  "source": "problems/445A/main.cpp",
+  "statement": "problems/445A/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "a1976ee2539afd5bed3bce5748ede01ff04c54cebcc8160199e8820dbbc73155",
+      "output": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c"
+    },
+    {
+      "input": "f52873d2d08388501b6780c68ad3578c908966e01bc0d48ddc9ee637762dd6f0",
+      "output": "eb34ead4e1f367e4306db33510ecee9293b15a08c8872e4b0d3091516bd1ac60"
+    },
+    {
+      "input": "da4b85562ea4ab84ade84207940021e8e858323ba62da6d0476fc86a3e7f4acf",
+      "output": "d3901c3a3195d2f9143a93719a3cb4c98fd14afd829c3119afa9997c9d44430e"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "445/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

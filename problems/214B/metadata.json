@@ -1,0 +1,38 @@
+{
+  "id": "214B",
+  "order": 470,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Hometask",
+  "rating": 1600,
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "url": "https://codeforces.com/problemset/problem/214/B",
+  "source": "problems/214B/main.cpp",
+  "statement": "problems/214B/problem.md",
+  "samples": 3,
+  "sampleHashes": [
+    {
+      "input": "4ea2ed1420659bf15773230715e87b4408625eaf88869b7e8bb51c42889579d6",
+      "output": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+    },
+    {
+      "input": "560aee2aafeea46cdd7efd2b099b10cfa30039ea1f1ffb6bf632c2d94a4ee976",
+      "output": "6fe5aa4dca3208e4c0b0d8f25ab1bfce1eaf72a22e6fdd24214eb9b9ee7b2ddf"
+    },
+    {
+      "input": "bcc824b785d8eb8b95233c9c58a8aeead34ebc74068b78fb90800271ddc26ca6",
+      "output": "1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "214/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

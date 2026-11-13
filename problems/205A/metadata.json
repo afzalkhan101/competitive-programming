@@ -1,0 +1,32 @@
+{
+  "id": "205A",
+  "order": 47,
+  "category": "basics",
+  "categoryName": "Basics",
+  "title": "Little Elephant and Rozdil",
+  "rating": 900,
+  "tags": [
+    "brute force",
+    "implementation"
+  ],
+  "url": "https://codeforces.com/problemset/problem/205/A",
+  "source": "problems/205A/main.cpp",
+  "statement": "problems/205A/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "bdfc1297b816c236eec422f71400df4164b4ea2c63ad4aa87855a74005f6a197",
+      "output": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    },
+    {
+      "input": "7d0744e12c3dfafd35fd619273cee1db4661870eea92c2f17e0495fc0a1875e6",
+      "output": "56eed1c8d7d1a00ef0dd40e1d12719335ca29637ab9c5b4e695f1c8ca8f722b4"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "205/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

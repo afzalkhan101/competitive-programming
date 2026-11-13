@@ -1,0 +1,33 @@
+{
+  "id": "177B1",
+  "order": 119,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Rectangular Game",
+  "rating": 1000,
+  "tags": [
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/177/B1",
+  "source": "problems/177B1/main.cpp",
+  "statement": "problems/177B1/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5",
+      "output": "b17ef6d19c7a5b1ee83b907c595526dcb1eb06db8227d650d5dda0a9f4ce8cd9"
+    },
+    {
+      "input": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3",
+      "output": "e629fa6598d732768f7c726b4b621285f9c3b85303900aa912017db7617d8bdb"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "177/B1",
+  "aliases": [
+    "177/B2"
+  ],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

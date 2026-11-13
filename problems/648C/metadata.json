@@ -1,0 +1,33 @@
+{
+  "id": "648C",
+  "order": 316,
+  "category": "dsa",
+  "categoryName": "DSA",
+  "title": "\u041f\u0443\u0442\u044c \u0420\u043e\u0431\u043e\u0442\u0430",
+  "rating": 1100,
+  "tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs"
+  ],
+  "url": "https://codeforces.com/problemset/problem/648/C",
+  "source": "problems/648C/main.cpp",
+  "statement": "problems/648C/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "cfe43705b96e4aee7fe97c8f721c92dddadb9499bfeec797906a0b257a8cc3bf",
+      "output": "005c9b711cd2a9904c7ff139d37ea789d7165ff41283c9a0d108c062f1dc0437"
+    },
+    {
+      "input": "2e89433dcf66a386f0386da46a328f21502fbd8ecb0caec42866d9c467d2786a",
+      "output": "ca51291866a508c3a9ff4d673f219ff29a17305cb00f11a10fb7afcd9084b627"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "648/C",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

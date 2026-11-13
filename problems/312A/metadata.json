@@ -1,0 +1,28 @@
+{
+  "id": "312A",
+  "order": 425,
+  "category": "mixed",
+  "categoryName": "Mixed Practice",
+  "title": "Whose sentence is it?",
+  "rating": 1100,
+  "tags": [
+    "implementation",
+    "strings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/312/A",
+  "source": "problems/312A/main.cpp",
+  "statement": "problems/312A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "0ba67c9409e3057444d2c6b6a97a4c2f4449e2ebceb45e489abc4f9734fbb92b",
+      "output": "cd0d20be8483181a8d35d799a88ca9dbbfdd8289780c2d39304fa1a724c18ff3"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "312/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,30 @@
+{
+  "id": "1370A",
+  "order": 109,
+  "category": "number-theory",
+  "categoryName": "Number Theory",
+  "title": "Maximum GCD",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "url": "https://codeforces.com/problemset/problem/1370/A",
+  "source": "problems/1370A/main.cpp",
+  "statement": "problems/1370A/problem.md",
+  "samples": 1,
+  "sampleHashes": [
+    {
+      "input": "d0cf758ad7e9b5bbb169315c8f8ffe76eb173d84aad92ed3ff08e8d9012556d0",
+      "output": "b598b3a62a3f7cedb17e66d1cb31d53dffeebaf5c07e2c60d5e31971936fd35e"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "1370/A",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 1.0,
+  "memoryLimit": 256.0
+}

@@ -1,0 +1,32 @@
+{
+  "id": "108B",
+  "order": 252,
+  "category": "algorithms",
+  "categoryName": "Algorithms",
+  "title": "Datatypes",
+  "rating": 1400,
+  "tags": [
+    "math",
+    "sortings"
+  ],
+  "url": "https://codeforces.com/problemset/problem/108/B",
+  "source": "problems/108B/main.cpp",
+  "statement": "problems/108B/problem.md",
+  "samples": 2,
+  "sampleHashes": [
+    {
+      "input": "786dcb43ae530c8b9d426e80574c2b82779dcda9fa74ae371c94c62bfa2fbcd3",
+      "output": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a"
+    },
+    {
+      "input": "9efc1312da5b89a77894ebf2f67dce4081e113ab81f6219499e575e6df03839d",
+      "output": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297"
+    }
+  ],
+  "dataset": "https://huggingface.co/datasets/open-r1/codeforces",
+  "datasetId": "108/B",
+  "aliases": [],
+  "offline": true,
+  "timeLimit": 2.0,
+  "memoryLimit": 256.0
+}
