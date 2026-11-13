@@ -3,9 +3,11 @@
   "handle": "afzalkhan101",
   "progress": {
     "4A": {
-      "samplesPassed": false,
-      "testedHash": "7562f365eca940af2f5e8e54b0bc27ef3f547da3bf20e8fa6a8de51d99438ff8",
-      "updatedAt": 1794565325.9969542
+      "samplesPassed": true,
+      "testedHash": "d157c9f2434cb3c900bc96c0cac0fccd1e6df384ab24e4df8e1cc1703b096290",
+      "updatedAt": 1794585998.290747,
+      "status": "accepted",
+      "acceptance": "user-confirmed"
     }
   },
   "active": {
