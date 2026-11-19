@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 75D · Big Maximum Sum
 
 <!-- practice-tags:start -->

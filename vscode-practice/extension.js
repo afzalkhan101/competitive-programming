@@ -36,8 +36,22 @@ function activate(context) {
   async function openProblem(p, statement) {
     if (!p) return;
     select(p);
-    await vscode.window.showTextDocument(vscode.Uri.file(path.join(root, p.source)), {viewColumn:vscode.ViewColumn.One, preview:false});
-    if (statement) await vscode.commands.executeCommand('markdown.showPreviewToSide', vscode.Uri.file(path.join(root, p.statement)));
+    const source = vscode.Uri.file(path.join(root, p.source));
+    const groups = vscode.window.tabGroups.all;
+    const sourceGroup = groups.find(g => g.tabs.some(t => t.input instanceof vscode.TabInputText && t.input.uri.toString() === source.toString()));
+    const descriptionGroup = groups.find(g => g.tabs.some(t => t.input instanceof vscode.TabInputWebview && t.input.viewType.includes('markdown.preview')));
+    const oldSolutions = groups.flatMap(g => g.tabs).filter(t =>
+      !t.isDirty && t.input instanceof vscode.TabInputText &&
+      t.input.uri.toString() !== source.toString() &&
+      catalog.problems.some(item => vscode.Uri.file(path.join(root, item.source)).toString() === t.input.uri.toString()));
+    if (oldSolutions.length) await vscode.window.tabGroups.close(oldSolutions, true);
+    panel?.dispose();
+    await vscode.window.showTextDocument(source, {viewColumn:sourceGroup?.viewColumn || vscode.ViewColumn.One, preview:false});
+    await vscode.commands.executeCommand('markdown.showPreview', vscode.Uri.file(path.join(root, p.statement)), {
+      viewColumn: descriptionGroup?.viewColumn || vscode.ViewColumn.Beside,
+      locked: true,
+      preserveFocus: true
+    });
     refresh();
   }
   const quote = s => "'" + s.replace(/'/g, "'\\''") + "'";
@@ -58,7 +72,7 @@ function activate(context) {
     panel = vscode.window.createWebviewPanel('practice.dashboard','Your Practice Path',vscode.ViewColumn.One,{enableScripts:true, retainContextWhenHidden:true, localResourceRoots:[vscode.Uri.joinPath(context.extensionUri,'media')]});
     const nonce = crypto.randomBytes(16).toString('hex');
     const asset = f => panel.webview.asWebviewUri(vscode.Uri.joinPath(context.extensionUri,'media',f));
-    panel.webview.html = `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src ${panel.webview.cspSource}; script-src 'nonce-${nonce}';"><link rel="stylesheet" href="${asset('dashboard.css')}"><link rel="stylesheet" href="${asset('tags.css')}"></head><body><main><header><div class="eyebrow">LOCAL PRACTICE · CODEFORCES</div><h1>Your Practice Path<span>500</span></h1><p>One problem at a time. Pick up where you left off.</p></header><section id="categories" aria-label="Categories"></section><section class="progress"><div><strong id="done">0 / 500</strong><span>Accepted</span><span id="offline"></span></div><progress id="bar" max="500" value="0"></progress></section><section id="next"></section><section class="library"><div class="toolbar"><h2>Your sequence</h2><input id="search" type="search" placeholder="Search name, ID or topic…" aria-label="Search problems"><select id="filter" aria-label="Status"><option value="all">All problems</option><option value="unfinished">Unfinished</option><option value="accepted">Accepted</option></select></div><div class="tablewrap"><table><thead><tr><th>Order</th><th>Problem</th><th>Rating</th><th>Status</th><th>Actions</th></tr></thead><tbody id="rows"></tbody></table></div><p id="empty" hidden>No matching problems.</p></section><footer>Statements and original samples are stored locally. Samples are not hidden tests.<br>Manual submission in your browser → exact verdict and source verification → Accepted-only GitHub push.</footer></main><script nonce="${nonce}" src="${asset('dashboard.js')}"></script></body></html>`;
+    panel.webview.html = `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src ${panel.webview.cspSource}; script-src 'nonce-${nonce}';"><link rel="stylesheet" href="${asset('dashboard.css')}"><link rel="stylesheet" href="${asset('tags.css')}"></head><body><main><header><div class="eyebrow">LOCAL PRACTICE · CODEFORCES</div><h1>Your Practice Path<span>500</span></h1><p>One problem at a time. Pick up where you left off.</p></header><section id="categories" aria-label="Categories"></section><section class="progress"><div><strong id="done">0 / 500</strong><span>Accepted</span><span id="offline"></span></div><progress id="bar" max="500" value="0"></progress></section><section id="next"></section><section class="library"><div class="toolbar"><h2>Your sequence</h2><input id="search" type="search" placeholder="Search name, ID or topic…" aria-label="Search problems"><select id="filter" aria-label="Status"><option value="all">All problems</option><option value="unfinished">Unfinished</option><option value="accepted">Accepted</option></select></div><div class="tablewrap"><table><thead><tr><th>Order</th><th>Problem</th><th>Rating</th><th>Status</th><th>Actions</th></tr></thead><tbody id="rows"></tbody></table></div><p id="empty" hidden>No matching problems.</p></section><footer>Statements and original samples are stored locally. Samples are not hidden tests.<br>Submit in your browser → check Accepted yourself → run push this to publish.</footer></main><script nonce="${nonce}" src="${asset('dashboard.js')}"></script></body></html>`;
     panel.webview.onDidReceiveMessage(async message => {
       try {
         if (message.type === 'ready') return refresh();
@@ -87,5 +101,6 @@ function activate(context) {
   context.subscriptions.push(watcher);
   refresh();
   if (vscode.workspace.getConfiguration('practice').get('openOnStartup',true)) dashboard();
+  else openProblem(active() || next(), true).catch(e => vscode.window.showErrorMessage(`Practice: ${e.message}`));
 }
 module.exports = {activate};

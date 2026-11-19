@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 195A · Let's Watch Football
 
 <!-- practice-tags:start -->

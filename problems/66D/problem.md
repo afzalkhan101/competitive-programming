@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 66D · Petya and His Friends
 
 <!-- practice-tags:start -->

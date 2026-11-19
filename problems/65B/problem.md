@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 65B · Harry Potter and the History of Magic
 
 <!-- practice-tags:start -->

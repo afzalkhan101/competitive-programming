@@ -2,7 +2,7 @@
   "name": "codeforces-practice",
   "displayName": "Your Practice Path",
   "description": "Offline 500-problem Codeforces curriculum, statements, samples and progress.",
-  "version": "1.3.0",
+  "version": "1.6.0",
   "publisher": "local",
   "engines": {
     "vscode": "^1.85.0"
@@ -24,7 +24,8 @@
     "commands": [
       {
         "command": "practice.dashboard",
-        "title": "Practice: Open Dashboard"
+        "title": "Practice: Open Dashboard",
+        "icon": "$(arrow-left)"
       },
       {
         "command": "practice.next",
@@ -43,6 +44,15 @@
     },
     "markdown.previewStyles": [
       "./media/tags.css"
-    ]
+    ],
+    "menus": {
+      "editor/title": [
+        {
+          "command": "practice.dashboard",
+          "when": "resourceFilename == problem.md",
+          "group": "navigation@1"
+        }
+      ]
+    }
   }
 }

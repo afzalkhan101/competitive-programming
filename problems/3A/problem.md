@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 3A · Shortest path of the king
 
 <!-- practice-tags:start -->

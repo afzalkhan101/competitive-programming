@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 937B · Vile Grasshoppers
 
 <!-- practice-tags:start -->

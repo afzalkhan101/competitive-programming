@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 50B · Choosing Symbol Pairs
 
 <!-- practice-tags:start -->

@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 515B · Drazil and His Happy Friends
 
 <!-- practice-tags:start -->

@@ -26,7 +26,7 @@ def progress():
 
 def export_state():
     # Explicit whitelist: never export cookies, credentials, snapshots or absolute paths.
-    allowed = {'status', 'submission', 'samplesPassed', 'testedHash', 'updatedAt', 'verdict'}
+    allowed = {'status', 'acceptance', 'submission', 'samplesPassed', 'testedHash', 'updatedAt', 'verdict'}
     data = {pid: {k: v for k, v in fields.items() if k in allowed} for pid, fields in progress().items()}
     active = read(LOCAL / 'active.json', backup().get('active', {}))
     entry = problem(active.get('id', ''))

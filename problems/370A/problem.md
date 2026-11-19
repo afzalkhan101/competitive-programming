@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 370A · Rook, Bishop and King
 
 <!-- practice-tags:start -->

@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 1249B1 · Books Exchange (easy version)
 
 <!-- practice-tags:start -->

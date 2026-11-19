@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 164A · Variable, or There and Back Again
 
 <!-- practice-tags:start -->

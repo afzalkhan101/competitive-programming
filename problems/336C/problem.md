@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 336C · Vasily the Bear and Sequence
 
 <!-- practice-tags:start -->

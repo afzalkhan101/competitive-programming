@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 168A · Wizards and Demonstration
 
 <!-- practice-tags:start -->

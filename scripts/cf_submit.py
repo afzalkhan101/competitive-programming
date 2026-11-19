@@ -77,6 +77,21 @@ def candidates(rows, state):
             and r.get('problem', {}).get('index') == state['index']
             and any(m.get('handle', '').lower() == state['handle'].lower() for m in r.get('author', {}).get('members', []))]
 
+def collect_submission(state, timeout):
+    print(f'Waiting for your manual {state["contest"]}{state["index"]} submission; ID will be detected automatically…', flush=True)
+    deadline = time.monotonic() + timeout
+    while time.monotonic() < deadline:
+        matches = [row for row in candidates(api(state['handle']), state)
+                   if row.get('creationTimeSeconds', 0) >= state['preparedAt']]
+        if len(matches) > 1:
+            raise ValueError('Multiple new submissions match. Specify the exact one with cf watch SUBMISSION_ID; nothing pushed.')
+        if matches:
+            print(f'Detected submission #{matches[0]["id"]}', flush=True)
+            return matches[0]['id']
+        time.sleep(3)
+    raise ValueError('No new submission detected before timeout. Run push this again to resume; no automatic resubmission occurs.')
+
+
 def parse_submission(value, contest):
     if re.fullmatch(r'\d+', value):
         return int(value)
@@ -181,54 +196,15 @@ def preflight():
     return branch
 
 def submit(message=''):
-    with lock():
-        pending = LOCAL / 'pending.json'
-        if pending.exists():
-            print('Resuming saved submission. No code will be submitted automatically.')
-            return _watch(None, None, False, 600, message)
-        config = LOCAL / 'config.json'
-        if not config.exists():
-            raise ValueError('Run cf setup YOUR_HANDLE first.')
-        from runcode import selected_source
-        source = selected_source().resolve()
-        if not source.is_relative_to(ROOT.resolve()):
-            raise ValueError('Source must be inside this repository.')
-        from practice import require_source_unlocked
-        require_source_unlocked(source)
-        relative = source.relative_to(ROOT)
-        if len(relative.parts) != 3 or relative.parts[0] != 'problems':
-            raise ValueError('Select a curriculum problem first: cf open 4A')
-        from cf import identifier
-        contest, index = identifier(relative.parts[1])
-        data = source.read_bytes()
-        if not data.strip():
-            raise ValueError('Source is empty.')
-        state = {'handle': json.loads(config.read_text())['handle'], 'contest': contest, 'index': index,
-                 'source': str(relative), 'sha256': digest(data), 'branch': preflight(),
-                 'head': git('rev-parse', 'HEAD'), 'preparedAt': int(time.time()), 'message': message}
-        # Compile and run every stored original sample before preparing a submission.
-        from cf import test
-        from argparse import Namespace
-        if test(Namespace(source=str(source), timeout=3)):
-            raise ValueError('Samples did not pass. Nothing submitted or pushed.')
-        if digest(source.read_bytes()) != state['sha256']:
-            raise ValueError('Source changed during testing. Save and retry.')
-        save(pending, state)
-        (LOCAL / 'submitted-source.cpp').write_bytes(data)
-        clipboard = subprocess.run(clipboard_command(), input=data)
-        if clipboard.returncode:
-            raise ValueError('Could not copy code. Snapshot saved in .cf-local/submitted-source.cpp.')
-        url = f'https://codeforces.com/problemset/submit?contestId={contest}&problemIndex={index}'
-        webbrowser.open(url)
-        print(f'{contest}{index}: code copied. In your normal browser choose GNU C++17, paste and Submit.')
-        print('Keep this saved source unchanged. No automatic website submission is performed.')
-        return _watch(None, None, False, 600, message)
+    from manual_workflow import submit as manual_submit
+    return manual_submit()
+
 
 def watch(submission=None, html=None, source_clipboard=False, timeout=600):
     with lock():
         return _watch(submission, html, source_clipboard, timeout)
 
-def _watch(submission, html, source_clipboard, timeout, message=''):
+def _watch(submission, html, source_clipboard, timeout, message='', push_after=False):
     pending = LOCAL / 'pending.json'
     if not pending.exists():
         raise ValueError('No prepared submission. Run push this first.')
@@ -236,14 +212,17 @@ def _watch(submission, html, source_clipboard, timeout, message=''):
     if digest((ROOT / state['source']).read_bytes()) != state['sha256']:
         raise ValueError('Local source changed after preparation; nothing pushed. Restore the saved snapshot or cf cancel.')
     if state.get('commit'):
-        return accepted_push(state, message or state.get('message', ''))
+        if push_after:
+            return accepted_push(state, message or state.get('message', ''))
+        print('Verified commit ready. Run push this to publish it.')
+        return
     if submission:
         number = parse_submission(submission, state['contest'])
         if state.get('submission') and state['submission'] != number:
             raise ValueError('A different submission is already pending. Finish it or run cf cancel.')
         state['submission'] = number
     if not state.get('submission'):
-        state['submission'] = parse_submission(input('Paste the new submission link or ID here: ').strip(), state['contest'])
+        state['submission'] = collect_submission(state, timeout)
     save(pending, state)
     deadline = time.monotonic() + timeout
     while time.monotonic() < deadline:
@@ -261,7 +240,7 @@ def _watch(submission, html, source_clipboard, timeout, message=''):
             break
         time.sleep(3)
     else:
-        raise ValueError('Judging timed out. Run push this again to resume without resubmitting.')
+        raise ValueError('Judging timed out. Run cf watch to resume without resubmitting.')
     url = f'https://codeforces.com/contest/{state["contest"]}/submission/{state["submission"]}'
     if state.get('verifiedSourceHash') != state['sha256']:
         if source_clipboard:
@@ -289,7 +268,19 @@ def _watch(submission, html, source_clipboard, timeout, message=''):
         state['verifiedSourceHash'] = state['sha256']
         state['sourceVerification'] = method
         save(pending, state)
-    finish_verdict(state, 'OK', message or state.get('message', ''))
+    if push_after:
+        finish_verdict(state, 'OK', message or state.get('message', ''))
+    else:
+        state['verifiedVerdict'] = 'OK'
+        save(pending, state)
+        import practice
+        practice.accept(state['contest'] + state['index'], state['submission'])
+        print(f'Submission #{state["submission"]}: Accepted, source matched. Ready to push. Run: push this')
+
+def push_ready(message=''):
+    from manual_workflow import push
+    return push(message)
+
 
 def cancel():
     with lock():

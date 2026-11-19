@@ -12,3 +12,5 @@
 @keyframes practice-tag-in{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
 @keyframes practice-category-glow{0%,100%{box-shadow:0 0 0 0 #67adff00}50%{box-shadow:0 0 10px 1px #67adff38}}
 @media(prefers-reduced-motion:reduce){.practice-tags .practice-tag,.practice-tags .practice-tag.category-tag{animation:none;transition:none}.practice-tags .practice-tag:hover{transform:none}}
+
+.practice-back{display:inline-block;margin:4px 0 14px;padding:8px 14px;border:1px solid #599bdb88;border-radius:7px;background:#3688d41c;color:var(--vscode-textLink-foreground,#83c6ff);text-decoration:none;font-size:13px;font-weight:600;transition:background .15s ease}.practice-back:hover,.practice-back:focus-visible{background:#3688d43c;text-decoration:none;outline:2px solid var(--vscode-focusBorder,#83c6ff);outline-offset:2px}

@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 106B · Choosing Laptop
 
 <!-- practice-tags:start -->

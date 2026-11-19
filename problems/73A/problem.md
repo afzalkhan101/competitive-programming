@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 73A · The Elder Trolls IV: Oblivon
 
 <!-- practice-tags:start -->

@@ -31,6 +31,16 @@ class SubmitTests(unittest.TestCase):
                 submit.accepted_push(dict(source='main.cpp', sha256=submit.digest(b'original')), '')
             git.assert_not_called()
 
+    def test_auto_id_filters_previous_and_other_submissions(self):
+        state = dict(baseline=100, preparedAt=1000, contest='4', index='A', handle='example')
+        def row(number, timestamp=1001, index='A'):
+            return dict(id=number, creationTimeSeconds=timestamp, problem=dict(contestId=4,index=index),author=dict(members=[dict(handle='example')]))
+        with patch.object(submit,'api',return_value=[row(99),row(101,999),row(102,index='B'),row(103)]):
+            self.assertEqual(submit.collect_submission(state,10),103)
+        with patch.object(submit,'api',return_value=[row(103),row(104)]):
+            with self.assertRaisesRegex(ValueError,'Multiple new submissions'):
+                submit.collect_submission(state,10)
+
     def test_missing_statement_never_stages_or_pushes(self):
         with tempfile.TemporaryDirectory() as directory, patch.object(submit, 'ROOT', Path(directory)), patch.object(submit, 'git', side_effect=['main', 'head', '']) as git:
             source = Path(directory) / 'main.cpp'

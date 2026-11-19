@@ -1,27 +1,76 @@
 <div align="center">
 <h1>📚 Your Practice Path</h1>
-<p><strong>500 offline Codeforces problems · VS Code dashboard · Sequential unlock</strong></p>
-<p>Read → Code → Sample Test → Manual Submit → Verify Accepted → GitHub Push</p>
+<p><strong>500 offline Codeforces problems · VS Code dashboard · Step-by-step practice</strong></p>
+<p>Read → Code → Run/Test → Manual Submit → নিজে Accepted দেখো → push this</p>
 </div>
 
-## ১. প্রথমবার কীভাবে শুরু করবে
+## শুরু করো
 
-VS Code-এ <strong>competitive-programming</strong> folder খোলো। Installed <strong>Your Practice Path</strong> extension dashboard খুলবে। না দেখালে <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> চেপে <code>Developer: Reload Window</code>, তারপর <code>Practice: Open Dashboard</code> চালাও। Folder trusted থাকতে হবে।
-
-VS Code terminal খুলে চালাও:
+VS Code-এ এই folder খোলো। Terminal-এ:
 
 ```sh
-cd /Users/laptopheaven/competitive-programming
 source ~/.zshrc
 cf dashboard
 ```
 
-<strong>README সুন্দরভাবে পড়তে:</strong> এই ফাইল খোলা অবস্থায় <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd> চাপো। Markdown preview-তে headings, tables ও HTML অংশ render হবে; HTML extension হিসেবে rename করার দরকার নেই।
+Dashboard না এলে Command Palette → **Developer: Reload Window**, তারপর **Practice: Open Dashboard**। এই README সুন্দর HTML/Markdown preview-তে পড়তে <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd> চাপো।
 
-## ২. Problem-এর sequence ও lock
+## প্রতিদিনের workflow
 
 <table>
-<tr><th>Order</th><th>Category</th><th>Problems</th></tr>
+<tr><th>ধাপ</th><th>করণীয়</th></tr>
+<tr><td>১. Read</td><td>Dashboard-এর <strong>Read Full Statement</strong> দিয়ে description ও samples পড়ো।</td></tr>
+<tr><td>২. Code</td><td><strong>Open Solution</strong> দিয়ে main.cpp-তে solution লিখে Cmd+S দিয়ে save করো।</td></tr>
+<tr><td>৩. Run</td><td><code>runcode</code> চালাও; নিজের input দাও।</td></tr>
+<tr><td>৪. Test</td><td><code>testcode</code> চালাও; original sample input/output দিয়ে পরীক্ষা হবে।</td></tr>
+<tr><td>৫. Submit</td><td>Dashboard-এর <strong>Submit</strong> button বা <code>submit</code> চালাও। Code clipboard-এ copy হবে, সাধারণ browser-এ Codeforces submit page খুলবে।</td></tr>
+<tr><td>৬. Verdict</td><td>Browser-এ GNU C++17 বেছে code paste করে Submit চাপো। Accepted হয়েছে কি না <strong>তুমি নিজে দেখবে</strong>।</td></tr>
+<tr><td>৭. Push</td><td>Accepted হলে terminal-এ <code>push this</code> চালাও। Solution, statement ও progress GitHub-এ commit/push হবে।</td></tr>
+</table>
+
+<strong>সহজ manual workflow:</strong> কোনো submission ID দিতে হবে না। কোনো API polling, snapshot comparison বা Cloudflare source verification default flow-তে নেই। <code>push this</code> Codeforces verdict পরীক্ষা করে না—তুমি Accepted দেখে command দিচ্ছো ধরে নেয়।
+
+```sh
+cf open 4A
+# solution লিখে save করো
+runcode
+testcode
+submit
+# browser-এ paste, Submit এবং Accepted নিজে দেখো
+push this
+# অথবা custom commit message:
+push this "Solve Watermelon"
+```
+
+## Commands
+
+| Command | কাজ |
+| --- | --- |
+| `cf dashboard` | VS Code dashboard |
+| `cf next` | প্রথম unfinished problem |
+| `cf open 4A` | unlocked local problem খোলে |
+| `runcode` | active problem compile/run; তুমি input দেবে |
+| `runcode problems/4A/main.cpp` | নির্দিষ্ট unlocked source চালায় |
+| `testcode` | active problem-এর সব original sample test |
+| `testcode --timeout 5` | প্রতি sample-এ ৫ সেকেন্ড timeout |
+| `submit` | code copy ও browser submit page; কোনো automatic submission নয় |
+| `push this` | active solution, statement ও portable progress commit/push |
+| `cf backup` | portable state export করে; নিজে Git push করে না |
+| `cf status` | catalogue ও progress JSON |
+| `cf setup afzalkhan101` | handle configure করে; browser login আলাদা |
+
+Dashboard-এর Run/Test/Submit buttons আগে open files save করে। Terminal commands-এর আগে নিজে save করো। Unlocked curriculum source save করলে সেটি active হয়। Input শেষ করতে প্রয়োজনমতো Ctrl+D, program থামাতে Ctrl+C।
+
+## Sample test-এর নিয়ম
+
+প্রতিটি stored original sample input-এ code চালিয়ে expected sample output-এর সঙ্গে মিলিয়ে PASS/FAIL দেখায়। Missing/modified sample hash ধরা হয়। Compile error হলে execution হয় না; default timeout প্রতি sample-এ ৩ সেকেন্ড।
+
+<strong>Sample PASS মানে Accepted নয়।</strong> Hidden tests শুধু Codeforces চালায়। Comparison whitespace উপেক্ষা করে; floating-point tolerance বা special checker reproduce করে না। Alternative valid output sample-এর সঙ্গে না-ও মিলতে পারে। Submit button sample PASS বাধ্যতামূলক করে না—তুমি কখন submit করবে ঠিক করবে।
+
+## Sequence ও progress
+
+<table>
+<tr><th>Order</th><th>Category</th><th>Count</th></tr>
 <tr><td>001–100</td><td>Basics</td><td>100</td></tr>
 <tr><td>101–200</td><td>Number Theory</td><td>100</td></tr>
 <tr><td>201–300</td><td>Algorithms</td><td>100</td></tr>
@@ -29,205 +78,86 @@ cf dashboard
 <tr><td>401–500</td><td>Mixed Practice</td><td>100</td></tr>
 </table>
 
-প্রতিটি category সহজ থেকে কঠিন rating অনুযায়ী সাজানো। শুরুতে শুধু <strong>Problem 001: 4A — Watermelon</strong> unlocked। তার পরের সব problem <strong>🔒 Locked</strong> থাকবে। প্রথমটির <strong>সঠিক submission-এর Accepted verdict ও source match যাচাই</strong> হলে 002 unlock হবে ও সামনে আসবে; একইভাবে 003…500। শুধু sample PASS বা নিজে Submit চাপলে unlock হবে না।
+শুরুতে 001 খোলা; পরেরগুলো locked। এই manual mode-এ <code>push this</code> দেওয়াকে তোমার <strong>Accepted confirmation</strong> হিসেবে record করা হয়, API-verified verdict হিসেবে নয়। Successful push-এর পর পরের problem সামনে আসে। GitHub push ব্যর্থ হলেও তোমার manual completion record local-এ থাকে; আগে আগের problem-এর push retry শেষ করো। শুধু sample PASS বা Submit button click completion record করে না। পুরোনো completed problem আবার পড়া যায়। Files disk-এ থাকার কারণে Explorer বা আলাদা compiler দিয়ে সরাসরি খোলা আটকানো হয় না।
 
-Accepted হওয়ার পর GitHub push ব্যর্থ হলেও যাচাইকৃত acceptance local-এ থাকে ও পরের problem unlocked থাকে। পুরোনো Accepted problem আবার পড়া ও practice করা যায়। Dashboard, <code>cf open</code>, <code>runcode</code>, <code>testcode</code> এবং নতুন submission preparation sequence lock মেনে চলে। Files local disk-এ থাকে—Explorer দিয়ে সরাসরি পড়া বা আলাদা compiler চালানো আটকানোর ব্যবস্থা এটি নয়।
+Category ও original topic tags dashboard ও statement preview-তে animated badges হিসেবে দেখায়। Reduced-motion preference থাকলে animation বন্ধ থাকে; GitHub-এ badge text দেখা যায়।
 
-## ৩. প্রতিদিনের পুরো workflow
-
-### Step 1 — Dashboard খোলো
-
-```sh
-cf dashboard
-```
-
-বর্তমান unfinished problem দেখবে। <strong>Read Full Statement</strong> চাপলে solution-এর পাশে statement preview খুলবে। <strong>Open Solution</strong> চাপলে <code>main.cpp</code> খুলবে। Category ও topic-এর animated badges দেখাবে—যেমন Basics, Math, Brute Force। Motion কমানোর system preference থাকলে animation বন্ধ থাকে।
-
-```sh
-cf next           # sequence-এর প্রথম unfinished problem খোলে
-cf open 4A        # নির্দিষ্ট unlocked problem খোলে, local library থেকে
-```
-
-### Step 2 — Code লিখে save করো
-
-প্রথম problem-এর solution: <code>problems/4A/main.cpp</code>। <kbd>Cmd</kbd> + <kbd>S</kbd> দিয়ে save করো। Curriculum source save করলে সেই unlocked problem active হয়। Dashboard-এর Run/Test/Submit buttons চালানোর আগে open files save করে। Terminal commands চালানোর আগে তোমাকে save করতে হবে।
-
-### Step 3 — নিজের input দিয়ে চালাও
-
-```sh
-runcode
-```
-
-C++17 দিয়ে compile হবে, তারপর input লিখবে। প্রয়োজনমতো <kbd>Ctrl</kbd> + <kbd>D</kbd> দিয়ে input শেষ বা <kbd>Ctrl</kbd> + <kbd>C</kbd> দিয়ে program বন্ধ করো। Compile error হলে program চলবে না।
-
-```sh
-runcode problems/4A/main.cpp   # unlocked file নির্দিষ্ট করে চালানো
-```
-
-### Step 4 — Official sample examples দিয়ে test করো
-
-```sh
-testcode
-testcode problems/4A/main.cpp
-testcode --timeout 5
-```
-
-প্রতিটি original sample input-এ program চালিয়ে expected sample output-এর সঙ্গে মেলায়। Sample files-এর hash যাচাই হয়; sample বদলে বা মুছে ফেললে test থামে। Default timeout প্রতি sample-এ 3 seconds; এটা Codeforces judge-এর time limit নয়।
-
-<table>
-<tr><th>Result</th><th>করণীয়</th></tr>
-<tr><td>PASS</td><td>সব sample pass হলে submit করতে পারো; hidden tests বাকি।</td></tr>
-<tr><td>FAIL</td><td>Expected/Actual output দেখো, code ঠিক করে save ও test করো।</td></tr>
-<tr><td>TIMEOUT</td><td>Infinite loop, input handling বা slow logic পরীক্ষা করো।</td></tr>
-<tr><td>Compile/runtime error</td><td>Error ঠিক করে আবার test করো।</td></tr>
-</table>
-
-<strong>সীমা:</strong> whitespace পার্থক্য উপেক্ষা করা হয়, কিন্তু floating-point tolerance বা custom checker reproduce হয় না। একাধিক সঠিক output থাকা problem-এ valid output-ও sample-এর সঙ্গে না মিলতে পারে। Sample PASS মানে Accepted নয়।
-
-### Step 5 — Manual submission শুরু করো
-
-```sh
-push this
-# নিজের commit message চাইলে:
-push this "Solve Watermelon"
-```
-
-এটা প্রথমে Git state ও সব stored sample পরীক্ষা করে, saved source-এর snapshot রাখে, code clipboard-এ copy করে এবং <strong>সাধারণ browser</strong>-এ submit page খোলে। Codeforces handle <code>afzalkhan101</code> configured আছে। Browser-এ ওই account-এ login করো, <strong>GNU C++17</strong> বেছে copied code paste করো এবং <strong>Submit</strong> চাপো। Website submission manual; automation browser-এর login/CAPTCHA ব্যবহার করা হচ্ছে না।
-
-তারপর terminal যখন চাইবে, <strong>সেই নতুন submission-এর link বা numeric ID</strong> paste করে Enter চাপো। Pending অবস্থায় code, branch বা Git HEAD বদলাবে না।
-
-### Step 6 — Verdict, source verification ও push
-
-Watcher exact submission ID, account, problem ও submission time যাচাই করে verdict দেখে। Accepted হলে server-side submitted source-এর সঙ্গে saved snapshot মেলায়। তারপর:
-
-<ul>
-<li><strong>Accepted + source match:</strong> পরের problem unlock ও সামনে আসে। Solution এবং statement একসঙ্গে commit হয়ে GitHub-এ push হয়।</li>
-<li><strong>WA/TLE/compile error:</strong> unlock বা push হয় না। Code ঠিক করে আবার চেষ্টা করো।</li>
-<li><strong>API/source blocked:</strong> verification শেষ না হওয়া পর্যন্ত unlock বা push হয় না।</li>
-</ul>
-
-প্রতি successful push-এ একই commit-এ যায় (portable progress backup-সহ):
+## GitHub-এ কী যায়
 
 ```text
-problems/4A/main.cpp       ← তোমার accepted solution
-problems/4A/problem.md     ← statement, constraints, samples ও attribution
-practice/state.json        ← portable progress ও পরের active problem
+problems/4A/main.cpp       solution
+problems/4A/problem.md     statement, constraints, samples ও attribution
+practice/state.json       portable progress
 ```
 
-Statement missing/empty হলে commit থামে। অন্য problem, credentials বা unrelated file automatic commit হয় না।
+এই তিনটি path commit হয়; unrelated staged changes থাকলে আগে নিজে commit/unstage করতে হবে। Existing local commits সাধারণ Git push-এর অংশ হিসেবে publish হতে পারে। Browser cookies, password, SSH key, `.venv`, build output ও `.cf-local` Git-এ যায় না। GitHub SSH authentication লাগবে।
 
-## ৪. Cloudflare/source verification আটকে গেলে
+## সমস্যা হলে
 
-Codeforces source page login বা Cloudflare দিয়ে আটকাতে পারে। তখন Accepted দেখা গেলেও source যাচাই ছাড়া push হবে না। Error-এ দেওয়া <strong>exact submission page</strong> সাধারণ browser-এ খোলো। সেখান থেকে <strong>শুধু submitted source code</strong> copy করে চালাও:
+| সমস্যা | করণীয় |
+| --- | --- |
+| `command not found` / পুরোনো push flow | `source ~/.zshrc` চালাও; এই clone-এর ভেতর থেকে command দাও |
+| Dashboard পুরোনো | Developer: Reload Window → Practice: Open Dashboard |
+| Locked | আগের problem Accepted দেখে `push this` দিয়ে completion record করো |
+| Clipboard নেই | VS Code থেকে code নিজে copy করো; submit page তবু খুলবে |
+| GitHub push failed | SSH/network ঠিক করে আগের problem-এর `push this` retry করো |
+| Other changes staged | নিজের staged changes আলাদাভাবে commit/unstage করো |
+| Source verification/snapshot-এর পুরোনো error | নতুন flow-তে লাগে না; shell reload করো। `cf submit` পুরোনো pending record archive করে |
 
-```sh
-cf watch YOUR_SUBMISSION_ID --source-clipboard
-```
+পুরোনো `cf watch`/verification helpers compatibility-এর জন্য code-এ থাকতে পারে; এই workflow-তে সেগুলো ব্যবহার করতে হবে না।
 
-<strong>এটি user-assisted source check:</strong> clipboard-এ Codeforces submission-এর code থাকতে হবে, local editor-এর code নয়। Account/problem/time/Accepted API checks এখানেও বাধ্যতামূলক। বিকল্প হিসেবে source ও submission link-সহ saved submission HTML দেওয়া যায়:
+## নতুন PC-তে restore
 
-```sh
-cf watch YOUR_SUBMISSION_ID --html "/path/to/submission.html"
-```
-
-Codeforces API-ও blocked থাকলে অপেক্ষা করে retry করো; blocked checks এড়িয়ে push হবে না।
-
-## ৫. Recovery ও troubleshooting
-
-<table>
-<tr><th>সমস্যা</th><th>সমাধান</th></tr>
-<tr><td>command not found</td><td><code>source ~/.zshrc</code> চালাও। Command এই folder বা subfolder থেকেই ব্যবহার করো।</td></tr>
-<tr><td>Dashboard নেই/পুরোনো দেখাচ্ছে</td><td>Command Palette → Developer: Reload Window → Practice: Open Dashboard।</td></tr>
-<tr><td>Locked</td><td>প্রথম unfinished problem-এর Accepted ও source verification শেষ করো; sample PASS যথেষ্ট নয়।</td></tr>
-<tr><td>Terminal বন্ধ/timeout/interruption</td><td><code>push this</code> আবার চালাও। Pending check resume করে; নিজে আবার submit করে না।</td></tr>
-<tr><td>GitHub push failed</td><td>SSH/network ঠিক করে <code>push this</code> দিয়ে retry করো। একই accepted commit ব্যবহার করবে।</td></tr>
-<tr><td>Source changed</td><td>Pending snapshot-এর version restore করো; অথবা <code>cf cancel</code> করে নতুন attempt শুরু করো।</td></tr>
-<tr><td>Already running</td><td>অন্য terminal-এর watcher শেষ করো বা Ctrl+C দিয়ে থামাও। একসঙ্গে দুটো watcher চলে না।</td></tr>
-<tr><td>Other changes staged / unpushed commits</td><td>নিজের staged/unpushed কাজ আলাদাভাবে ম্যানেজ করো। Workflow সেগুলো স্বয়ংক্রিয়ভাবে মুছে বা publish করে না।</td></tr>
-<tr><td>Wrong handle</td><td><code>cf setup YOUR_HANDLE</code>; browser account-ও একই হতে হবে।</td></tr>
-</table>
-
-```sh
-cf cancel          # local pending tracking archive/clear; submission বা commit delete করে না
-cf status          # catalogue ও local progress JSON
-cf setup afzalkhan101
-```
-
-## ৬. Files, offline access ও privacy
-
-<details>
-<summary><strong>Folder layout দেখো</strong></summary>
-
-```text
-practice/catalog.json       500 problem-এর sequence, category ও metadata
-problems/ID/main.cpp        solution
-problems/ID/problem.md      local statement ও sample examples
-problems/ID/samples/        original sample input/output
-problems/ID/metadata.json   provenance ও sample hashes
-scripts/                   CLI, sample runner, verification ও Git flow
-vscode-practice/           dashboard extension
-.cf-local/                 ignored progress, active problem ও pending snapshots
-build/                     ignored compiled binaries ও development artifacts
-```
-
-</details>
-
-৫০০টি statement ও sample local-এ আছে; পড়া, লেখা ও test-এর জন্য internet লাগে না। Codeforces submit/verification এবং GitHub push-এর জন্য internet প্রয়োজন। Login password terminal-এ দেওয়া লাগে না। <code>.cf-local/</code> private; share/commit করবে না। Progress local-এ থাকে; portable backup <code>practice/state.json</code>-এ থাকে। Accepted push-এ এই backup-ও যায়। নতুন clone local progress না পেলে backup থেকে sequence restore করে।
-
-Statement ও original <code>examples</code>: <a href="https://huggingface.co/datasets/open-r1/codeforces">Open R1 Codeforces dataset</a>, CC BY 4.0; original problems Codeforces authors-এর। Dataset snapshot বলে formatting বা নতুন corrections live page থেকে ভিন্ন হতে পারে। Generated tests/checkers, editorials বা solutions যোগ করা হয়নি। Duplicate aliases ও interactive/file-I/O problems বাদ দেওয়া হয়েছে। Category tags overlap করতে পারে, problem repeat হয় না। GitHub tags-এর text দেখায়; animation VS Code preview/dashboard-এ হয়।
-
-## ৭. Reinstall ও developer checks
-
-Daily commands-এর জন্য Python 3, C++17 compiler, VS Code ও Git/SSH প্রয়োজন। macOS-এ <code>pbcopy/pbpaste</code>; Linux/WSL desktop-এ <code>wl-clipboard</code> বা <code>xclip</code> প্রয়োজন। Native Windows-এর বদলে WSL ব্যবহার করো; WSL clipboard/browser integration নিজে configure করতে হতে পারে। Python standard library দিয়েই daily CLI চলে; <code>.venv</code> activate করা বাধ্যতামূলক নয়।
-
-```sh
-python3 scripts/package_extension.py
-code --install-extension build/codeforces-practice-1.3.0.vsix --force
-python3 -m unittest discover -s scripts/tests -v
-node --check vscode-practice/extension.js
-node --check vscode-practice/media/dashboard.js
-```
-
-Shell setup পুনরায় লাগলে <code>~/.zshrc</code>-তে loader line থাকতে হবে:
-
-```sh
-source /Users/laptopheaven/competitive-programming/scripts/terminal.zsh
-```
-
-<blockquote>নিয়ম: Save → Run → Test → Manual Submit → Exact Accepted + Source Check → Next Unlock + Solution/Statement Push। যাচাই ব্যর্থ হলে automatic push হয় না।</blockquote>
-
-
-## ৮. নতুন PC-তে clone করে আগের workflow চালাও
-
-আগে VS Code (PATH-এ `code` command), Git, Python 3.10+, এবং `g++` C++17 compiler install করো। macOS/Linux bash বা zsh supported; native Windows setup নয়—WSL ব্যবহার করতে হবে। Codeforces browser login ও GitHub SSH key এই PC-তে আলাদাভাবে configure করো। Password, SSH private key বা browser cookies repo-তে থাকে না।
+Python 3.10+, Git, C++17 `g++`, VS Code-এর `code` command install করো। macOS বা Linux bash/zsh supported। Linux/WSL clipboard-এর জন্য `wl-clipboard` বা `xclip` desktop setup লাগে; native Windows setup নয়।
 
 ```sh
 git clone git@github.com:afzalkhan101/competitive-programming.git
 cd competitive-programming
 python3 scripts/setup.py
-```
-
-Setup শেষের নির্দেশ অনুযায়ী shell reload করো:
-
-```sh
-source ~/.zshrc     # zsh হলে
-# অথবা bash হলে: source ~/.bashrc
+source ~/.zshrc         # bash হলে source ~/.bashrc
 code .
 ```
 
-VS Code-এ প্রয়োজনে **Developer: Reload Window**, তারপর **Practice: Open Dashboard**। Shell setup clone-এর বর্তমান location ব্যবহার করে; পুরোনো PC-এর absolute path লাগে না। `cf open`, `runcode`, `testcode`, `push this` আগের মতো চলবে। Python `.venv`, downloaded packages বা build binaries copy করার দরকার নেই। Local statement ও samples সব Git-এ আছে।
+GitHub SSH ও Codeforces browser login নতুন PC-তে আলাদাভাবে configure করো। Setup dashboard install ও portable progress restore করবে। Clone-এর location বদলালেও commands কাজ করে। Pending process, unsynced edits বা login credentials restore হয় না।
 
-<strong>কী restore হবে:</strong> 500 problems, code, statements, samples, tags, lock sequence, backed-up acceptance/progress, configured handle ও last backed-up active problem। <strong>কী restore হবে না:</strong> browser login, SSH credentials, running process, private pending submission বা uncommitted/unsynced edits। নতুন PC-তে নতুন করে login করতে হবে।
-
-প্রতি Accepted solution push-এ `practice/state.json`-ও update/push হয়। Accepted হওয়ার আগেই PC বদলালে unsolved code ও active selection backup করতে:
+Accepted হওয়ার আগেই সব বর্তমান কাজ backup করতে:
 
 ```sh
 cf backup
-# Changed files review করে explicit Git backup:
 git status
 git add -A
 git commit -m "Back up practice work"
 git push origin HEAD
 ```
 
-এই explicit Git backup Codeforces submission করে না। `.cf-local`, `.venv`, `build` ও credentials ignore-ই থাকবে। নতুন PC-তে clone-এর বদলে পুরোনো checkout update করলে আগে নিজের local কাজ commit/backup করে `git pull --ff-only` করো। Local progress থাকলে সেটি backup-এর ওপর priority পায়; একাধিক PC-তে একই সময়ে practice চালালে local progress conflict নিজে review করতে হবে।
+## Files ও provenance
+
+<details>
+<summary><strong>Folder layout</strong></summary>
+
+```text
+practice/catalog.json       500 problem-এর sequence
+practice/state.json         portable progress ও active selection
+problems/ID/main.cpp        solution
+problems/ID/problem.md      local statement
+problems/ID/samples/        original sample input/output
+problems/ID/metadata.json   provenance ও sample hashes
+scripts/                   CLI ও setup
+vscode-practice/           local dashboard
+.cf-local/                 ignored private local state
+build/                     ignored binaries/artifacts
+```
+
+</details>
+
+Statement ও original examples: [Open R1 Codeforces dataset](https://huggingface.co/datasets/open-r1/codeforces), CC BY 4.0; original problems Codeforces authors-এর। Dataset snapshot বলে live statement-এর নতুন corrections/formatting ভিন্ন হতে পারে। Generated tests, editorials ও solutions যোগ করা হয়নি। Duplicate aliases ও interactive/file-I/O problems বাদ দেওয়া হয়েছে।
+
+## Developer checks
+
+```sh
+python3 -m unittest discover -s scripts/tests -v
+python3 scripts/package_extension.py
+code --install-extension build/codeforces-practice-1.6.0.vsix --force
+```
+
+Statement preview-এর উপরে **← Back to Dashboard** button দিয়ে dashboard-এ ফেরা যায়। Preview toolbar-এর back-arrow command-ও একই dashboard খোলে।

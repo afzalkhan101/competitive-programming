@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 284A · Cows and Primitive Roots
 
 <!-- practice-tags:start -->

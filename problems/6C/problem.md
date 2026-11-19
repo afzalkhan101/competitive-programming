@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 6C · Alice, Bob and Chocolate
 
 <!-- practice-tags:start -->

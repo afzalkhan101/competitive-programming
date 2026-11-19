@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 75A · Life Without Zeros
 
 <!-- practice-tags:start -->

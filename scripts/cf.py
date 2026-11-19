@@ -235,7 +235,9 @@ def main():
     testing.add_argument('--timeout', type=float, default=3)
     configuring = commands.add_parser('setup', help='Set your Codeforces handle; no automated browser login')
     configuring.add_argument('handle')
-    submitting = commands.add_parser('submit', help='Submit latest problem and push only after Accepted')
+    pushing = commands.add_parser('push', help='Commit and push the current problem after you manually check Accepted')
+    pushing.add_argument('message', nargs='?', default='')
+    submitting = commands.add_parser('submit', help='Copy saved code and open the normal browser submission page')
     submitting.add_argument('message', nargs='?', default='')
     commands.add_parser('backup', help='Export portable progress/active problem without private credentials')
     commands.add_parser('cancel', help='Cancel pending local submission tracking')
@@ -258,6 +260,9 @@ def main():
         if args.command == 'cancel':
             import cf_submit
             return cf_submit.cancel()
+        if args.command == 'push':
+            import cf_submit
+            return cf_submit.push_ready(args.message)
         if args.command == 'watch':
             import cf_submit
             return cf_submit.watch(args.submission, args.html, args.source_clipboard, args.timeout)

@@ -41,5 +41,9 @@ function push() {
         return 1
     fi
     shift
-    cf submit "$*"
+    cf push "$*"
+}
+
+function submit() {
+    cf submit "$@"
 }

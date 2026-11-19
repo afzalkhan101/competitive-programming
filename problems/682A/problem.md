@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 682A · Alyona and Numbers
 
 <!-- practice-tags:start -->

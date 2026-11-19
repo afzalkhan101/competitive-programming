@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 131C · The World is a Theatre
 
 <!-- practice-tags:start -->

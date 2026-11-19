@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 562B · Clique in the Divisibility Graph
 
 <!-- practice-tags:start -->

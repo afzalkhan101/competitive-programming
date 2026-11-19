@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 501B · Misha and Changing Handles
 
 <!-- practice-tags:start -->

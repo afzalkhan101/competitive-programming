@@ -124,7 +124,8 @@ class WatchTests(unittest.TestCase):
         html=self.root/'submission.html';html.write_text('<a href="/contest/4/submission/123">123</a><pre id="program-source-text">int main(){}\n</pre>')
         with patch.object(submission,'api',return_value=[self.row]),patch.object(submission,'accepted_push') as push:
             submission.watch('123',str(html))
-            saved=push.call_args[0][0]
+            push.assert_not_called()
+            saved=json.loads((self.local/'pending.json').read_text())
             self.assertEqual(saved['verifiedSourceHash'],self.state['sha256'])
             self.assertEqual(saved['verifiedVerdict'],'OK')
     def test_cloudflare_never_pushes(self):

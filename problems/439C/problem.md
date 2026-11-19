@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 439C · Devu and Partitioning of the Array
 
 <!-- practice-tags:start -->

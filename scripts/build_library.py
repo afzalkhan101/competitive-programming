@@ -95,7 +95,8 @@ def build(cache):
         if statement.exists() and not (folder / 'metadata.json').exists():
             shutil.copy2(statement, folder / 'previous-description.md')
         url = f'https://codeforces.com/problemset/problem/{row["contest_id"]}/{row["index"]}'
-        text = f'# {pid} · {row["title"]}\n\n[Codeforces problem]({url}) · Rating {row["rating"]}\n\nTime: {row["time_limit"]} seconds · Memory: {row["memory_limit"]} MB\n\n'
+        text = '<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>\n\n'
+        text += f'# {pid} · {row["title"]}\n\n[Codeforces problem]({url}) · Rating {row["rating"]}\n\nTime: {row["time_limit"]} seconds · Memory: {row["memory_limit"]} MB\n\n'
         badges = f'<span class="practice-tag category-tag" data-category="{html.escape(group, quote=True)}">{html.escape(category)}</span>'
         badges += ''.join(f'<span class="practice-tag">{html.escape(tag)}</span>' for tag in row['tags'])
         text += f'<!-- practice-tags:start -->\n<div class="practice-tags" aria-label="Category and topic tags">{badges}</div>\n<!-- practice-tags:end -->\n\n'

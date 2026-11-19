@@ -1,3 +1,5 @@
+<a class="practice-back" href="vscode://local.codeforces-practice/dashboard">← Back to Dashboard</a>
+
 # 742A · Arpa’s hard exam and Mehrdad’s naive cheat
 
 <!-- practice-tags:start -->
