@@ -5,13 +5,20 @@
     "4A": {
       "samplesPassed": true,
       "testedHash": "d157c9f2434cb3c900bc96c0cac0fccd1e6df384ab24e4df8e1cc1703b096290",
-      "updatedAt": 1794586122.028446,
+      "updatedAt": 1794586257.7284951,
+      "status": "accepted",
+      "acceptance": "user-confirmed"
+    },
+    "9A": {
+      "samplesPassed": true,
+      "testedHash": "3fcb2173085afaeb9910db32a9424bfc13b64dc88fd4d35c3bcfef456fea33c5",
+      "updatedAt": 1795051455.698265,
       "status": "accepted",
       "acceptance": "user-confirmed"
     }
   },
   "active": {
-    "id": "4A",
-    "source": "problems/4A/main.cpp"
+    "id": "9A",
+    "source": "problems/9A/main.cpp"
   }
 }

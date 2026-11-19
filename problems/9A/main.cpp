@@ -1,18 +1,24 @@
+
 #include <iostream>
-#include <vector>
 #include <algorithm>
-#include <string>
-#include <numeric>
-#include <map>
-#include <set>
-#include <queue>
 using namespace std;
 
-int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
+int gcd(int a, int b) {
+    return b == 0 ? a : gcd(b, a % b);
+}
 
-    // Write your solution here.
+int main() {
+    int Y, W;
+    cin >> Y >> W;
+
+    int mx = max(Y, W);
+
+    int numerator = 7 - mx;
+    int denominator = 6;
+
+    int g = gcd(numerator, denominator);
+
+    cout << numerator / g << "/" << denominator / g << endl;
 
     return 0;
 }
