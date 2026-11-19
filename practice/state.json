@@ -12,13 +12,18 @@
     "9A": {
       "samplesPassed": true,
       "testedHash": "3fcb2173085afaeb9910db32a9424bfc13b64dc88fd4d35c3bcfef456fea33c5",
-      "updatedAt": 1795051455.698265,
+      "updatedAt": 1795051459.757617,
       "status": "accepted",
       "acceptance": "user-confirmed"
+    },
+    "12A": {
+      "status": "accepted",
+      "acceptance": "user-confirmed",
+      "updatedAt": 1795108978.840378
     }
   },
   "active": {
-    "id": "9A",
-    "source": "problems/9A/main.cpp"
+    "id": "12A",
+    "source": "problems/12A/main.cpp"
   }
 }
